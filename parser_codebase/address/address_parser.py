@@ -1,6 +1,3 @@
-# TODO
-# TODO : Map the country ID values from numeric to textual
-
 import csv
 import xml.etree.ElementTree as ET
 
@@ -11,10 +8,20 @@ root = tree.getroot()
 # Namespace
 ns = {"ns": "http://www.un.org/sanctions/1.0"}
 
+# Create a mapping from FeatureVersionID to FixedRef
+feature_to_fixed_ref = {}
+for party in root.findall(".//ns:DistinctParty", ns):
+    fixed_ref = party.attrib["FixedRef"]
+    for feature in party.findall(".//ns:Feature", ns):
+        for version in feature.findall(".//ns:FeatureVersion", ns):
+            feature_version_id = version.attrib["ID"]
+            feature_to_fixed_ref[feature_version_id] = fixed_ref
+
 # Define CSV file header and path
 csv_file_path = "parser_codebase/address/address.csv"
 fieldnames = [
     "ID",
+    "FixedRef",
     "AreaCodeID",
     "CountryID",
     "CountryRelevanceID",
@@ -39,6 +46,7 @@ locations = root.findall(".//ns:Location", ns)
 for location in locations:
     data = {
         "ID": location.attrib["ID"],
+        "FixedRef": "",
         "AreaCodeID": "",
         "CountryID": "",
         "CountryRelevanceID": "",
@@ -88,7 +96,9 @@ for location in locations:
     # Extract FeatureVersionID from FeatureVersionReference
     feature_version = location.find(".//ns:FeatureVersionReference", ns)
     if feature_version is not None:
-        data["FeatureVersionID"] = feature_version.attrib["FeatureVersionID"]
+        feature_version_id = feature_version.attrib["FeatureVersionID"]
+        data["FeatureVersionID"] = feature_version_id
+        data["FixedRef"] = feature_to_fixed_ref.get(feature_version_id, "")
 
     # Write data to CSV
     with open(csv_file_path, "a", newline="", encoding="utf-8") as csvfile:
