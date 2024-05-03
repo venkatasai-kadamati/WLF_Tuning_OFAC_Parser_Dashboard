@@ -10,7 +10,7 @@
 ________________________________
 
 1. ask what does issued by refer? is it issuing country or issuing authority
-  ### ASK : ALEX
+  ### ASK : ALEX --- resolved 
 2. Test the authority values 
    - 33862,1619
 

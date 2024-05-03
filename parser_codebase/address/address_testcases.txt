@@ -29,12 +29,12 @@
                         Line 168225:           <Comment>Chinese Simplified</Comment>
                         Line 168236:           <Comment />
                         
-        - #### ASK : ALEX, do we need to even parse the non-latin text 
+        - #### ASK : ALEX, do we need to even parse the non-latin text -- resolved
 
 3. Test the quote's entry present in the fixedRef 
         - locationID's : 10157
         - For some figure out why quotes are added in the final csv output and why """"" thse are noticed
-        - **** SOL: The issue doesn't persist when opened in excel #### ASK : ALEX
+        - **** SOL: The issue doesn't persist when opened in excel #### ASK : ALEX -- resolved
 
 
 4. Country columns      
