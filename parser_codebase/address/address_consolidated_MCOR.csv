@@ -24,7 +24,7 @@
 359,11190,11190,1413,200359,,,,,,,,,,,
 360,11190,11190,1413,200360,,,,,,,,,,,
 361,11113,11113,1413,200361,,,,,,,,,,,
-362,11143,11143,1413,200362,,,"Baja California 255, Edificio B. Oficina 103, Condesa",,,"Mexico, D.F.",,,,6500,
+362,11143,11143,1413,200362,,,"Baja California 255, Edificio B. Oficina 103, Condesa",,,"Mexico, D.F.",,,,06500,
 363,11190,11190,1413,200363,,,,,,,,,,,
 365,11143,11143,1413,200365,,,"1649 Adolfo Prieto, Colonia del Valle",,,Mexico City,,,,,
 376,11196,11196,1413,200376,,,"Case Postale 236, 10 Bis Rue Du Vieux College 12-11",,,Geneva,,,,,
@@ -294,7 +294,7 @@
 5228,11212,11212,1413,205228,,,"525 International Parkway, Suite 509",,,Richardson,,TX,,75081,
 5229,11212,11212,1413,205229,,,P.O. Box 832390,,,Richardson,,TX,,75083,
 5230,11212,11212,1413,205230,,,9250 S. Harlem Avenue,,,Bridgeview,,IL,,,
-5231,11212,11212,1413,205231,,,345 E. Railway Avenue,,,Paterson,,NJ,,7503,
+5231,11212,11212,1413,205231,,,345 E. Railway Avenue,,,Paterson,,NJ,,07503,
 5232,11292,11292,1413,205232,,,,,,Hebron,,,,,
 5233,11291,11291,1413,205233,,,,,,Gaza Strip,,,,,
 5239,11212,11212,1413,205239,,,"12798 Rancho Penasquitos Blvd., Suite F",,,San Diego,,CA,,92128,
@@ -970,7 +970,7 @@
 6864,11136,11136,1413,206864,,,"A-1-8 Pangsapuri Sri Tanjung, Jalan Sky BS2, Bukit Sentosa Rawang",,,Selangor,,,,48300,
 9345,11094,11094,1413,209345,,,Holdenweg 76,,,Essen,,,,45143,
 6867,11094,11094,1413,206867,,,"Clemens-August Strasse 10, Kolpinghaus",,,Beckum,,,,59269,
-6868,11094,11094,1413,206868,,,Leipziger Strasse 64,,,Altenburg,,,,4600,
+6868,11094,11094,1413,206868,,,Leipziger Strasse 64,,,Altenburg,,,,04600,
 47766,11031,11031,1413,247766,,,,,,,,,,,
 6871,11094,11094,1413,206871,,,"Wilhelm-Strasse 45, 59269",,,Beckum,,,,,
 6883,11160,11160,1413,206883,,,"ST-1/A, Gulshan-e-Iqbal, Block 2",,,Karachi,,,,75300,
@@ -1167,7 +1167,7 @@
 7711,11081,11081,1413,207711,,,Boyaca 1012 Y P. Icaza,,,Guayaquil,,,,,
 7712,11079,11079,1413,207712,,,"Av. 27 De Febrero No. 102, Edif Miguel Mejia Urr. El Vergel",,,Santo Domingo,,,,,
 7713,11216,11216,1413,207713,,,1ra Avenida de Los Palos Grandes,Centro Comercial Quinora P.B.,Locales L-1A y L-2A,Caracas,,,,,
-7724,11143,11143,1413,207724,,,Calle Rio Rhin No. 64,P.B. Col. Cuauhtemoc C.P.,,Mexico City D.F.,,,,65000,
+7724,11143,11143,1413,207724,,,Calle Rio Rhin No. 64,P.B. Col. Cuauhtemoc C.P.,,Mexico City D.F.,,,,065000,
 10190,11035,11035,1413,210190,,,Av. Colon 119 Piso 3 Of. 6 (CP-X5000EPB),,,Cordoba,,,,,
 10191,11035,11035,1413,210191,,,Rivadavia 209 (CP-5500),,,Mendoza,,,,,
 10192,11035,11035,1413,210192,,,Sarmiento 854 Piso 8 Of. 3 y 4 (CP-S2000CMN),,,Rosario,,Santa Fe,,,
@@ -1751,7 +1751,7 @@
 12213,11107,11107,1413,212213,,,,,,,,,,,
 12214,11160,11160,1413,212214,,,,,,,,,,,
 12215,11210,11210,1413,212215,,,,,,,,,,,
-53606,11044,11044,1413,253606,,,Official residence of the President of the Republic of Belarus Drozdiy,"pr-d Drozdiy, 11",,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
+53606,11044,11044,1413,253606,,,Official residence of the President of the Republic of Belarus Drozdiy,"pr-d Drozdiy, 11",,Minsk,Cyrillic: Минск,,,,
 53607,11044,11044,1413,253607,,,38 Karl Marx St.,,,Minsk,,,,,
 12217,11291,,,212217,,,,,,,,,,,
 12218,11291,,,212218,,,,,,,,,,,
@@ -1954,7 +1954,7 @@
 14083,11143,11143,1413,214083,,,c/o ESTANCIA INFANTIL NINO FELIZ S.C.,,,Culiacan,,Sinaloa,,,
 14084,11143,11143,1413,214084,,,Calle Ciudad de Hermosillo # 1168,Fraccionamiento Las Quintas,,Culiacan,,Sinaloa,,,
 14085,11143,11143,1413,214085,,,Calle Rio Quelite 210,Colonia Guadlupe,,Culiacan,,Sinaloa,,80220,
-14086,11143,11143,1413,214086,,,Avenida Universidad No. 1900,Colonia Copilco,,Coyoacan,,Distrito Federal,,4350,
+14086,11143,11143,1413,214086,,,Avenida Universidad No. 1900,Colonia Copilco,,Coyoacan,,Distrito Federal,,04350,
 14087,11143,11143,1413,214087,,,Calle Cerro de la Campana 649,Colonia Colinas de San Miguel,,Culiacan,,Sinaloa,,80060,
 14069,11143,11143,1413,214069,,,c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.,,,Culiacan,,Sinaloa,,,
 14070,11143,11143,1413,214070,,,c/o JAMARO CONSTRUCTORES S.A. DE C.V.,,,Culiacan,,Sinaloa,,,
@@ -2200,7 +2200,7 @@
 14428,11153,11153,1413,214428,,,M.G.R. Lemmens,str-09,,BM Landgraff,,,,6373,
 14429,11094,11094,1413,214429,,,Voelklinger Str. 8,,,Wuppertal,,,,42285,
 14430,11094,11094,1413,214430,,,Warburgstr. 15,,,Wuppertal,,,,42285,
-14431,11158,11158,1413,214431,,,P.O. Box 4742,Sofienberg,,Oslo,,,,506,
+14431,11158,11158,1413,214431,,,P.O. Box 4742,Sofienberg,,Oslo,,,,0506,
 14432,11195,11195,1413,214432,,,Box 44,,,Tumba,,,,147 21,
 14433,11076,11076,1413,214433,,,Langelinie 2A,"St, TV 1079",,Vejile,,,,7100,
 14434,11076,11076,1413,214434,,,P.O. Box 82,,,Herning,,,,7400,
@@ -2250,11 +2250,11 @@
 14627,11197,11197,1413,214627,,,,,,Damascus,,,,,
 14656,11044,11044,1413,214656,,,73 Dzerzhinskogo Avenue,,,Minsk,,,,220116,
 14657,11171,11171,1413,214657,,,"ul Trevskaya, 20/1",Room 536,,Moscow,,,,103789,
-14658,11209,11209,1413,214658,,,"ul Pavlovskaya, 29",,,Kiev,,,,1135,
+14658,11209,11209,1413,214658,,,"ul Pavlovskaya, 29",,,Kiev,,,,01135,
 14659,11094,11094,1413,214659,,,Oederweg 43,,,Frankfurt-am-Main,,,,D-60318,
 14660,11065,11065,1413,214660,,,Tower B 19-B Oriental Kenzo,48 Dongzhimenwai Street,Dongcheng District,Beijing,,,,100027,
 14661,11125,11125,1413,214661,,,GP 1 Apes Street,,,Riga,,,,LV-1039,
-14663,11212,11212,1413,214663,,,"13 Branch St., # 213",,,Methuen,,MA,,1844,
+14663,11212,11212,1413,214663,,,"13 Branch St., # 213",,,Methuen,,MA,,01844,
 14675,11291,,,214675,,,,,,,,,,,
 14676,11291,,,214676,,,,,,,,,,,
 14677,11291,,,214677,,,,,,,,,,,
@@ -2288,7 +2288,7 @@
 14698,11153,11153,1413,214698,,,Rietlanden 5 - A,,,Beverwijk,,,,1948,
 14699,11153,11153,1413,214699,,,Rietlanden 5 - 7,,,Beverwijk,,,,1948 NE,
 14697,11094,11094,1413,214697,,,Schwalbacher Strasse 19,,,Weisbaden,,,,65185,
-14696,11190,11190,1413,214696,,,Calle Serrano 52,,,Barcelona,,,,8031,
+14696,11190,11190,1413,214696,,,Calle Serrano 52,,,Barcelona,,,,08031,
 14694,11160,11160,1413,214694,,,"44 - 45, Royal Shopping Plaza, Industrial Estate, Hayatabad",,,Peshawar,,,,,
 14695,11160,11160,1413,214695,,,"53 Royal Shopping Plaza, Industrial Estate, Hayatabad",,,Peshawar,,,,,
 14693,11210,11210,1413,214693,,,P.O. Box 5456,,,Ajman,,,,,
@@ -3232,8 +3232,8 @@
 17444,11210,11210,1413,217444,,,"P.O. Box 261539, Jebel Ali",,,Dubai,,,,,
 17445,11109,11109,1413,217445,,,"No. 21 End of 9th St, Gandi Ave",,,Tehran,,,,,
 17446,11109,11109,1413,217446,,,"21, Africa Boulevard",,,Tehran,,,,,
-17448,11184,11184,1413,217448,,,"78 Shenton Way, #08-02",,,,,,,79120,
-17449,11184,11184,1413,217449,,,"78 Shenton Way, 26-02A Lippo Centre",,,,,,,79120,
+17448,11184,11184,1413,217448,,,"78 Shenton Way, #08-02",,,,,,,079120,
+17449,11184,11184,1413,217449,,,"78 Shenton Way, 26-02A Lippo Centre",,,,,,,079120,
 17454,11210,11210,1413,217454,,,"1703, 17th Floor, Dubai World Trade Center Tower",Sheikh Zayed Road,,Dubai,,,,,
 17455,11107,11107,1413,217455,,,"Office No. 99-A, Maker Tower ""F"" 9th Floor Cutte Pavade, Colabe",,,Mumbai,,,,700005,
 17457,11211,11211,1413,217457,,,4 Victoria Street,,,London,,,,SW1H 0NE,
@@ -3241,7 +3241,7 @@
 17460,11109,11109,1413,217460,,,P.O. Box 19395-6947,,,Tehran,,,,,
 17462,11094,11094,1413,217462,,,Koenigsallee 60 D,,,Dusseldorf,,,,40212,
 17464,11094,11094,1413,217464,,,Koenigsallee 60 D,,,Dusseldorf,,,,40212,
-17466,11184,11184,1413,217466,,,"7 Temasek Boulevard #07-02, Suntec Tower One",,,,,,,38987,
+17466,11184,11184,1413,217466,,,"7 Temasek Boulevard #07-02, Suntec Tower One",,,,,,,038987,
 17468,11109,11109,1413,217468,,,107 Dr Fatemi Avenue,,,Tehran,,,,14155/6363,
 17469,11210,11210,1413,217469,,,"Abdolaziz-Al-Masaeed Building, Sheikh Maktoom St., Deira, P.O. Box 2004",,,Dubai,,,,,
 17470,11210,11210,1413,217470,,,"P.O. Box 1867, Al Ain",,,Abu Dhabi,,,,,
@@ -3311,7 +3311,7 @@
 17681,11143,11143,1413,217681,,,,,,Hermosillo,,Sonora,,,
 17682,11143,11143,1413,217682,,,,,,Culiacan,,Sinaloa,,,
 17672,11143,11143,1413,217672,,,"General Victoriano Cepeda 2, Colonia Observatorio, Miguel Hidalgo",,,Mexico,,Distrito Federal,,11860,
-17673,11143,11143,1413,217673,,,"Louisiana No. 24, Esq. Montana, Col. Napoles, Del. Benito Juarez",,,Mexico,,Distrito Federal,,3810,
+17673,11143,11143,1413,217673,,,"Louisiana No. 24, Esq. Montana, Col. Napoles, Del. Benito Juarez",,,Mexico,,Distrito Federal,,03810,
 17674,11143,11143,1413,217674,,,"Periferico Sur #102, Col. Observatorio, Del. Miguel Hidalgo",,,Mexico,,Distrito Federal,,,
 17675,11143,11143,1413,217675,,,,,,Huixquilucan,,Estado de Mexico,,,
 17731,11188,11188,1413,217731,,,,,,Eyl,,,,,
@@ -4262,7 +4262,7 @@
 20561,11109,11109,1413,220561,,,"No 57, Lida St, Valiassr Ave, 19697",,,Tehran,,,,,
 20562,11109,11109,1413,220562,,,"No. 57, Lida St, After Vanak Sq, Vali-e Asr Ave, 19697",,,Tehran,,,,,
 20563,11109,11109,1413,220563,,,"Sadat Abad, Shahra Qod (Shahrak Gharb), Darya Ave",19697,,Tehran,,,,,
-20569,11109,11109,1413,220569,,,West Lavansai,,,Tehran,,,,9821,
+20569,11109,11109,1413,220569,,,West Lavansai,,,Tehran,,,,009821,
 20570,11109,11109,1413,220570,,,"Sa'adat Abaad, Shahrdari Sq Sarv Building, 9th Floor, Unit 5",,,Tehran,,,,,
 20571,11109,11109,1413,220571,,,"No 17, Balooch Alley, Vaezi St, Shariati Ave",,,Tehran,,,,,
 20575,11291,,,220575,,,,,,,,,,,
@@ -4343,20 +4343,20 @@
 20709,11143,11143,1413,220709,,,Calzada de los Fresnos,No 70-A - 103,Col. Ciudad Granja,Zapopan,,Jalisco,,45010,
 20710,11143,11143,1413,220710,,,Gaseoducto No. 7,Parque Industrial Puebla 2000,,Puebla,,Puebla,,72226,
 20711,11162,11162,1413,220711,,,,,,,,Colon,,,
-20712,11143,11143,1413,220712,,,Colima No. 323 Int. 9,Col. Roma Norte,Cuauhtemoc,Mexico City,,Distrito Federal,,6700,
+20712,11143,11143,1413,220712,,,Colima No. 323 Int. 9,Col. Roma Norte,Cuauhtemoc,Mexico City,,Distrito Federal,,06700,
 20713,11143,11143,1413,220713,,,Tenozique Manzana 189 Lote 28,Col. Pedregal de San Nicolas 1a,Tlalpan,Mexico City,,Distrito Federal,,14100,
 20714,11143,11143,1413,220714,,,Plaza El Palomar,Zona M Unico El P. Panor,Col. El Palomar,Tlajomulco,,Jalisco,,45645,
 20715,11143,11143,1413,220715,,,Paseo De Las Lomas 6272,Col. Lomas De Colli,,Zapopan,,Jalsico,,45037,
 20716,11143,11143,1413,220716,,,Calzada Fresnos No 70-A,Int. 102,Col. Ciudad Granja,Zapopan,,Jalisco,,45010,
 20717,11143,11143,1413,220717,,,Comerciantes No. 5395,Int. 11,Col. Jardines de Guadalupe,Zapopan,,Jalisco,,45030,
 20718,11143,11143,1413,220718,,,Colonias No. 269,,,Guadalajara,,Jalisco,,44100,
-20719,11143,11143,1413,220719,,,Calle Nueva York No. 304,Col. Napoles,Benito Juarez,Mexico City,,Distrito Federal,,3810,
-20720,11143,11143,1413,220720,,,Wisconsin No. 68,Col. Napoles,Benito Juarez,Mexico City,,Distrito Federal,,3810,
+20719,11143,11143,1413,220719,,,Calle Nueva York No. 304,Col. Napoles,Benito Juarez,Mexico City,,Distrito Federal,,03810,
+20720,11143,11143,1413,220720,,,Wisconsin No. 68,Col. Napoles,Benito Juarez,Mexico City,,Distrito Federal,,03810,
 20721,11143,11143,1413,220721,,,Uno No. 110,Col. Revoluciones,,Boca Del Rio,,Veracruz,,94296,
 20722,11143,11143,1413,220722,,,Colonias 269,,,Guadalajara,,Jalisco,,44160,
 20723,11143,11143,1413,220723,,,Avenida Vallarta Edif. Concentro,"No. 6503, Piso 16",Ciudad Granja,Zapopan,,Jalisco,,45010,
 20724,11143,11143,1413,220724,,,"Homero No. 418, Sexto Piso",Col. Polanco,Del Miguel Hidalgo,Mexico City,,Distrito Federal,,11570,
-20725,11143,11143,1413,220725,,,Benjamin Hill No. 178,Colonia Condesa,Cuauhtemoc,Mexico City,,Distrito Federal,,6140,
+20725,11143,11143,1413,220725,,,Benjamin Hill No. 178,Colonia Condesa,Cuauhtemoc,Mexico City,,Distrito Federal,,06140,
 20726,11143,11143,1413,220726,,,Vicente Guerrero No. 1261,Colonia Molino de Parra,,Municipio Morelia,,Michoacan,,58010,
 20727,11143,11143,1413,220727,,,Avenida Vallarta #6503,"Torre Corey, Piso 16",Col. Ciudad Granja,Zapopan,,Jalisco,,45010,
 20728,11143,11143,1413,220728,,,,,,Mexico City,,Distrito Federal,,,
@@ -5554,7 +5554,7 @@
 24956,11160,11160,1413,224956,,,,,,Miram Shah,,"NWA, FATA",,,
 24957,11160,11160,1413,224957,,,Danda Village,,,Miram Shah,,"NWA, FATA",,,
 24958,11291,,,224958,,,,,,,,,,,
-24963,11190,11190,1413,224963,,,"Passeig Verdauguer, 120",,,Igualada (Barcelona),,,,8700,
+24963,11190,11190,1413,224963,,,"Passeig Verdauguer, 120",,,Igualada (Barcelona),,,,08700,
 24964,11291,,,224964,,,,,,,,,,,
 24966,11109,11109,1413,224966,,,"Alley 10 and 3/10, No. 10",Behrestan Street,Sajad Boulevard,Mashhad,,,,,
 24967,11109,11109,1413,224967,,,"Number 4, 11th Narenjestan",Pasdaran Avenue,,Tehran,,,,,
@@ -5809,10 +5809,10 @@
 52486,11171,11171,1413,252486,,,"str. 1, 43, ul. Vorontsovskaya",,,Moscow,,,,109147,
 52488,11171,11171,1413,252488,,,Vorontsovskaya Str 43,,,Moscow,,,,109147,
 25805,11171,11171,1413,225805,,,Akademik Sakharov Ave 9,,,Moscow,,,,107996,
-52521,11171,11171,1413,252521,,,"Pr-kt, Akademika Sakharova, D. 9",,,Moscow,Cyrillic: Ð“Ð¾Ñ€Ð¾Ð´ ÐœÐ¾ÑÐºÐ²Ð°,,,107078,Cyrillic: 107078
+52521,11171,11171,1413,252521,,,"Pr-kt, Akademika Sakharova, D. 9",,,Moscow,Cyrillic: Город Москва,,,107078,Cyrillic: 107078
 25810,11171,11171,1413,225810,,,8/15 Korp. 3 ul. Rozhdestvenka,,,Moscow,,,,107996,
 25811,11171,11171,1413,225811,,,Bld 3 8/15,Rozhdestvenka St.,,Moscow,,,,107996,
-52487,11171,11171,1413,252487,,,19 ul. Vavilova,,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,117312,Cyrillic: 117312
+52487,11171,11171,1413,252487,,,19 ul. Vavilova,,,Moscow,Cyrillic: Москва,,,117312,Cyrillic: 117312
 26620,11209,11209,1413,226620,,,Prospect Zasyadko.13,,,Donetsk,,,,,
 25838,11209,11209,1413,225838,,,,,,,,Luhansk Region,,,
 53616,11171,11171,1413,253616,,,,,,,,,,,
@@ -6086,8 +6086,8 @@
 26944,11157,11157,1413,226944,,,B1 Kukbawa,Opposite National Stadium,,Abuja,,FCT,,,
 26946,11157,11157,1413,226946,,,"88B, T/Balewa Road",,,,,Kano State,,,
 26988,11183,11183,1413,226988,,,,,,,,,,,
-26983,11115,11115,1413,226983,,,"1-117 Shukuatocho, Nakamura Ward",,,Nagoya,Japanese: åå¤å±‹å¸‚,Aichi,Japanese: æ„›çŸ¥çœŒ,,
-26985,11115,11115,1413,226985,,,Midori-ku,,,Nagoya,Japanese: åå¤å±‹å¸‚,Aichi,Japanese: æ„›çŸ¥çœŒ,,
+26983,11115,11115,1413,226983,,,"1-117 Shukuatocho, Nakamura Ward",,,Nagoya,Japanese: 名古屋市,Aichi,Japanese: 愛知県,,
+26985,11115,11115,1413,226985,,,Midori-ku,,,Nagoya,Japanese: 名古屋市,Aichi,Japanese: 愛知県,,
 27043,11197,11197,1413,227043,,,Fayez Mansour Street,Bldg No/35/-Floor No/2/Baramkeh,P.O. Box 34081,Damascus,,,,,
 27045,11126,11126,1413,227045,,,Tayyouneh-Bdeir Building,2nd Floor,,Beirut,,,,,
 27047,11126,11126,1413,227047,,,Tayyouneh-Bdeir Building,2nd Floor,,Beirut,,,,,
@@ -6199,22 +6199,22 @@
 52531,11171,11171,1413,252531,,,"Str. Dolgorukovskaya, 7, Novoslobodskaya",,,Moscow,,,,127006,
 27679,11044,11044,1413,227679,,,29 Pobeditelei ave.,,,Minsk,,,,220004,
 52523,11044,11044,1413,252523,,,"Myasnikova, 32",,,Minsk,,,,220050,
-27683,11209,11209,1413,227683,,,"12, Shevchenko lane",,,Kyiv,,,,1001,
+27683,11209,11209,1413,227683,,,"12, Shevchenko lane",,,Kyiv,,,,01001,
 27686,11065,11065,1413,227686,,,Suite 5808,"58/F, Two International Finance Center",8 Finance Street Central,Hong Kong,,,,,
 27696,11196,11196,1413,227696,,,"Rue Place du Lac 2, 1204",,,Geneva,,,,,
-27704,11089,11089,1413,227704,,,Tullimiehentie 4-6,,,Vantaa,,,,1530,
+27704,11089,11089,1413,227704,,,Tullimiehentie 4-6,,,Vantaa,,,,01530,
 27705,11196,11196,1413,227705,,,Chemin des Papillons 4,,,Geneva/Cointrin,,,,1216,
 27707,11170,11170,1413,227707,,,,,,Bucharest,,,,,
 27708,11171,11171,1413,227708,,,,,,St. Petersburg,,,,,
 27709,11089,11089,1413,227709,,,,,,Espoo,,,,,
 27710,11089,11089,1413,227710,,,Kannelkatu 8,,,Lappeenranta,,,,53100,
 27711,11089,11089,1413,227711,,,PL 148,,,Lappeenranta,,,,53101,
-27713,11089,11089,1413,227713,,,Ukonvaaja 2 A,,,Espoo,,,,2130,
+27713,11089,11089,1413,227713,,,Ukonvaaja 2 A,,,Espoo,,,,02130,
 27719,11278,11278,1413,227719,,,De Castro Street 24,Akara Building,Wickhams Cay 1,Road Town,,Tortola,,,
 27795,11074,11074,1413,227795,,,,,,Nicosia,,,,,
 27718,11074,11074,1413,227718,,,12 Esperidon Street,4th Floor,,Nicosia,,,,1087,
 27721,11171,11171,1413,227721,,,Beregovaya,Street 6,Apartment 25,Moscow,,,,125367,
-27723,11089,11089,1413,227723,,,Tanskarlantie 9,,,Jorvas,,,,2420,
+27723,11089,11089,1413,227723,,,Tanskarlantie 9,,,Jorvas,,,,02420,
 27727,11211,11211,1413,227727,,,,,,London,,,,,
 27730,11209,11209,1413,227730,,,Roosevelt Street 3,,,Yalta,,Crimea,,98600,
 27731,11209,11209,1413,227731,,,"5, Roosevelt Str.",,,Yalta,,Crimea,,98600,
@@ -6251,8 +6251,8 @@
 27784,11205,11205,1413,227784,,,c/o Milenyum Denizcilik Gemi Hizmetleri Acentelik ve Ozel Ogretim Hizmetleri Ltd. Sti,Nazli Sokak 9,"Halilrifatpasa Mah, Sisli",Istanbul,,,,34384,
 27785,11140,11140,1413,227785,,,Trust Company Complex,Ajeltake Road,Ajeltake Island,Majuro,,,,,
 27794,11173,11173,1413,227794,,,P.O. Box 556,,,Charlestown,,,,,
-27799,11184,11184,1413,227799,,,36-02 A,"Suntec Tower, 9",Temasek Boulevard,Singapore,,,,38989,
-27800,11184,11184,1413,227800,,,9 Temasek Boulevard,36-02A,,Singapore,,,,38989,
+27799,11184,11184,1413,227799,,,36-02 A,"Suntec Tower, 9",Temasek Boulevard,Singapore,,,,038989,
+27800,11184,11184,1413,227800,,,9 Temasek Boulevard,36-02A,,Singapore,,,,038989,
 27801,11162,11162,1413,227801,,,,,,,,Panama City,,,
 27803,11278,11278,1413,227803,,,PO Box 957,Offshore Incorporations Centre Road Town,Tortola,,,,,,
 50187,11197,11197,1413,250187,,,,,,,,,,,
@@ -6304,7 +6304,7 @@
 28125,91501,91501,1413,228125,,,,,,Juba,,,,,
 28126,11208,11208,1413,228126,,,,,,Kampala,,,,,
 28127,11087,11087,1413,228127,,,,,,Addis Ababa,,,,,
-28128,11118,11118,1413,228128,,,P.O. Box 73699,,,Nairobi,,,,200,
+28128,11118,11118,1413,228128,,,P.O. Box 73699,,,Nairobi,,,,00200,
 28136,11082,11082,1413,228136,,,"35 St. Abd al-Aziz al-Sud, al-Manial",,,Cairo,,,,,
 28169,11171,11171,1413,228169,,,,,,,,,,,
 28173,11197,11197,1413,228173,,,,,,,,,,,
@@ -6348,18 +6348,18 @@
 28410,11171,11171,1413,228410,,,46 Molodezhnaya St.,,,Odintsovo,,Moscow Region,,143002,
 28412,11171,11171,1413,228412,,,Novoivanovskoe workers settlement,,,Odintsovo,,Moscow Region,,143026,
 28413,11171,11171,1413,228413,,,6 Vorobievskoe shosse,,,Moscow,,,,119285,
-52544,11171,11171,1413,252544,,,26 ul. Pravdy,,,Moscow,Cyrillic: Ð³. ÐœÐ¾ÑÐºÐ²Ð°,,,125124,Cyrillic: 125124
+52544,11171,11171,1413,252544,,,26 ul. Pravdy,,,Moscow,Cyrillic: г. Москва,,,125124,Cyrillic: 125124
 28426,11044,11044,1413,228426,,,6 Mulyavina Boulevard,,,Minsk,,,,220005,
-28428,11209,11209,1413,228428,,,46 Volodymyrska street,,,Kyiv,,,,1601,
-52516,11209,11209,1413,252516,,,46 Vladimirskaya St,,,Kyiv,,,,1601,
+28428,11209,11209,1413,228428,,,46 Volodymyrska street,,,Kyiv,,,,01601,
+52516,11209,11209,1413,252516,,,46 Vladimirskaya St,,,Kyiv,,,,01601,
 28430,11038,11038,1413,228430,,,Schwarzenbergplatz 3,,,Vienna,,,,1010,
 28444,11044,11044,1413,228444,,,"14, Moskovskaya Street",,,Minsk,,,,220007,
 28446,11036,11036,1413,228446,,,"46 Ul, Nalbandyan",,,Yerevan,,,,375010,
-28449,11117,11117,1413,228449,,,28 Timiryazev Street,,,Almaty,,,,50040,
+28449,11117,11117,1413,228449,,,28 Timiryazev Street,,,Almaty,,,,050040,
 28451,11039,11039,1413,228451,,,38 Khatai ave. Nasimi district,,,Baku,,,,AZ 1008,
 28452,11039,11039,1413,228452,,,"60, Samed Vurgun str",,,Baku,,,,1022,
 28454,11033,11033,1413,228454,,,"22, Rua da Missao",,,Luanda,,,,,
-28456,11093,11093,1413,228456,,,"14, G. Chanturia Street",,,Tbilisi,,,,114,
+28456,11093,11093,1413,228456,,,"14, G. Chanturia Street",,,Tbilisi,,,,0114,
 28462,11171,11171,1413,228462,,,12 Presnenskaya nab.,,,Moscow,,,,123100,
 52492,11171,11171,1413,252492,,,"4th Lesnoy Pereulok 4, Capital Plaza",,,Moscow,,,,125047,
 52493,11171,11171,1413,252493,,,"Room 410, Stolyarniy Pereulok 3, bld 34",,,Moscow,,,,123022,
@@ -6397,14 +6397,14 @@
 28544,11171,11171,1413,228544,,,"Ul. Bolshaya Tatarskaya D. 35, Str. 5",,,Moscow,,,,115184,
 56525,11171,11171,1413,256525,,,"176, Prospekt Mira",,,Moscow,,,,129366,
 28561,11171,11171,1413,228561,,,27 Stromynka Ul.,,,Moscow,,,,107076,
-52481,11171,11171,1413,252481,,,"bld.1,Polyanka Bolshaya str. 50/1",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,119180,Cyrillic: 119180
+52481,11171,11171,1413,252481,,,"bld.1,Polyanka Bolshaya str. 50/1",,,Moscow,Cyrillic: Москва,,,119180,Cyrillic: 119180
 28576,11171,11171,1413,228576,,,Turchaninov Pereulok D. 6,"Str. 2, Of. 105",,Moscow,,,,119048,
 28592,11171,11171,1413,228592,,,d. 51 korp. 2 ul. Sovetskaya,,,Kirov,,Kirovskaya obl.,,610008,
 28636,11171,11171,1413,228636,,,"Entrance 9, 12, Krasnopresnenskaya emb.",,,Moscow,,,,123610,
 53786,11171,11171,1413,253786,,,"1, Ul. Bolshaya Pionerskaya",,,Moscow,,,,115054,
 28639,11143,11143,1413,228639,,,Naciones Unidas Numero 6885-22,Colonia Jardines del Tule,,Zapopan,,Jalisco,,,
 28641,11143,11143,1413,228641,,,,,,Zapopan,,Jalisco,,,
-28643,11143,11143,1413,228643,,,Dr. Jose Maria Vertiz 646,Col. Narvarte,,Mexico,,DF,,3010,
+28643,11143,11143,1413,228643,,,Dr. Jose Maria Vertiz 646,Col. Narvarte,,Mexico,,DF,,03010,
 28645,11143,11143,1413,228645,,,,,,Guadalajara,,Jalisco,,,
 28647,11143,11143,1413,228647,,,,,,Guadalajara,,Jalisco,,,
 28649,11143,11143,1413,228649,,,Av. Americas 1501,Piso 20 Punto Sao Paulo,Col. Providencia,Guadalajara,,Jalisco,,C.P. 44630,
@@ -6473,7 +6473,7 @@
 31807,11143,11143,1413,231807,,,,,,,,,,,
 28849,11143,11143,1413,228849,,,Calle 10 Sin Numero,,,Localidad Genaro Estrada,,Sinaloa,,,
 28850,11209,11209,1413,228850,,,"Pgt Oreanda, Dom 12",,,Yalta,,Crimea,,298658,
-28851,11291,,,228851,,Crimea,Resort Nizhnyaya Oreanda,,,"Oreanda, Yalta",,,,8655,
+28851,11291,,,228851,,Crimea,Resort Nizhnyaya Oreanda,,,"Oreanda, Yalta",,,,08655,
 28993,11291,,,228993,,Crimea,Oreanda - 12,,,Yalta,,,,298658,
 28853,11171,11171,1413,228853,,,d. 15 str. 2 ul. Novy Arbat,,,Moscow,,,,119019,
 28858,11205,11205,1413,228858,,,,,,,,,,,
@@ -6860,9 +6860,9 @@
 30837,11160,11160,1413,230837,,,,,,,,Peshawar,,,
 30839,11160,11160,1413,230839,,,,,,,,Swat,,,
 30848,11160,11160,1413,230848,,,,,,,,Punjab Province,,,
-30888,11115,11115,1413,230888,,,88-1 Shizuki,,,Awaji-shi,Japanese: æ·¡è·¯å¸‚,Hyogo-ken,Japanese: å…µåº«çœŒ,,
-30890,11115,11115,1413,230890,,,26-4 Hanakuma-cho Chuo-ku,,,Kobe-shi,Japanese: ç¥žæˆ¸å¸‚,Hyogo-ken,Japanese: å…µåº«çœŒ,650-0013,Japanese: 650-0013
-30893,11115,11115,1413,230893,,,26-14 Hanakuma-cho Chuo-ku,,,Kobe-shi,Japanese: ç¥žæˆ¸å¸‚,Hyogo-ken,Japanese: å…µåº«çœŒ,,
+30888,11115,11115,1413,230888,,,88-1 Shizuki,,,Awaji-shi,Japanese: 淡路市,Hyogo-ken,Japanese: 兵庫県,,
+30890,11115,11115,1413,230890,,,26-4 Hanakuma-cho Chuo-ku,,,Kobe-shi,Japanese: 神戸市,Hyogo-ken,Japanese: 兵庫県,650-0013,Japanese: 650-0013
+30893,11115,11115,1413,230893,,,26-14 Hanakuma-cho Chuo-ku,,,Kobe-shi,Japanese: 神戸市,Hyogo-ken,Japanese: 兵庫県,,
 30948,11188,11188,1413,230948,,,,,,,,Puntland,,,
 31129,11205,11205,1413,231129,,,,,,,,,,,
 30952,11205,11205,1413,230952,,,,,,Antakya,,Hatay,,,
@@ -7021,7 +7021,7 @@
 31955,11209,11209,1413,231955,,,34 Pavlenko Street,,,Simferopol,,Republic of Crimea,,95006,
 31957,11209,11209,1413,231957,,,28 Kirov Street,,,Kerch,,Republic of Crimea,,98312,
 31960,11065,11065,1413,231960,,,"No. 100, North Hengfeng Road",,,Shanghai,,,,,
-32808,11065,11065,1413,232808,,,,,,Dezhou,Chinese Simplified: å¾·å·žå¸‚ | Chinese Traditional: å¾·å·žå¸‚,Shandong,Chinese Simplified: å±±ä¸œ | Chinese Traditional: å±±æ±,,
+32808,11065,11065,1413,232808,,,,,,Dezhou,Chinese Simplified: 德州市 | Chinese Traditional: 德州市,Shandong,Chinese Simplified: 山东 | Chinese Traditional: 山東,,
 31967,11247,11247,1413,231967,,,"20A, Kiu Fu Commercial Building",300 Lockhart Road,Wan Chai,Hong Kong,,,,,
 31990,11143,11143,1413,231990,,,,,,Guadalajara,,Jalisco,,,
 31992,11143,11143,1413,231992,,,Tchaikovsky 474,Col. Arcos de Guadalupe,,Zapopan,,Jalisco,,,
@@ -7101,7 +7101,7 @@
 32190,11197,11197,1413,232190,,,,,,Albu Kamal,,,,,
 32192,11110,11110,1413,232192,,,Al-Kadhumi Complex,al Harthia,,Baghdad,,,,,
 32193,11110,11110,1413,232193,,,al Abbas Street,,,Karbala,,,,,
-32208,11069,11069,1413,232208,,,24 Avenue Ma Campagne,Quartier Ma Campagne Commune De Ngaliema,,Kinshasa,,,,243,
+32208,11069,11069,1413,232208,,,24 Avenue Ma Campagne,Quartier Ma Campagne Commune De Ngaliema,,Kinshasa,,,,00243,
 32210,11069,11069,1413,232210,,,Avenue du Rail 5,Ngaliema,,Kinshasa,,,,,
 32250,11171,11171,1413,232250,,,,,,Moscow,,,,,
 32248,11171,11171,1413,232248,,,,,,,,,,,
@@ -7661,8 +7661,8 @@
 34168,11247,11247,1413,234168,,,Flat/RM A30 9/F,Silvercorp International Tower,707-713 Nathan Road,Kowloon,,Mong Kok,,,
 34169,11065,11065,1413,234169,,,224-4 Shifa Da Lu,RM 1305,Heping District,Shenyang City,,Liaoning Province,,,
 34188,11065,11065,1413,234188,,,,,,Dandong,,Liaoning,,,
-34196,11184,11184,1413,234196,,,10 Anson Road,#29-05A,International Plaza,,,,,79903,
-34198,11184,11184,1413,234198,,,2 Marina Blvd.,No. 66-08,The Sail at Marina Bay,,,,,18987,
+34196,11184,11184,1413,234196,,,10 Anson Road,#29-05A,International Plaza,,,,,079903,
+34198,11184,11184,1413,234198,,,2 Marina Blvd.,No. 66-08,The Sail at Marina Bay,,,,,018987,
 34200,11171,11171,1413,234200,,,Office 401,Structure 1,"Building 1, Chermyanskaya Street",Moscow,,,,127081,
 34201,11171,11171,1413,234201,,,Office Space 5,Room 18,Building 5/7 Rozhdestvenka Street,Moscow,,,,107031,
 34203,11171,11171,1413,234203,,,,,,,,,,,
@@ -7750,12 +7750,12 @@
 34590,11189,11189,1413,234590,,,Newclare,,,Johannesburg,,,,,
 34608,11109,11109,1413,234608,,,"Unit 501, No. 17, Beside Samen Drugstore, Hakim West Highway",,,Tehran,,,,,
 34609,11109,11109,1413,234609,,,"No. 1401, Cross 5th Golazin and 2nd Golara",Eshtehard Industrial Zone,,Eshtehard,,Alborz,,,
-34611,11209,11209,1413,234611,,,60 Volunska Street,,,Kiev,,,,3151,
-34612,11209,11209,1413,234612,,,Bud. 34 Bul.Lesi Ukrainky,,,Kyiv,,,,1133,
+34611,11209,11209,1413,234611,,,60 Volunska Street,,,Kiev,,,,03151,
+34612,11209,11209,1413,234612,,,Bud. 34 Bul.Lesi Ukrainky,,,Kyiv,,,,01133,
 34613,11209,11209,1413,234613,,,Lesi Ukraini Bulvar 34,,,Kiev,,,,252133,
-34615,11209,11209,1413,234615,,,"26a, Narodnogo Opolchenyia Street",,,Kiev,,,,3151,
-34616,11209,11209,1413,234616,,,"Kv. 107, Bud. 15/2 Vul.Shuliavska",,,Kyiv,,,,1054,
-34617,11209,11209,1413,234617,,,Ave. Vozdukhoflostsky 90,,,Kiev,,,,3036,
+34615,11209,11209,1413,234615,,,"26a, Narodnogo Opolchenyia Street",,,Kiev,,,,03151,
+34616,11209,11209,1413,234616,,,"Kv. 107, Bud. 15/2 Vul.Shuliavska",,,Kyiv,,,,01054,
+34617,11209,11209,1413,234617,,,Ave. Vozdukhoflostsky 90,,,Kiev,,,,03036,
 34623,11109,11109,1413,234623,,,"Unit 2, No. 129, Mir Ali Akbari St",Motahari Avenue,,Tehran,,,,,
 34625,11109,11109,1413,234625,,,No. 12,Saremi Street,Nejatollahi Street,Tehran,,,,,
 34626,11109,11109,1413,234626,,,"Gharani St., Besharat St., Saremi Alley",No. 12,,Tehran,,Tehran,,,
@@ -7912,10 +7912,10 @@
 35338,11096,11096,1413,235338,,,,,,,,,,,
 35339,11209,11209,1413,235339,,,,,,,,,,,
 35341,11190,11190,1413,235341,,,,,,,,,,,
-35137,11065,11065,1413,235137,,,,,,Pulandian,Chinese Simplified: æ™®å…°åº—å¸‚ | Chinese Traditional: æ™®è˜­åº—å¸‚,Liaoning,Chinese Simplified: è¾½å® | Chinese Traditional: é¼å¯§,,
-35139,11065,11065,1413,235139,,,,,,Dalian,Chinese Simplified: å¤§è¿žå¸‚ | Chinese Traditional: å¤§é€£å¸‚,Liaoning,Chinese Simplified: è¾½å® | Chinese Traditional: é¼å¯§,,
-35142,11065,11065,1413,235142,,,,,,Dezhou,Chinese Simplified: å¾·å·žå¸‚ | Chinese Traditional: å¾·å·žå¸‚,Shandong,Chinese Simplified: å±±ä¸œ | Chinese Traditional: å±±æ±,,
-35144,11065,11065,1413,235144,,,,,,Dezhou,Chinese Simplified: å¾·å·žå¸‚ | Chinese Traditional: å¾·å·žå¸‚,Shandong,Chinese Simplified: å±±ä¸œ | Chinese Traditional: å±±æ±,,
+35137,11065,11065,1413,235137,,,,,,Pulandian,Chinese Simplified: 普兰店市 | Chinese Traditional: 普蘭店市,Liaoning,Chinese Simplified: 辽宁 | Chinese Traditional: 遼寧,,
+35139,11065,11065,1413,235139,,,,,,Dalian,Chinese Simplified: 大连市 | Chinese Traditional: 大連市,Liaoning,Chinese Simplified: 辽宁 | Chinese Traditional: 遼寧,,
+35142,11065,11065,1413,235142,,,,,,Dezhou,Chinese Simplified: 德州市 | Chinese Traditional: 德州市,Shandong,Chinese Simplified: 山东 | Chinese Traditional: 山東,,
+35144,11065,11065,1413,235144,,,,,,Dezhou,Chinese Simplified: 德州市 | Chinese Traditional: 德州市,Shandong,Chinese Simplified: 山东 | Chinese Traditional: 山東,,
 35149,11171,11171,1413,235149,,,2/1 Geroyev Panfilovtsev Street,,,Moscow,,,,,
 35150,11171,11171,1413,235150,,,Barviha Hills,,,Moscow,,,,,
 35152,11171,11171,1413,235152,,,Peredelkino,,,Moscow,,,,,
@@ -7963,7 +7963,7 @@
 35247,11160,11160,1413,235247,,,1 Hill Park Jhellum Road,,,Rawalpindi,,Punjab,,,
 35249,11056,11056,1413,235249,,,,,,,,,,,
 35251,11065,11065,1413,235251,,,,,,Beijing,,,,,
-35319,11118,11118,1413,235319,,,Othaya Road,Othaya Villas House #2,,Nairobi,,,,202,
+35319,11118,11118,1413,235319,,,Othaya Road,Othaya Villas House #2,,Nairobi,,,,00202,
 35320,91501,91501,1413,235320,,,Hai-Jalaba,Centre Street,,Juba,,Central Equatoria,,,
 35321,91501,91501,1413,235321,,,,,,Juba,,,,,
 35254,11181,11181,1413,235254,,,Maglajska 19 11000,,,Beograd (Savski Venac),,,,,
@@ -8237,7 +8237,7 @@
 36077,11065,11065,1413,236077,,,"Room 2105, Trend Centre",29-31 Chueng Lee Street,,Chai Wan,,Hong Kong,,,
 36079,11065,11065,1413,236079,,,"Room 601, 433, Chifeng Lu",Hongkou Qu,,Shanghai,,,,200083,
 36083,11162,11162,1413,236083,,,,,,Panama City,,,,,
-36084,11184,11184,1413,236084,,,"17-22, UOB Plaza 2",Raffles Place,,,,,,48624,
+36084,11184,11184,1413,236084,,,"17-22, UOB Plaza 2",Raffles Place,,,,,,048624,
 36049,11138,11138,1413,236049,,,,,,Douna,,,,,
 36050,11055,11055,1413,236050,,,,,,,,Soum Province,,,
 36051,11055,11055,1413,236051,,,,,,,,,,,
@@ -8537,10 +8537,10 @@
 37311,11079,11079,1413,237311,,,George Washington,No. 402,Apto. Malecon Center,Ciudad Universitaria,,,,,
 37313,11058,11058,1413,237313,,,,,,Takhmao,,,,,
 37314,11058,11058,1413,237314,,,22,St. 118,,Phnom Penh,,,,,
-37329,11115,11115,1413,237329,,,"5-10-11, Shinohara Nakamachi, Nada-ku",,,Kobe,Japanese: ç¥žæˆ¸å¸‚,Hyogo,Japanese: å…µåº«çœŒ,657-0066,Japanese: 657-0066
-37331,11115,11115,1413,237331,,,"5-10-11, Shinohara Nakamachi, Nada-ku",,,Kobe,Japanese: ç¥žæˆ¸å¸‚ | Japanese: ç¥žæˆ¸å¸‚,Hyogo,Japanese: å…µåº«çœŒ | Japanese: å…µåº«çœŒ,,
-37333,11115,11115,1413,237333,,,2-138 Fujimi-cho,,,Yonago-shi,Japanese: ç±³å­å¸‚ | Japanese: ç±³å­å¸‚,Tottori-ken,Japanese: é³¥å–çœŒ | Japanese: é³¥å–çœŒ,,
-37566,11115,11115,1413,237566,,,25-1 Motoderamachi Nishinocho,,,Wakayama-shi,Japanese: å’Œæ­Œå±±å¸‚,Wakayama-ken,Japanese: å’Œæ­Œå±±çœŒ,640-8007,Japanese: 640-8007
+37329,11115,11115,1413,237329,,,"5-10-11, Shinohara Nakamachi, Nada-ku",,,Kobe,Japanese: 神戸市,Hyogo,Japanese: 兵庫県,657-0066,Japanese: 657-0066
+37331,11115,11115,1413,237331,,,"5-10-11, Shinohara Nakamachi, Nada-ku",,,Kobe,Japanese: 神戸市 | Japanese: 神戸市,Hyogo,Japanese: 兵庫県 | Japanese: 兵庫県,,
+37333,11115,11115,1413,237333,,,2-138 Fujimi-cho,,,Yonago-shi,Japanese: 米子市 | Japanese: 米子市,Tottori-ken,Japanese: 鳥取県 | Japanese: 鳥取県,,
+37566,11115,11115,1413,237566,,,25-1 Motoderamachi Nishinocho,,,Wakayama-shi,Japanese: 和歌山市,Wakayama-ken,Japanese: 和歌山県,640-8007,Japanese: 640-8007
 37349,11155,11155,1413,237349,,,,,,Managua,,,,,
 37351,11155,11155,1413,237351,,,Residencial Lomas del Valle,Casa U5,,Managua,,,,,
 37354,11136,11136,1413,237354,,,"No.01, Lower Ground Floor, Block C, NO:12 Megan Avenue2, Jalan Yap, Kwan Seng",,,Kuala Lumpur,,,,,
@@ -8612,9 +8612,9 @@
 37561,11056,11056,1413,237561,,,,,,,,,,,
 37563,11056,11056,1413,237563,,,,,,Meiktila,,,,,
 37565,11056,11056,1413,237565,,,,,,Sagaing,,,,,
-37569,11115,11115,1413,237569,,,1-20-7 Yagusu,,,Yaizu-shi,Japanese: ç„¼æ´¥å¸‚,Shizuoka-ken,Japanese: é™å²¡çœŒ,,
+37569,11115,11115,1413,237569,,,1-20-7 Yagusu,,,Yaizu-shi,Japanese: 焼津市,Shizuoka-ken,Japanese: 静岡県,,
 37570,11115,11115,1413,237570,,,138-9 Ibara-cho Shimizu-ku,,,Shizuoka-shi,,,,424-0114,
-37572,11115,11115,1413,237572,,,"3-6-26 Shinohara Nakamachi, Nada-ku",,,Kobe,Japanese: ç¥žæˆ¸å¸‚,Hyogo,Japanese: å…µåº«çœŒ,,
+37572,11115,11115,1413,237572,,,"3-6-26 Shinohara Nakamachi, Nada-ku",,,Kobe,Japanese: 神戸市,Hyogo,Japanese: 兵庫県,,
 37575,11115,11115,1413,237575,,,5-22-36 Hakataekiminami Hakata-ku,,,Fukuoka-shi,,,,812-0016,
 37579,11171,11171,1413,237579,,,,,,,,,,,
 37581,11171,11171,1413,237581,,,,,,Saint Petersburg,,,,,
@@ -8757,7 +8757,7 @@
 38216,11109,11109,1413,238216,,,"Iran Air Building, Mehrabad Airport",,,Tehran,,,,,
 38217,11109,11109,1413,238217,,,Postal Box 13185-775,,,Tehran,,,,,
 38218,11109,11109,1413,238218,,,Central Airlines Department of the Islamic Republic of Iran,Tehran Karaj Special Road,Beginning of Mehrabad International Airport,Tehran,,,,,
-38289,11065,11065,1413,238289,,,,,,Wuhan,Chinese Simplified: æ­¦æ±‰å¸‚ | Chinese Traditional: æ­¦æ¼¢å¸‚,Hubei,Chinese Simplified: æ¹–åŒ—çœ | Chinese Traditional: æ¹–åŒ—çœ,,
+38289,11065,11065,1413,238289,,,,,,Wuhan,Chinese Simplified: 武汉市 | Chinese Traditional: 武漢市,Hubei,Chinese Simplified: 湖北省 | Chinese Traditional: 湖北省,,
 38342,11209,11209,1413,238342,,,"Bldg. 78, Apt. 74",ulitsa Generala Petrova,,city of Kerch,,Crimea,,,
 38392,11109,11109,1413,238392,,,"Asseman Tower, Pasdaran Street",,,Tehran,,,,,
 38395,11109,11109,1413,238395,,,P.O. Box 19395-177,,,Tehran,,,,,
@@ -8895,7 +8895,7 @@
 38709,11094,11094,1413,238709,,,"Hafenstrasse 54, D-60327",,,Frankfurt am Main,,,,,
 38710,11094,11094,1413,238710,,,PO Box 110261,,,Franfurt am Main,,Hessen,,60037,
 38711,11090,11090,1413,238711,,,20 Rue Auguste Vacquerie,,,Paris,,,,75016,
-38712,11113,11113,1413,238712,,,Via Barberini 50,,,Rome,,,,187,
+38712,11113,11113,1413,238712,,,Via Barberini 50,,,Rome,,,,00187,
 38716,11160,11160,1413,238716,,,"House #29, 30th St.",,,Karachi,,,,,
 38717,11160,11160,1413,238717,,,,,,Quetta,,,,,
 38737,11109,11109,1413,238737,,,237 Motahari Avenue,,,Tehran,,,,1587618118,
@@ -8994,7 +8994,7 @@
 39038,11109,11109,1413,239038,,,"No. 17, Fifth Floor, 17th Alley, Vozara Street",,,Tehran,,,,,
 39040,11109,11109,1413,239040,,,"Number 63, East Shahid Tajrlu Street",Shahid Tajrlu Square,,Shian,,,,,
 39042,11065,11065,1413,239042,,,"Building  1088, Suite 1501",Pudong South Road (Shanghai Zhong Rong Plaza),,Shanghai,,,,200122,
-39045,11184,11184,1413,239045,,,"Hoe Chiang Road 10, #15-02a",,,Central Business District,,,,89315,
+39045,11184,11184,1413,239045,,,"Hoe Chiang Road 10, #15-02a",,,Central Business District,,,,089315,
 39046,11136,11136,1413,239046,,,"19A-3A-3A, Level 31, Business Suite, UOA Centre, No. 19 Jalan, Pinang",,,Kuala Lumpur,,,,50450,
 39047,11136,11136,1413,239047,,,"Financial Park Labuan Complex Unit 13 (C), Main Office Tower Jalan Merdeka",,,Labuan,,,,87000,
 39050,11109,11109,1413,239050,,,"Unit 5, 9th Street 2, Ahmad Ghasir Avenue",PO Box 19635-1114,,Tehran,,,,,
@@ -9272,7 +9272,7 @@
 39842,11065,11065,1413,239842,,,"Room D1302, Langham Place","East Harbour, No. 11 Zhubao Street",Ganglong Road,Dalian,,,,,
 39855,11212,11212,1413,239855,,,,,,,,DE,,,
 39856,11212,11212,1413,239856,,,7043 Fisher Dr.,Unit 7043,,Miami Beach,,FL,,33109-0064,
-39894,11069,11069,1413,239894,,,15 Joli Parc,Ma Campagne,,Kinshasa,,,,243,
+39894,11069,11069,1413,239894,,,15 Joli Parc,Ma Campagne,,Kinshasa,,,,00243,
 39896,11069,11069,1413,239896,,,Appartement 29 Cite Du Fleuve,Cite Du Fleuve,Kingabwa Limete,Kinshasa,,,,,
 39914,11065,11065,1413,239914,,,,,,Shanghai,,,,,
 39916,11065,11065,1413,239916,,,"Room 614, Floor 3",No. 1,"Alley 468, New Siping Highway",Shanghai,,,,201413,
@@ -9668,8 +9668,8 @@
 41273,11210,11210,1413,241273,,,"3303, Saeed, Tower 1, Sheikh Zayed Road",P.O. BOX - 9614,,Dubai,,,,,
 41274,11210,11210,1413,241274,,,"Sheikh Zayed Road, sahid tower # 1, office # 3303",Dubai International Financial Centre Area,,Dubai,,,,,
 41275,11210,11210,1413,241275,,,"Office 2905, 29th Floor, Al-Attar Tower, Sheikh Zayed Road, Al Barsha 1",,,Dubai,,,,,
-41277,11184,11184,1413,241277,,,"17 Phillip Street, #05-01 Grand Building",,,,,,,48695,
-41278,11184,11184,1413,241278,,,Phillip Street 17 #05-01,City - Marina Area,,,,,,48695,
+41277,11184,11184,1413,241277,,,"17 Phillip Street, #05-01 Grand Building",,,,,,,048695,
+41278,11184,11184,1413,241278,,,Phillip Street 17 #05-01,City - Marina Area,,,,,,048695,
 41280,11107,11107,1413,241280,,,"102, Mohid Height, Suresh Nagar",,,Mumbai City,,Maharashtra,,400053,
 41281,11107,11107,1413,241281,,,"102, Mohid Height, Suresh Nagar Near Rto Office, Four Bungalows",Anderi (W),,Mumbai,,Maharashtra,,400053,
 41282,11107,11107,1413,241282,,,"Mohid Height, 102, Lokhandwala Complex Road, Suresh Nagar",Anderi (W),,Mumbai,,,,400053,
@@ -9741,7 +9741,7 @@
 41402,11066,11066,1413,241402,,,CL 75 No 66 - 36,,,Barranquilla,,Atlantico,,,
 41404,11066,11066,1413,241404,,,Via 40 No 71 197,,,Barranquilla,,Atlantico,,,
 41406,11066,11066,1413,241406,,,Carrera 48 76 10 PI 3,,,Barranquilla,,Atlantico,,,
-41408,11113,11113,1413,241408,,,Via Robert Musil 8,,,Roma,,,,137,
+41408,11113,11113,1413,241408,,,Via Robert Musil 8,,,Roma,,,,00137,
 41420,11066,11066,1413,241420,,,,,,Barranquilla,,,,,
 41453,11216,11216,1413,241453,,,,,,,,Miranda,,,
 41421,11066,11066,1413,241421,,,,,,,,,,,
@@ -9754,7 +9754,7 @@
 41425,11066,11066,1413,241425,,,Calle 103 A No. 16 90,Apto. 603,,Bogota,,D.C.,,,
 41427,11066,11066,1413,241427,,,CR 46 67 5,,,Barranquilla,,Atlantico,,,
 41429,11066,11066,1413,241429,,,Cr 43 B No 80 - 59,,,Barranquilla,,Atlantico,,,
-41654,11065,11065,1413,241654,,,"Qixingmen Store, No. 8 Apartment",Fangcaodi West Road,Chaoyang District,Beijing,Chinese Simplified: åŒ—äº¬å¸‚,,,100020,Chinese Simplified: 100020
+41654,11065,11065,1413,241654,,,"Qixingmen Store, No. 8 Apartment",Fangcaodi West Road,Chaoyang District,Beijing,Chinese Simplified: 北京市,,,100020,Chinese Simplified: 100020
 41655,11065,11065,1413,241655,,,"Liangzi Zu Way (Ground Level, White Gate), No. 42",Gangshan Road,Shunyi District,Beijing,,,,101300,
 41435,11109,11109,1413,241435,,,,,,,,,,,
 41436,11126,11126,1413,241436,,,,,,Beirut,,,,,
@@ -9852,7 +9852,7 @@
 41957,11065,11065,1413,241957,,,"Room 707, No. 67, Jinyu Road",Pudong,,Shanghai,,,,201206,
 42018,11216,11216,1413,242018,,,,,,Delta Amacuro,,,,,
 42182,11216,11216,1413,242182,,,,,,Caracas,,Capital Disrict,,,
-43431,11217,11217,1413,243431,,,41/8B CÃ¹ ChÃ­nh Lan,,,Háº£i PhÃ²ng,,,,,
+43431,11217,11217,1413,243431,,,41/8B Cù Chính Lan,,,Hải Phòng,,,,,
 42186,11216,11216,1413,242186,,,,,,Maracaibo,,Zulia,,,
 42080,11171,11171,1413,242080,,,,,,Moscow,,,,,
 48886,11197,11197,1413,248886,,,,,,,,,,,
@@ -9873,12 +9873,12 @@
 42178,11109,11109,1413,242178,,,,,,,,,,,
 42184,11216,11216,1413,242184,,,,,,,,Miranda,,,
 42232,11138,11138,1413,242232,,,,,,,,,,,
-45069,11089,11089,1413,245069,,,Manttaalitie 5,,,Vantaa,,Uusimaa,,1530,
-45071,11089,11089,1413,245071,,,Manttaalitie 5-7,,,Vantaa,,,,1530,
+45069,11089,11089,1413,245069,,,Manttaalitie 5,,,Vantaa,,Uusimaa,,01530,
+45071,11089,11089,1413,245071,,,Manttaalitie 5-7,,,Vantaa,,,,01530,
 45075,11089,11089,1413,245075,,,,,,,,,,,
-45078,11089,11089,1413,245078,,,Manttaalitie 5,,,Vantaa,,Uusimaa,,1530,
-45079,11089,11089,1413,245079,,,Manttaalitie 5,,,Vantaa,,Uusimaa,,1530,
-45081,11089,11089,1413,245081,,,Manttaalitie 5,,,Vantaa,,Uusimaa,,1530,
+45078,11089,11089,1413,245078,,,Manttaalitie 5,,,Vantaa,,Uusimaa,,01530,
+45079,11089,11089,1413,245079,,,Manttaalitie 5,,,Vantaa,,Uusimaa,,01530,
+45081,11089,11089,1413,245081,,,Manttaalitie 5,,,Vantaa,,Uusimaa,,01530,
 44292,11065,11065,1413,244292,,,,,,,,,,,
 44291,11065,11065,1413,244291,,,,,,,,,,,
 42255,11164,11164,1413,242255,,,,,,Ciudad del Este,,,,,
@@ -9992,7 +9992,7 @@
 42571,11074,11074,1413,242571,,,Dimitriados 1,,,Limassol,,,,4004,
 42573,11074,11074,1413,242573,,,Elli Court,Flat No. 4,"Floor No. 2, Arch. Makariou III 210",Limassol,,,,3030,
 42575,11247,11247,1413,242575,,,Unit 11/F,CNT Tower,338 Hennessy Road,Wan Chai,,,,,
-42594,11058,11058,1413,242594,,,135,Street 110,Takhmao,,,Kandal,,811,
+42594,11058,11058,1413,242594,,,135,Street 110,Takhmao,,,Kandal,,0811,
 42595,11058,11058,1413,242595,,,135,St. 110 SR.,Takhmao,,,Kandal,,,
 42580,11058,11058,1413,242580,,,Thmei,Ta Khmau,,Ta Khmau,,Kandal,,8251,
 42582,11058,11058,1413,242582,,,Boeng Keng Kang Moy,Chamkar Mon,,Phnom Penh,,,,,
@@ -10035,8 +10035,8 @@
 43018,11216,11216,1413,243018,,,"Avenida Lecuna Torre Oeste Piso 49, Libertador",,,Caracas,,,,,
 42733,11143,11143,1413,242733,,,Naciones Unidas 6875 B9C,Virreyes Residencial,,Zapopan,,Jalisco,,,
 42734,11143,11143,1413,242734,,,Av. Naciones Unidas 6885 B 9 y B 8,Paseo de los Virreyes,,Zapopan,,Jalisco,,45136,
-42753,11065,11065,1413,242753,,,,,,Nanjing,Chinese Simplified: å—äº¬,Jiangsu,Chinese Simplified: æ±Ÿè‹,,
-42755,11065,11065,1413,242755,,,,,,Anshan,Chinese Simplified: éžå±±,Liaoning,Chinese Simplified: è¾½å®,,
+42753,11065,11065,1413,242753,,,,,,Nanjing,Chinese Simplified: 南京,Jiangsu,Chinese Simplified: 江苏,,
+42755,11065,11065,1413,242755,,,,,,Anshan,Chinese Simplified: 鞍山,Liaoning,Chinese Simplified: 辽宁,,
 42773,11110,11110,1413,242773,,,,,,,,,,,
 42775,11109,11109,1413,242775,,,End of Zob Ahan Highway- Esfahan Steel Company,,,,,,,8593111111,
 42776,11109,11109,1413,242776,,,"Townhid building, end of Zob Ahan Highway No. 178","Saadi Boulevard, The Steel Highway",,Esfahan,,,,81756-14461,
@@ -10101,14 +10101,14 @@
 42919,11247,11247,1413,242919,,,"Room 1105 Hua Qin International Bldg, 340 Queen's RD C, Sheung Wan",,,Hong Kong,,,,,
 42920,11065,11065,1413,242920,,,,,,Shanghai,,,,,
 42922,11247,11247,1413,242922,,,"15/F Radio City, 505 Hennessy Rd, Causeway Bay",,,Hong Kong,,,,,
-42923,11065,11065,1413,242923,,,"3F-A, Tower 3 YouYou Century Plaza, 428 Yang Gao RD(S)",,,Shanghai,Chinese Simplified: ä¸Šæµ·,,,200127,Chinese Simplified: 200127
+42923,11065,11065,1413,242923,,,"3F-A, Tower 3 YouYou Century Plaza, 428 Yang Gao RD(S)",,,Shanghai,Chinese Simplified: 上海,,,200127,Chinese Simplified: 200127
 42924,11094,11094,1413,242924,,,Romischer Ring 11,,,Frankfurt am Main,,Hessen,,60326,
 42925,11094,11094,1413,242925,,,Friedrich-Ebert-Anlage 36,,,Frankfurt am Main,,Hessen,,60325,
 42926,11109,11109,1413,242926,,,"No. 4, 5th Alley, Iran Zamin Street, Shahrak Gharb",,,Tehran,,Tehran,,,
 42927,11109,11109,1413,242927,,,"Unit 301, 3rd Floor, Diplomat Commercial Office Complex, Sahel Street, Kish Island",,,,,,,,
 42928,11210,11210,1413,242928,,,"Unit 1805, 18th Floor, Jumeirah Bay Tower X3, Cluster X, Plot JLT-PH2-X3A, Jumeirah Lake Towers",,,Dubai,,Dubai,,,
-42959,11065,11065,1413,242959,,,"Room 301-37, 3/F., Building 1, No. 38 Debao Road",,Pilot Free Zone,Shanghai,Chinese Simplified: ä¸Šæµ·,,,,
-42960,11065,11065,1413,242960,,,"Unit C, 10/F., Building No. 2, No. 428 Yanggao South Road, Pudong New Area",,,Shanghai,Chinese Simplified: ä¸Šæµ·,,,,
+42959,11065,11065,1413,242959,,,"Room 301-37, 3/F., Building 1, No. 38 Debao Road",,Pilot Free Zone,Shanghai,Chinese Simplified: 上海,,,,
+42960,11065,11065,1413,242960,,,"Unit C, 10/F., Building No. 2, No. 428 Yanggao South Road, Pudong New Area",,,Shanghai,Chinese Simplified: 上海,,,,
 42961,11210,11210,1413,242961,,,"Unit No: 15-PF-137, Detached Retail 15, Plot No: JLT-PH1-RET-I5, Jumeirah Lakes Towers",,,Dubai,,,,,
 42934,11209,11209,1413,242934,,,,,,Sevastopol,,,,,
 42938,11209,11209,1413,242938,,,,,,Sevastopol,,,,,
@@ -10116,7 +10116,7 @@
 42943,11209,11209,1413,242943,,,,,,Sevastopol,,,,,
 42945,11209,11209,1413,242945,,,,,,Sevastopol,,,,,
 42947,11171,11171,1413,242947,,,,,,,,,,,
-42953,11065,11065,1413,242953,,,No. 199 Jinxi Road,Linzi District,,Zibo,Chinese Simplified: æ·„åšå¸‚,Shandong Province,Chinese Simplified: å±±ä¸œçœ,,
+42953,11065,11065,1413,242953,,,No. 199 Jinxi Road,Linzi District,,Zibo,Chinese Simplified: 淄博市,Shandong Province,Chinese Simplified: 山东省,,
 42955,11247,11247,1413,242955,,,"Unit 1105, Hua Qin International Building",340 Queen's Road Central,,Hong Kong,,,,,
 42958,11065,11065,1413,242958,,,2 301 No.129 Yongshi Living Area Huangong Road,,,Zibo,,Shandong,,,
 43033,11164,11164,1413,243033,,,,,,Ciudad del Este,,,,,
@@ -10170,26 +10170,26 @@
 43265,11159,11159,1413,243265,,,"Mina Al Fahal, PDO Gate No. 2 Al Qurum, PC: 116",,,Muscat,,,,,
 43267,11210,11210,1413,243267,,,Plot No. 133-257,,,Dubai,,,,,
 43296,11189,11189,1413,243296,,,56 Grosvenor Rd,,,Johannesburg,,Gauteng,,2021,
-43297,11189,11189,1413,243297,,,306 Isie Smuts Street,Garsfontein Ext 3,,Pretoria,,Gauteng,,60,
+43297,11189,11189,1413,243297,,,306 Isie Smuts Street,Garsfontein Ext 3,,Pretoria,,Gauteng,,0060,
 43298,11189,11189,1413,243298,,,"No. 306, Issie Smuts Street","Garsfontein, Ext.3",,Pretoria,,Gauteng,,,
-43299,11189,11189,1413,243299,,,PO Box 1707,Garsfontein-East,,Pretoria,,Gauteng,,60,
+43299,11189,11189,1413,243299,,,PO Box 1707,Garsfontein-East,,Pretoria,,Gauteng,,0060,
 43300,11109,11109,1413,243300,,,"No. 12, Negin Gholhak Tower",Shariati Ave,,Tehran,,,,,
 43301,11247,11247,1413,243301,,,"705, Ho King Commercial Center, 2-16",Fa Yuen Street,Mongkok Kowloon,Hong Kong,,,,,
 43302,11189,11189,1413,243302,,,"No. 306, Isie Smuts Street","Garsfontein, Ext. 3",,Pretoria,,,,,
 43305,11109,11109,1413,243305,,,"6th Floor, No. 7, Motavelian Blvd",Habibollah St. Sattarkhan,,Tehran,,,,,
-43306,11109,11109,1413,243306,,,"Shariati Street, Top of Government Street",Negin Gholahk Building,"First Floor, Twelfth Unit",Tehran,Arabic: ØªÙ‡Ø±Ø§Ù†,,,,
+43306,11109,11109,1413,243306,,,"Shariati Street, Top of Government Street",Negin Gholahk Building,"First Floor, Twelfth Unit",Tehran,Arabic: تهران,,,,
 43308,11247,11247,1413,243308,,,"Unit M, 1/F, Mau Lam Comm Bldg","16-18 Mau Lam St, Jordan, Kowloon",,Hong Kong,,,,,
 43313,11065,11065,1413,243313,,,"11F-12F, Fortune Mansion","No. 18, Shiji Street",,Dalian,,,,,
-43314,11065,11065,1413,243314,,,"7F., No. 55 Renmin Road",Zhongshan District,,Dalian,Chinese Simplified: å¤§è¿žå¸‚,Liaoning Province,Chinese Simplified: è¾½å®çœ,,
-43315,11065,11065,1413,243315,,,"7F., Yatai International Finance Building",No. 55 Renmin Road,Zhongshan District,Dalian,Chinese Simplified: å¤§è¿žå¸‚,Liaoning Province,Chinese Simplified: è¾½å®çœ,,
-43320,11065,11065,1413,243320,,,"R3101, East Tower, The Ninth Zhongshan","No. 2, Xinglin Street",Zhongshan District,Dalian,Chinese Simplified: å¤§è¿ž,,,,
-43321,11065,11065,1413,243321,,,Hetun Village,Changxing Island Economic Zone,,Dalian,Chinese Simplified: å¤§è¿ž,Liaoning Province,Chinese Simplified: è¾½å®çœ,,
+43314,11065,11065,1413,243314,,,"7F., No. 55 Renmin Road",Zhongshan District,,Dalian,Chinese Simplified: 大连市,Liaoning Province,Chinese Simplified: 辽宁省,,
+43315,11065,11065,1413,243315,,,"7F., Yatai International Finance Building",No. 55 Renmin Road,Zhongshan District,Dalian,Chinese Simplified: 大连市,Liaoning Province,Chinese Simplified: 辽宁省,,
+43320,11065,11065,1413,243320,,,"R3101, East Tower, The Ninth Zhongshan","No. 2, Xinglin Street",Zhongshan District,Dalian,Chinese Simplified: 大连,,,,
+43321,11065,11065,1413,243321,,,Hetun Village,Changxing Island Economic Zone,,Dalian,Chinese Simplified: 大连,Liaoning Province,Chinese Simplified: 辽宁省,,
 43323,11247,11247,1413,243323,,,"Unit A, Rm 9, 3/F., Cheong Sun Tower",116-118 Wing Lok Street,Sheung Wan,Hong Kong,,,,,
-43332,11109,11109,1413,243332,,,"No. 132, Khoramshahr Street",,,Tehran,Arabic: ØªÙ‡Ø±Ø§Ù†,,,,
+43332,11109,11109,1413,243332,,,"No. 132, Khoramshahr Street",,,Tehran,Arabic: تهران,,,,
 43333,11109,11109,1413,243333,,,Shahid Beheshti Avenue,"Khorramshahr, Number 138",,Tehran,,,,,
 43334,11109,11109,1413,243334,,,"No. 138, Khorramshahr Street",District 7,,Tehran,,Tehran Province,,1533775511,
-43337,11189,11189,1413,243337,,,306 Isie Smuts Street,Garsfontein Ext 3,,Pretoria,,Gauteng,,60,
-43338,11189,11189,1413,243338,,,PO Box 1707,Garsfontein-East,,Pretoria,,Gauteng,,60,
+43337,11189,11189,1413,243337,,,306 Isie Smuts Street,Garsfontein Ext 3,,Pretoria,,Gauteng,,0060,
+43338,11189,11189,1413,243338,,,PO Box 1707,Garsfontein-East,,Pretoria,,Gauteng,,0060,
 43352,11109,11109,1413,243352,,,,,,,,,,,
 43403,11109,11109,1413,243403,,,,,,,,,,,
 43343,11109,11109,1413,243343,,,,,,Tehran,,,,,
@@ -10241,7 +10241,7 @@
 43435,11110,11110,1413,243435,,,,,,,,,,,
 43437,11197,11197,1413,243437,,,,,,,,,,,
 43439,11155,11155,1413,243439,,,Calle Central de Altamira del BDF 100 Mts Norte,,,Managua,,,,,
-43898,11197,11197,1413,243898,,,Marota City,"Eastern Villas, Mazeh",,Damascus,,,,96311,
+43898,11197,11197,1413,243898,,,Marota City,"Eastern Villas, Mazeh",,Damascus,,,,096311,
 48853,11197,11197,1413,248853,,,,,,Manbij,,,,,
 49245,11205,11205,1413,249245,,,,,,Sahinbey,,Gaziantep,,,
 43626,11109,11109,1413,243626,,,,,,,,,,,
@@ -10301,9 +10301,9 @@
 43856,11216,11216,1413,243856,,,Juana de Avila Avenue,15B,Esquina con calle 69A-140,Maracaibo,,,,,
 43858,11185,11185,1413,243858,,,Solosnicka 308/8,Karlova Ves,,Bratislava,,,,841 04,
 43859,11216,11216,1413,243859,,,San Felipe de La Castellana Street,,,Caracas,,,,,
-43862,11197,11197,1413,243862,,,Marota City,"Eastern Villas, Mazeh",,Damascus,,,,96311,
-43864,11197,11197,1413,243864,,,Marota City,"Eastern Villas, Mazeh",,Damascus,,,,96311,
-43867,11197,11197,1413,243867,,,Marota City,"Eastern Villas, Mazeh",,Damascus,,,,96311,
+43862,11197,11197,1413,243862,,,Marota City,"Eastern Villas, Mazeh",,Damascus,,,,096311,
+43864,11197,11197,1413,243864,,,Marota City,"Eastern Villas, Mazeh",,Damascus,,,,096311,
+43867,11197,11197,1413,243867,,,Marota City,"Eastern Villas, Mazeh",,Damascus,,,,096311,
 43870,11197,11197,1413,243870,,,,,,Damascus,,,,,
 43984,11197,11197,1413,243984,,,,,,Damascus,,,,,
 43873,11197,11197,1413,243873,,,,,,Damascus,,,,,
@@ -10314,11 +10314,11 @@
 43883,11197,11197,1413,243883,,,,,,Rural Damascus,,,,,
 43900,11038,11038,1413,243900,,,Sieveringerstrasse 164,,,Vienna,,,,1190,
 43902,11038,11038,1413,243902,,,Sieveringerstrasse 164,,,Vienna,,,,1190,
-43904,11212,11212,1413,243904,,,"778 Boylston Street, Unit 6B",,,Boston,,MA,,2199,
+43904,11212,11212,1413,243904,,,"778 Boylston Street, Unit 6B",,,Boston,,MA,,02199,
 43905,11212,11212,1413,243905,,,,,,,,DE,,,
 43906,11212,11212,1413,243906,,,,,,,,TX,,,
 43907,11212,11212,1413,243907,,,,,,,,CA,,,
-43916,11212,11212,1413,243916,,,"778 Boylston Street, Unit 6B",,,Boston,,MA,,2199,
+43916,11212,11212,1413,243916,,,"778 Boylston Street, Unit 6B",,,Boston,,MA,,02199,
 43918,11212,11212,1413,243918,,,,,,,,DE,,,
 43921,11184,11184,1413,243921,,,6 Raffles Quay #14-04/05,,,,,,,,
 43925,11197,11197,1413,243925,,,,,,,,,,,
@@ -10426,7 +10426,7 @@
 44410,11216,11216,1413,244410,,,"C. Gil Fortoul, Centauro A, 5-D, Santa Monica",,,Caracas,,Distrito Capital,,1040,
 44411,11216,11216,1413,244411,,,Los Teques,,,,,Edo Miranda,,,
 44413,11216,11216,1413,244413,,,"Calle Sucre, Res. Puma, Piso 2, Apto 24, Urb. Chacao",,,Caracas,,Miranda,,1060,
-44770,11209,11209,1413,244770,,,"Mykhailo Hrushevsky APT 9A, B7-1",,,Kyiv,,,,1021,
+44770,11209,11209,1413,244770,,,"Mykhailo Hrushevsky APT 9A, B7-1",,,Kyiv,,,,01021,
 45366,11129,11129,1413,245366,,,,,,,,,,,
 44446,11210,11210,1413,244446,,,"1 AK 01, Jebel Ali South Zone, Jebel Ali Free Zone",,,Dubai,,,,,
 44448,11210,11210,1413,244448,,,"Office 203, Bur Dubai, Souk Al Kabeer",,,Dubai,,,,,
@@ -10610,7 +10610,7 @@
 45025,11197,11197,1413,245025,,,,,,Rural Damascus,,,,,
 45027,11197,11197,1413,245027,,,,,,,,,,,
 45030,11197,11197,1413,245030,,,Al-Bahsa,,,Damascus,,,,,
-45032,11171,11171,1413,245032,,,d. 138 korp. 1 litera V pom. 5N-18,naberezhnaya Obvodnogo Kanala,,St. Petersburg,Cyrillic: Ð¡ÐÐÐšÐ¢ ÐŸÐ•Ð¢Ð•Ð Ð‘Ð£Ð Ð“ Ð“,St. Petersburg,Cyrillic: Ð¡ÐÐÐšÐ¢ ÐŸÐ•Ð¢Ð•Ð Ð‘Ð£Ð Ð“,190020,Cyrillic: 190020
+45032,11171,11171,1413,245032,,,d. 138 korp. 1 litera V pom. 5N-18,naberezhnaya Obvodnogo Kanala,,St. Petersburg,Cyrillic: САНКТ ПЕТЕРБУРГ Г,St. Petersburg,Cyrillic: САНКТ ПЕТЕРБУРГ,190020,Cyrillic: 190020
 45034,11062,11062,1413,245034,,,Avenue Martyrs Rue 5-064,,,Bangui,,,,,
 45104,11062,11062,1413,245104,,,,,,,,,,,
 45052,11109,11109,1413,245052,,,,,,,,,,,
@@ -10646,7 +10646,7 @@
 46762,11209,11209,1413,246762,,,,,,,,,,,
 45341,11171,11171,1413,245341,,,,,,,,,,,
 45342,11120,11120,1413,245342,,,Tongdaewon District,,,Pyongyang,,,,,
-45368,11171,11171,1413,245368,,,"d. 15A liter A etazh / pom./ kom. 3/41/N-1, ul. Professora Kachalova",,,St. Petersburg,Cyrillic: Ð“Ð¾Ñ€Ð¾Ð´ Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³,,,192019,Cyrillic: 192019
+45368,11171,11171,1413,245368,,,"d. 15A liter A etazh / pom./ kom. 3/41/N-1, ul. Professora Kachalova",,,St. Petersburg,Cyrillic: Город Санкт-Петербург,,,192019,Cyrillic: 192019
 45369,11171,11171,1413,245369,,,"Ust-Izhora Village, Petrozavodsk Highway 23",Kolpinskiy District,,St. Petersburg,,,,,
 45346,11197,11197,1413,245346,,,,,,Aleppo,,,,,
 45348,11197,11197,1413,245348,,,,,,Damascus,,,,,
@@ -10688,7 +10688,7 @@
 45651,11109,11109,1413,245651,,,"7th Floor, Kian Tower, No. 2551, Naseri St., Vali-e-Asr Ave",,,Tehran,,,,,
 45653,11109,11109,1413,245653,,,"Nakhl Taghi City, Nakhl Taghi Road, Kolmeter 15, Number 0, Ground Floor Kangan",,,Bushehr,,,,7511811365,
 45654,11109,11109,1413,245654,,,"Phase 1 Petrochemical, Special Petrochemical Zone Assaluyeh",,,Tehran,,,,,
-45512,11184,11184,1413,245512,,,24 Raffles Place,#11-01 Clifford Centre,,,,,,48621,
+45512,11184,11184,1413,245512,,,24 Raffles Place,#11-01 Clifford Centre,,,,,,048621,
 45655,11065,11065,1413,245655,,,"Room A3, 9/F., Goodwill Industrial Building, No 36-44 Pak Tin Par Street, Tsuen Wan, New Territories",,,Hong Kong,,,,,
 45656,11065,11065,1413,245656,,,"Flat H29, 1/F, Phase 2 Kwai Shing Ind. Bldg., No. 42-46 Tai Lin Pai Road, Kwai Chung, New Territories",,,Hong Kong,,,,,
 45657,11065,11065,1413,245657,,,"Unit 1307, Beverly commercial Centre, 87-105 Chatham South Road, Tsim Sha Tsui, Kowloon",,,Hong Kong,,,,,
@@ -10751,23 +10751,23 @@
 49561,11098,11098,1413,249561,,,,,,Agua Zarca,,Huehuetenango,,,
 49562,11098,11098,1413,249562,,,,,,Santa Ana Huista,,Huehuetenango,,,
 49563,11098,11098,1413,249563,,,,,,San Antonio Huista,,Huehuetenango,,,
-45746,11066,11066,1413,245746,,,Vereda El Silencio,,,Carepa,,Antioquia,,5147,
+45746,11066,11066,1413,245746,,,Vereda El Silencio,,,Carepa,,Antioquia,,05147,
 45753,11066,11066,1413,245753,,,Av. Cra. 7,No. 130-00,,Bogota,,,,,
-45755,11066,11066,1413,245755,,,Carrera 78,Barrio Pueblo Nuevo,Verada Carepa,Apartado,,Antioquia,,829455,
-45756,11066,11066,1413,245756,,,Finca El Reposo,Vereda Aguas Claras,,Necocli,,Antioquia,,34937,
-45757,11066,11066,1413,245757,,,Finca Mariancel N-1,Vereda Aguas Claras,,Necocli,,Antioquia,,34938,
-45758,11066,11066,1413,245758,,,Finca La Diana,Finca Mariancel N-5,Vereda Aguas Claras,Necocli,,Antioquia,,3414390,
-45759,11066,11066,1413,245759,,,Finca Aguas Claritas,Finca Mariancel N-3,Vereda Aguas Claras,Necocli,,Antioquia,,3417,
+45755,11066,11066,1413,245755,,,Carrera 78,Barrio Pueblo Nuevo,Verada Carepa,Apartado,,Antioquia,,00829455,
+45756,11066,11066,1413,245756,,,Finca El Reposo,Vereda Aguas Claras,,Necocli,,Antioquia,,034937,
+45757,11066,11066,1413,245757,,,Finca Mariancel N-1,Vereda Aguas Claras,,Necocli,,Antioquia,,034938,
+45758,11066,11066,1413,245758,,,Finca La Diana,Finca Mariancel N-5,Vereda Aguas Claras,Necocli,,Antioquia,,03414390,
+45759,11066,11066,1413,245759,,,Finca Aguas Claritas,Finca Mariancel N-3,Vereda Aguas Claras,Necocli,,Antioquia,,03417,
 45760,11066,11066,1413,245760,,,El Billar,Vereda Cacique,,La Tebaida,,Quindio,,28040222,
 45761,11066,11066,1413,245761,,,Transversal 21 No. 18-180 Unid. Residencial Senderos De La Pradera P.H. Apto. 202 Torre 3,,,Dosquebradas,,Risaralda,,29474418,
 45747,11066,11066,1413,245747,,,,,,Apartado,,Antioquia,,,
 45748,11066,11066,1413,245748,,,,,,Turbo,,Antioquia,,,
-45762,11066,11066,1413,245762,,,Calle 115 No. 114BB-77 Apartamento 102 Primer Piso Edificio Siete Manzana T Quinta Etapa Urbanizacion La Serrania,,,Apartado,,Antioquia,,853657,
+45762,11066,11066,1413,245762,,,Calle 115 No. 114BB-77 Apartamento 102 Primer Piso Edificio Siete Manzana T Quinta Etapa Urbanizacion La Serrania,,,Apartado,,Antioquia,,00853657,
 45697,11066,11066,1413,245697,,,Calle 144 16-34,Apto. 404,,Bogota,,,,1020,
 45749,11066,11066,1413,245749,,,Condominio Quintas De La Rioja,Casa 10,Etapa 1,Pereira,,Risaralda,,,
 45699,11066,11066,1413,245699,,,Kilometro 18 Vereda El Manzano Via Pereira Armenia,,,Pereira,,Risaralda,,66001,
-45701,11066,11066,1413,245701,,,Cra 106A,Nro. 94 15,Nuevo Apartado,Apartado,,,,5045,
-45703,11066,11066,1413,245703,,,Cra 106A,Nro 94 15,Nuevo Apartado,Apartado,,,,5045,
+45701,11066,11066,1413,245701,,,Cra 106A,Nro. 94 15,Nuevo Apartado,Apartado,,,,05045,
+45703,11066,11066,1413,245703,,,Cra 106A,Nro 94 15,Nuevo Apartado,Apartado,,,,05045,
 45707,11109,11109,1413,245707,,,"No. 34, Shahid Hesari (Southern Razan) St.",Mirdamad Avenue,,Tehran,,,,,
 45708,11109,11109,1413,245708,,,"Langari Street, Nobonyad Square",Pasdaran Avenue,,Tehran,,,,,
 45709,11109,11109,1413,245709,,,No. 225 Teymori St.,Langari - Nobonyad Ave.,,Tehran,,,,,
@@ -10777,7 +10777,7 @@
 45789,11065,11065,1413,245789,,,"1A, Fook Ying Building, 379 Kings Road",North Point,,Hong Kong,,,,,
 45790,11053,11053,1413,245790,,,"Rm 51, 5th Floor, Britannia House, Jalan Cator",,,Bandar Seri Begawan BS,,,,8811,
 45714,11210,11210,1413,245714,,,"Apartment # 1504, Fairooz Tower",Dubai Marina,,Dubai,,,,,
-45715,11184,11184,1413,245715,,,"216 Ocean Drive, Sentosa Cove",,,Singapore,,,,98622,
+45715,11184,11184,1413,245715,,,"216 Ocean Drive, Sentosa Cove",,,Singapore,,,,098622,
 45717,11391,11391,1413,245717,,,"Taiwan World Trade Centre, Rm 6c-21 (6F), No. 5, Sec. 5, Xinyi Road",,,Taipei,,,,11011,
 45718,11184,11184,1413,245718,,,"1 North Bridge Road, #24-05 High Street Centre",,,Singapore,,,,179094,
 45719,11065,11065,1413,245719,,,"Suite 911, 9TH/F, Chuangjian Building, No.6023 Shennan Main Road",Futian District,,Shenzhen,,Guangdong,,,
@@ -10980,8 +10980,8 @@
 46164,11129,11129,1413,246164,,,,,,Zawiyah,,,,,
 46189,11218,11218,1413,246189,,,,,,Sanaa,,,,,
 46203,11044,11044,1413,246203,,,,,,Minsk,,,,,
-46205,11044,11044,1413,246205,,,"Dobromislenski Lane, 5",,,Minsk,Cyrillic: Ð³.ÐœÐ¸Ð½ÑÐº,,,,
-46207,11044,11044,1413,246207,,,"Heroes of the 120th Division St, 42",,,Minsk,Cyrillic: Ð³.ÐœÐ¸Ð½ÑÐº,,,,
+46205,11044,11044,1413,246205,,,"Dobromislenski Lane, 5",,,Minsk,Cyrillic: г.Минск,,,,
+46207,11044,11044,1413,246207,,,"Heroes of the 120th Division St, 42",,,Minsk,Cyrillic: г.Минск,,,,
 46214,11209,11209,1413,246214,,,"Bud.42,VUL.MARSELSKA Suvorovsky R-N",,,Odessa,,,,65123,
 46222,11160,11160,1413,246222,,,,,,Karachi,,,,,
 46224,11160,11160,1413,246224,,,,,,Karachi,,,,,
@@ -10994,8 +10994,8 @@
 46273,11155,11155,1413,246273,,,Altos de Motastepe Casa No 430,,,Managua,,,,,
 46277,11155,11155,1413,246277,,,"KM. 43.5 South Road Panamerican, South Panamerican Highway",,,Diriamba,,Carazo,,,
 46279,11155,11155,1413,246279,,,Altos E San Isidro A15,,,Managua,,,,,
-46283,11171,11171,1413,246283,,,163a A.A. Kadyrov Prospekt,,,Kurchaloi,Cyrillic: Ð“Ð¾Ñ€Ð¾Ð´ ÐšÑƒÑ€Ñ‡Ð°Ð»Ð¾Ð¹,"Kurchaloi District, Chechen Republic","Cyrillic: Ð Ð°Ð¹Ð¾Ð½ ÐšÑƒÑ€Ñ‡Ð°Ð»Ð¾ÐµÐ²ÑÐºÐ¸Ð¹, Ð§ÐµÑ‡ÐµÐ½ÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°",366329,Cyrillic: 366329
-46284,11171,11171,1413,246284,,,83 A.Kh.  Kadyrov Street,,,Kurchaloi village,Cyrillic: ÑÐµÐ»Ð¾ ÐšÑƒÑ€Ñ‡Ð°Ð»Ð¾Ð¹,"Kurchaloi district, Chechen Republic","Cyrillic: ÐšÑƒÑ€Ñ‡Ð°Ð»Ð¾ÐµÐ²ÑÐºÐ¸Ð¹ Ñ€Ð°Ð¹Ð¾Ð½, Ð§ÐµÑ‡ÐµÐ½ÑÐºÐ°Ñ Ñ€ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°",,
+46283,11171,11171,1413,246283,,,163a A.A. Kadyrov Prospekt,,,Kurchaloi,Cyrillic: Город Курчалой,"Kurchaloi District, Chechen Republic","Cyrillic: Район Курчалоевский, Чеченская Республика",366329,Cyrillic: 366329
+46284,11171,11171,1413,246284,,,83 A.Kh.  Kadyrov Street,,,Kurchaloi village,Cyrillic: село Курчалой,"Kurchaloi district, Chechen Republic","Cyrillic: Курчалоевский район, Чеченская республика",,
 46286,11171,11171,1413,246286,,,,,,Achkhoy-Martan,,Chechen Republic,,,
 46288,11171,11171,1413,246288,,,,,,Geldagan,,"Kurchaloi District, Chechen Republic",,,
 46290,11171,11171,1413,246290,,,,,,Kurchaloi District,,Chechen Republic,,,
@@ -11113,31 +11113,31 @@
 46648,11109,11109,1413,246648,,,"No. 9, 13th St. Ahmad Qasir St., Argentina Square",,,Tehran,,,,1968635414,
 46650,11109,11109,1413,246650,,,"2nd & 7th Floors, NO. 346, East. Mirdamad Ave., Modarres Exp.",,,Tehran,,,,1549944919,
 46651,11109,11109,1413,246651,,,"2nd Floor, No. 253, Mirdamad Blvd.",,,Tehran,,,,,
-46664,11209,11209,1413,246664,,,Bul. Verhovnoe Radi 20,,,Kiev,,Dniprovskyi R-N,,2100,
+46664,11209,11209,1413,246664,,,Bul. Verhovnoe Radi 20,,,Kiev,,Dniprovskyi R-N,,02100,
 46666,11209,11209,1413,246666,,,,,,,,,,,
 46669,11209,11209,1413,246669,,,,,,Kiev,,,,,
-46671,11209,11209,1413,246671,,,Str. 9 A Grushevskogo Apt V 5 1,,,Kiev,,,,1021,
+46671,11209,11209,1413,246671,,,Str. 9 A Grushevskogo Apt V 5 1,,,Kiev,,,,01021,
 46673,11209,11209,1413,246673,,,,,,,,Crimea,,,
 46682,11109,11109,1413,246682,,,"Mahshahr Highway, Velayat Square",,,Ahwaz,,,,,
 46692,11109,11109,1413,246692,,,"Ahmad Qassir Bokharest St., Argentine Sq.",,,Tehran,,,,,
-46694,11209,11209,1413,246694,,,7 Koshytsa Street,Apartment 136,,Kiev,,,,2068,
-46695,11209,11209,1413,246695,,,Stepana Rudanskogo 3A,Apartment 170,,Kiev,,,,4112,
+46694,11209,11209,1413,246694,,,7 Koshytsa Street,Apartment 136,,Kiev,,,,02068,
+46695,11209,11209,1413,246695,,,Stepana Rudanskogo 3A,Apartment 170,,Kiev,,,,04112,
 46697,11109,11109,1413,246697,,,"No. 12, Zagros St., 12th Ave, Argentina Square",,,Tehran,,,,,
 46701,11094,11094,1413,246701,,,,,,,,,,,
 46702,11209,11209,1413,246702,,,Redutnyi Pereulok 10A,,,Kiev,,,,,
-46703,11209,11209,1413,246703,,,UL. Natalii Ushvii 4 G App. 36,,,Kiev,,,,4108,
+46703,11209,11209,1413,246703,,,UL. Natalii Ushvii 4 G App. 36,,,Kiev,,,,04108,
 46784,11109,11109,1413,246784,,,,,,,,,,,
-46707,11209,11209,1413,246707,,,"Vul. Hotkevicha Gnata 12, Of. 177",,,Kiev,,Dniprovskyi R-N,,2094,
-46709,11209,11209,1413,246709,,,Vul. Harkivske Shose 201/203,,,Kiev,,Darnitskyi R-N,,2121,
+46707,11209,11209,1413,246707,,,"Vul. Hotkevicha Gnata 12, Of. 177",,,Kiev,,Dniprovskyi R-N,,02094,
+46709,11209,11209,1413,246709,,,Vul. Harkivske Shose 201/203,,,Kiev,,Darnitskyi R-N,,02121,
 46713,11109,11109,1413,246713,,,,,,,,,,,
 46715,11029,11029,1413,246715,,,,,,,,,,,
 46716,11109,11109,1413,246716,,,,,,,,,,,
 46722,11109,11109,1413,246722,,,,,,,,,,,
 46723,11109,11109,1413,246723,,,,,,,,,,,
 46725,11109,11109,1413,246725,,,,,,,,,,,
-46721,11209,11209,1413,246721,,,Mishugi 2 App 361,,,Kiev,,,,2140,
+46721,11209,11209,1413,246721,,,Mishugi 2 App 361,,,Kiev,,,,02140,
 51329,11065,11065,1413,251329,,,,,,,,,,,
-46788,11171,11171,1413,246788,,,"Mayakovsky street, building 14",,,Aldan,Cyrillic: Ð³Ð¾Ñ€Ð¾Ð´ ÐÐ»Ð´Ð°Ð½,Republic of Sakha (Yakutia),Cyrillic: Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¡Ð°Ñ…Ð° (Ð¯ÐºÑƒÑ‚Ð¸Ñ),678900,Cyrillic: 678900
+46788,11171,11171,1413,246788,,,"Mayakovsky street, building 14",,,Aldan,Cyrillic: город Алдан,Republic of Sakha (Yakutia),Cyrillic: Республика Саха (Якутия),678900,Cyrillic: 678900
 46833,11205,11205,1413,246833,,,,,,Istanbul,,,,,
 46835,11205,11205,1413,246835,,,,,,,,,,,
 46845,11247,11247,1413,246845,,,,,,,,,,,
@@ -11234,10 +11234,10 @@
 47472,11171,11171,1413,247472,,,,,,Rostov-On-Don,,,,,
 47482,11209,11209,1413,247482,,,,,,,,,,,
 47487,11171,11171,1413,247487,,,"Pionerskiy Prospekt, 41",,,Anapa,,Krasnodar Krai,,353456,
-47488,11209,11209,1413,247488,,,prosp. Pobedy 82,kv. 343,,Simferopol,Cyrillic: Ð¡Ð¸Ð¼Ñ„ÐµÑ€Ð¾Ð¿Ð¾Ð»ÑŒ,Crimea,Cyrillic: ÐšÑ€Ñ‹Ð¼,,
+47488,11209,11209,1413,247488,,,prosp. Pobedy 82,kv. 343,,Simferopol,Cyrillic: Симферополь,Crimea,Cyrillic: Крым,,
 47491,11171,11171,1413,247491,,,"d. 23A pom. V kom, 30, shosse Shchelkovskoe",,,Moscow,,,,107241,
-47492,11209,11209,1413,247492,,,ul. Balaklavskaya 117,kv. 48,,Simferopol,Cyrillic: Ð¡Ð¸Ð¼Ñ„ÐµÑ€Ð¾Ð¿Ð¾Ð»ÑŒ,Crimea,Cyrillic: ÐšÑ€Ñ‹Ð¼,,
-47494,11209,11209,1413,247494,,,"ul. Marshala Zhukova 35, kv. 53","ul. Angarskaya, 8",,Simferopol,Cyrillic: Ð¡Ð¸Ð¼Ñ„ÐµÑ€Ð¾Ð¿Ð¾Ð»ÑŒ,Crimea,Cyrillic: ÐšÑ€Ñ‹Ð¼,,
+47492,11209,11209,1413,247492,,,ul. Balaklavskaya 117,kv. 48,,Simferopol,Cyrillic: Симферополь,Crimea,Cyrillic: Крым,,
+47494,11209,11209,1413,247494,,,"ul. Marshala Zhukova 35, kv. 53","ul. Angarskaya, 8",,Simferopol,Cyrillic: Симферополь,Crimea,Cyrillic: Крым,,
 47504,11056,11056,1413,247504,,,,,,Pegu,,,,,
 47553,11056,11056,1413,247553,,,,,,,,,,,
 47526,11065,11065,1413,247526,,,,,,Urumqi,,Xinjiang,,,
@@ -11265,8 +11265,8 @@
 47694,11171,11171,1413,247694,,,,,,,,,,,
 47696,11044,11044,1413,247696,,,,,,Minsk,,,,,
 47698,11044,11044,1413,247698,,,"28, Communist str.",,,Brest,,,,224000,
-47702,11044,11044,1413,247702,,,"per. 1-st Okrestina, d. 36",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220028,Cyrillic: 220028
-47704,11044,11044,1413,247704,,,4 Gorodskoi Val,,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,220030,Cyrillic: 220030
+47702,11044,11044,1413,247702,,,"per. 1-st Okrestina, d. 36",,,Minsk,Cyrillic: г. Минск,,,220028,Cyrillic: 220028
+47704,11044,11044,1413,247704,,,4 Gorodskoi Val,,,Minsk,Cyrillic: Минск,,,220030,Cyrillic: 220030
 47722,11056,11056,1413,247722,,,"Gyogone Forest Compound, Bayint Naung Road, Insein Township",,,Rangoon,,,,,
 47723,11056,11056,1413,247723,,,"No. (72/74) Shawe Dagon Pagoda Road, Dagon Township",,,Rangoon,,,,,
 47729,11056,11056,1413,247729,,,"P.O. Box 206, Ahlone Street, Ahlone Township",,,Rangoon,,,,,
@@ -11274,7 +11274,7 @@
 47726,11056,11056,1413,247726,,,"No. 10, Strand Road, Kangyi Quarter, Myeik Township, Tanintharyi",,,,,,,,
 47727,11056,11056,1413,247727,,,"90 Kanbe St., Yankin Tsp.",,,Rangoon,,,,,
 47728,11056,11056,1413,247728,,,No. 4345 Bu Khwe,,,Naypyitaw,,,,,
-48058,11044,11044,1413,248058,,,"Polevaya, 6-58",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
+48058,11044,11044,1413,248058,,,"Polevaya, 6-58",,,Minsk,Cyrillic: Минск,,,,
 47784,11098,11098,1413,247784,,,,,,,,,,,
 47786,11098,11098,1413,247786,,,,,,,,,,,
 47789,11126,11126,1413,247789,,,"Serhal Building, 1st Floor",Daccache Street,,Haret Hreik,,Baabda,,,
@@ -11319,7 +11319,7 @@
 48021,11196,11196,1413,248021,,,Bahnhofstrasse 10,,,Zug,,,,6301,
 48063,11056,11056,1413,248063,,,Zayar Shwe Pyi Road,,,Naypyitaw,,,,,
 48024,11171,11171,1413,248024,,,ul Viktora Gyugo,"Building 1, 3rd Floor","Room 15, Office 302, 303",Kaliningrad,,,,129110,
-48026,11171,11171,1413,248026,,,Proektiruemyy proezd No 4062,"Building 1, 4",,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,115432,Cyrillic: 115432
+48026,11171,11171,1413,248026,,,Proektiruemyy proezd No 4062,"Building 1, 4",,Moscow,Cyrillic: Москва,,,115432,Cyrillic: 115432
 48027,11171,11171,1413,248027,,,Petrovka street,"Building 2, 3/6",,Moscow,,,,125993,
 48034,11056,11056,1413,248034,,,,,,,,,,,
 48040,11056,11056,1413,248040,,,,,,Naypyitaw,,,,,
@@ -11439,9 +11439,9 @@
 48686,11056,11056,1413,248686,,,L 103 Kanyeikthar Lane 6 FMI City,,,Rangoon,,,,,
 48687,11056,11056,1413,248687,,,,,,,,,,,
 48689,11056,11056,1413,248689,,,127A Dhamazadei Road,Kamayut,,Rangoon,,,,,
-51246,11065,11065,1413,251246,,,"Room 1801, The MixC",Qiaoxi District,,Shijiazhuang,,Hebei,,50000,
+51246,11065,11065,1413,251246,,,"Room 1801, The MixC",Qiaoxi District,,Shijiazhuang,,Hebei,,050000,
 48664,11065,11065,1413,248664,,,Haiyuetiandi B906,Qiaoxi Street,,Shijazhuang,,Hebei,,,
-48665,11065,11065,1413,248665,,,"Room 1102, Bldg. D Haiyuetiandi No. 66 Yuhua West Road Qiaoxi District, Shijiazhuang, Hebei",,,,Chinese Simplified: çŸ³å®¶åº„å¸‚,,Chinese Simplified: æ²³åŒ—çœ,,
+48665,11065,11065,1413,248665,,,"Room 1102, Bldg. D Haiyuetiandi No. 66 Yuhua West Road Qiaoxi District, Shijiazhuang, Hebei",,,,Chinese Simplified: 石家庄市,,Chinese Simplified: 河北省,,
 48682,11143,11143,1413,248682,,,,,,Manzanillo,,Colima,,,
 48684,11143,11143,1413,248684,,,,,,Manzanillo,,Colima,,,
 48693,11143,11143,1413,248693,,,,,,Manzanillo,,Colima,,,
@@ -11476,8 +11476,8 @@
 48782,11138,11138,1413,248782,,,,,,,,Menaka Region,,,
 48783,11138,11138,1413,248783,,,,,,,,I-n-Arabane,,,
 48784,11156,11156,1413,248784,,,,,,,,Tillaberi Region,,,
-49262,11044,11044,1413,249262,,,"ul. Boleslava Beruta, 12",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
-49263,11044,11044,1413,249263,,,"ul. Filimonova, 55/3, Pom. 3H (cab.2)",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
+49262,11044,11044,1413,249262,,,"ul. Boleslava Beruta, 12",,,Minsk,Cyrillic: Минск,,,,
+49263,11044,11044,1413,249263,,,"ul. Filimonova, 55/3, Pom. 3H (cab.2)",,,Minsk,Cyrillic: Минск,,,,
 48823,11220,11220,1413,248823,,,192 Baines Ave.,,,Harare,,Harare,,,
 48842,11098,11098,1413,248842,,,Aldea Cuatro Caminos,,,Santa Ana Huista,,Huehuetenango,,,
 49710,11098,11098,1413,249710,,,Aldea Yuxen,,,Santa Ana Huista,,Huehuetenango,,,
@@ -11511,14 +11511,14 @@
 49082,11171,11171,1413,249082,,,,,,Moscow,,,,,
 49083,11044,11044,1413,249083,,,"Ostroshitskaya, 8-35",,,Minsk,,,,220129,
 49085,11044,11044,1413,249085,,,,,,,,,,,
-49087,11044,11044,1413,249087,,,"pr-t Pobeditelei, d. 20 korpus 3, pom. 215",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220020,Cyrillic: 220020
-49089,11209,11209,1413,249089,,,"Bud. 3, Korpus A, vul. Leiptsyzka",,,Kyiv,,,,1015,
+49087,11044,11044,1413,249087,,,"pr-t Pobeditelei, d. 20 korpus 3, pom. 215",,,Minsk,Cyrillic: г. Минск,,,220020,Cyrillic: 220020
+49089,11209,11209,1413,249089,,,"Bud. 3, Korpus A, vul. Leiptsyzka",,,Kyiv,,,,01015,
 49091,11044,11044,1413,249091,,,,,,,,,,,
 49117,11073,11073,1413,249117,,,,,,,,,,,
-49345,11044,11044,1413,249345,,,"Budyonnovo, 15-36",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
-49346,11044,11044,1413,249346,,,"Magnitaya, 30-20",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
-49121,11044,11044,1413,249121,,,"Shugaeva, 27-69",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
-49123,11044,11044,1413,249123,,,"Severnaya ulitsa, 51",,,Miory,Cyrillic: ÐœÐ¸Ð¾Ñ€Ñ‹,,,,
+49345,11044,11044,1413,249345,,,"Budyonnovo, 15-36",,,Minsk,Cyrillic: Минск,,,,
+49346,11044,11044,1413,249346,,,"Magnitaya, 30-20",,,Minsk,Cyrillic: Минск,,,,
+49121,11044,11044,1413,249121,,,"Shugaeva, 27-69",,,Minsk,Cyrillic: Минск,,,,
+49123,11044,11044,1413,249123,,,"Severnaya ulitsa, 51",,,Miory,Cyrillic: Миоры,,,,
 49142,11073,11073,1413,249142,,,,,,,,,,,
 49323,11073,11073,1413,249323,,,"Manzana que ocupan las calles Cuba, Tacon y Chacon",La Habana Vieja,,Havana,,,,,
 49324,11073,11073,1413,249324,,,Goycuria #119,10 Octubre,,Havana,,,,,
@@ -11526,18 +11526,18 @@
 49185,11143,11143,1413,249185,,,,,,,,,,,
 49188,11044,11044,1413,249188,,,,,,Minsk,,,,,
 49190,11044,11044,1413,249190,,,"Raduzhnaya Str, 27-2",,,Minsk,,,,220020,
-49191,11044,11044,1413,249191,,,"ul. Raduzhnaya, d. 27, pom. 2",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220020,Cyrillic: 220020
+49191,11044,11044,1413,249191,,,"ul. Raduzhnaya, d. 27, pom. 2",,,Minsk,Cyrillic: г. Минск,,,220020,Cyrillic: 220020
 49193,11044,11044,1413,249193,,,"ul. Kazimirovskaya, 3-3",,,Minsk,,,,,
-49195,11044,11044,1413,249195,,,"ul. Ordzhonikidze, d. 18",,,Grodno,Cyrillic: Ð³. Ð“Ñ€Ð¾Ð´Ð½Ð¾,Grodnenskaya Oblast,Cyrillic: Ð“Ñ€Ð¾Ð´Ð½ÐµÐ½ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ,230771,Cyrillic: 230771
-49197,11044,11044,1413,249197,,,"ul. Molodezhnaya, d. 7, kom. 110",,,Novopolotsk,Cyrillic: Ð³. ÐÐ¾Ð²Ð¾Ð¿Ð¾Ð»Ð¾Ñ†Ðº,Vitebsk oblast,Cyrillic: Ð’Ð¸Ñ‚ÐµÐ±ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ,211440,Cyrillic: 211440
-49199,11044,11044,1413,249199,,,"ul. Rakovskaya, d. 14B, kab. 7 (5th floor)",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220004,Cyrillic: 220004
-49201,11171,11171,1413,249201,,,"ul. Poltavskaya, dom 8A, pomeshchenie 12",,,Smolensk,Cyrillic: Ð³. Ð¡Ð¼Ð¾Ð»ÐµÐ½ÑÐº,Smolensk Oblast,Cyrillic: Ð¡Ð¼Ð¾Ð»ÐµÐ½ÑÐºÐ°Ñ ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ,214025,Cyrillic: 214025
+49195,11044,11044,1413,249195,,,"ul. Ordzhonikidze, d. 18",,,Grodno,Cyrillic: г. Гродно,Grodnenskaya Oblast,Cyrillic: Гродненская область,230771,Cyrillic: 230771
+49197,11044,11044,1413,249197,,,"ul. Molodezhnaya, d. 7, kom. 110",,,Novopolotsk,Cyrillic: г. Новополоцк,Vitebsk oblast,Cyrillic: Витебская область,211440,Cyrillic: 211440
+49199,11044,11044,1413,249199,,,"ul. Rakovskaya, d. 14B, kab. 7 (5th floor)",,,Minsk,Cyrillic: г. Минск,,,220004,Cyrillic: 220004
+49201,11171,11171,1413,249201,,,"ul. Poltavskaya, dom 8A, pomeshchenie 12",,,Smolensk,Cyrillic: г. Смоленск,Smolensk Oblast,Cyrillic: Смоленская Область,214025,Cyrillic: 214025
 49203,11044,11044,1413,249203,,,95 Nezavisimosti ave,,,Minsk,,,,220023,
-49205,11044,11044,1413,249205,,,village Koleina,Lyadenskiy council,,Chervenskiy district,Cyrillic: Ð§ÐµÑ€Ð²ÐµÐ½ÑÐºÐ¸Ð¹ Ñ€Ð°Ð¹Ð¾Ð½,Minsk oblast,Cyrillic: ÐœÐ¸Ð½ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ,223231,Cyrillic: 223231
+49205,11044,11044,1413,249205,,,village Koleina,Lyadenskiy council,,Chervenskiy district,Cyrillic: Червенский район,Minsk oblast,Cyrillic: Минская область,223231,Cyrillic: 223231
 49222,11044,11044,1413,249222,,,ul. Skommunarov,,,Gomel,,Gomel Oblast,,245050,
 49223,11044,11044,1413,249223,,,"3, Street of Communards",,,Gomel,,,,,
-49224,11044,11044,1413,249224,,,3 Kommunarov St.,,,Gomel,Cyrillic: Ð“Ð¾Ð¼ÐµÐ»ÑŒ,,,,
-49227,11044,11044,1413,249227,,,"ul. Zavodskaya, d. 1K, pom. 1",gp. Bolbasovo,,,,"Orsha district, Vitebsk oblast","Cyrillic: ÐžÑ€ÑˆÐ°Ð½ÑÐºÐ¸Ð¹ Ñ€Ð°Ð¹Ð¾Ð½, Ð’Ð¸Ñ‚ÐµÐ±ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ",211004,Cyrillic: 211004
+49224,11044,11044,1413,249224,,,3 Kommunarov St.,,,Gomel,Cyrillic: Гомель,,,,
+49227,11044,11044,1413,249227,,,"ul. Zavodskaya, d. 1K, pom. 1",gp. Bolbasovo,,,,"Orsha district, Vitebsk oblast","Cyrillic: Оршанский район, Витебская область",211004,Cyrillic: 211004
 49235,11044,11044,1413,249235,,,"Lyn'kova Street, 43-51",,,Minsk,,,,220124,
 49265,11044,11044,1413,249265,,,,,,Minsk,,,,,
 49267,11044,11044,1413,249267,,,,,,,,,,,
@@ -11549,12 +11549,12 @@
 50887,11083,11083,1413,250887,,,,,,,,,,,
 49292,11074,11074,1413,249292,,,"Cronos Court, Flat 21, 66 Arch. Makariou III",,,Nicosia,,,,1077,
 49294,11210,11210,1413,249294,,,"Palm Jumeirah, Tiara Residence, Emerald Bldg, Apt. 1102",,,Dubai,,,,,
-49296,11044,11044,1413,249296,,,"ul. Petra Mstislavtsa, d. 9, pom. 9-13",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220076,Cyrillic: 220076
-49298,11044,11044,1413,249298,,,"ul. Petra Mstislavtsa, d. 9, pom. 10-44",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220076,Cyrillic: 220076
-49300,11044,11044,1413,249300,,,"ul. Petra Mstislavtsa, d. 9, pom. 10 (kabinet 34)",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220114,Cyrillic: 220114
-49302,11044,11044,1413,249302,,,"ul. Rakovskaya, d. 14V (3rd floor)",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220004,Cyrillic: 220004
-49304,11044,11044,1413,249304,,,"d. 131 (FEZ Minsk), Novodvorskiy village",Novodvorskiy village council,,Minsk District,Cyrillic: ÐœÐ¸Ð½ÑÐºÐ¸Ð¹ Ñ€Ð°Ð¹Ð¾Ð½,Minsk Oblast,Cyrillic: ÐœÐ¸Ð½ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ,223016,Cyrillic: 223016
-49306,11044,11044,1413,249306,,,"ul. Azgura, d. 5, pom. 68 (kabinet 1, 1st floor)",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220088,Cyrillic: 220088
+49296,11044,11044,1413,249296,,,"ul. Petra Mstislavtsa, d. 9, pom. 9-13",,,Minsk,Cyrillic: г. Минск,,,220076,Cyrillic: 220076
+49298,11044,11044,1413,249298,,,"ul. Petra Mstislavtsa, d. 9, pom. 10-44",,,Minsk,Cyrillic: г. Минск,,,220076,Cyrillic: 220076
+49300,11044,11044,1413,249300,,,"ul. Petra Mstislavtsa, d. 9, pom. 10 (kabinet 34)",,,Minsk,Cyrillic: г. Минск,,,220114,Cyrillic: 220114
+49302,11044,11044,1413,249302,,,"ul. Rakovskaya, d. 14V (3rd floor)",,,Minsk,Cyrillic: г. Минск,,,220004,Cyrillic: 220004
+49304,11044,11044,1413,249304,,,"d. 131 (FEZ Minsk), Novodvorskiy village",Novodvorskiy village council,,Minsk District,Cyrillic: Минский район,Minsk Oblast,Cyrillic: Минская область,223016,Cyrillic: 223016
+49306,11044,11044,1413,249306,,,"ul. Azgura, d. 5, pom. 68 (kabinet 1, 1st floor)",,,Minsk,Cyrillic: г. Минск,,,220088,Cyrillic: 220088
 49310,11171,11171,1413,249310,,,,,,,,,,,
 49309,11171,11171,1413,249309,,,,,,,,,,,
 49313,11171,11171,1413,249313,,,,,,Moscow,,,,,
@@ -11562,10 +11562,10 @@
 49320,11171,11171,1413,249320,,,Akademika Vargi Street 2,,,Moscow,,,,,
 49319,11044,11044,1413,249319,,,,,,Minsk,,,,,
 49322,11044,11044,1413,249322,,,,,,Minsk,,,,,
-49328,11171,11171,1413,249328,,,"Lesoparkovaya Street, Building 4",,,St. Petersburg,Cyrillic: Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³,,,195043,Cyrillic: 195043
-52507,11044,11044,1413,252507,,,"Perehodnaya str. 64, building 3, office 5",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,220070,Cyrillic: 220070
+49328,11171,11171,1413,249328,,,"Lesoparkovaya Street, Building 4",,,St. Petersburg,Cyrillic: Санкт-Петербург,,,195043,Cyrillic: 195043
+52507,11044,11044,1413,252507,,,"Perehodnaya str. 64, building 3, office 5",,,Minsk,Cyrillic: Минск,,,220070,Cyrillic: 220070
 49331,11171,11171,1413,249331,,,,,,Moscow,,,,,
-49332,11044,11044,1413,249332,,,Korzh Str.,,,Soligorsk,Cyrillic: Ð¡Ð¾Ð»Ð¸Ð³Ð¾Ñ€ÑÐº,Minsk Region,Cyrillic: ÐœÐ¸Ð½ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ,223710,Cyrillic: 223710
+49332,11044,11044,1413,249332,,,Korzh Str.,,,Soligorsk,Cyrillic: Солигорск,Minsk Region,Cyrillic: Минская область,223710,Cyrillic: 223710
 49334,11044,11044,1413,249334,,,,,,Minsk,,,,,
 49336,11044,11044,1413,249336,,,,,,Minsk,,,,,
 49342,11044,11044,1413,249342,,,,,,Minsk,,,,,
@@ -11609,18 +11609,18 @@
 49667,11066,11066,1413,249667,,,,,,,,,,,
 49669,11066,11066,1413,249669,,,Calle 23c 4-27 LC 1,Gaira Paraiso,,Santa Marta,,,,,
 49671,11066,11066,1413,249671,,,Calle 23c 4-27 LC 1,Gaira Paraiso,,Santa Marta,,,,,
-49673,11171,11171,1413,249673,,,d. 19 etazh 3 pom. 70,ul. Leninskaya Sloboda,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,115280,Cyrillic: 115280
+49673,11171,11171,1413,249673,,,d. 19 etazh 3 pom. 70,ul. Leninskaya Sloboda,,Moscow,Cyrillic: Москва,,,115280,Cyrillic: 115280
 49674,11171,11171,1413,249674,,,st. Leninskaya Sloboda,"house 19, floor 3, room. 70",,Moscow,,,,115280,
-49675,11171,11171,1413,249675,,,vn. ter. Municipal district Danilovsky,Leninskaya Sloboda,"house 19, floor 3, suite 70",Moscow,Cyrillic: Ð³. ÐœÐ¾ÑÐºÐ²Ð°,,,115280,Cyrillic: 115280
-49676,11171,11171,1413,249676,,,Leninskaya Sloboda,"house 19, floor 3, suite 70",,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,115280,Cyrillic: 115280
-49678,11044,11044,1413,249678,,,"Skryganova St., Building 4A, Apt. 211",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,,
-49680,11044,11044,1413,249680,,,"Yesenina st., 79-108",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,,
-49684,11044,11044,1413,249684,,,"40-let Pobyedy St., 34-41",,,Borovlyany village,Cyrillic: Ð‘Ð¾Ñ€Ð¾Ð²Ð»ÑÐ½Ñ‹,Minsk Region,Cyrillic: ÐœÐ¸Ð½ÑÐºÐ¸Ð¹ Ñ€-Ð½ Ð´.,,
+49675,11171,11171,1413,249675,,,vn. ter. Municipal district Danilovsky,Leninskaya Sloboda,"house 19, floor 3, suite 70",Moscow,Cyrillic: г. Москва,,,115280,Cyrillic: 115280
+49676,11171,11171,1413,249676,,,Leninskaya Sloboda,"house 19, floor 3, suite 70",,Moscow,Cyrillic: Москва,,,115280,Cyrillic: 115280
+49678,11044,11044,1413,249678,,,"Skryganova St., Building 4A, Apt. 211",,,Minsk,Cyrillic: г. Минск,,,,
+49680,11044,11044,1413,249680,,,"Yesenina st., 79-108",,,Minsk,Cyrillic: г. Минск,,,,
+49684,11044,11044,1413,249684,,,"40-let Pobyedy St., 34-41",,,Borovlyany village,Cyrillic: Боровляны,Minsk Region,Cyrillic: Минский р-н д.,,
 49685,11073,11073,1413,249685,,,,,,Havana,,,,,
 49688,11073,11073,1413,249688,,,,,,Havana,,,,,
-49687,11044,11044,1413,249687,,,"Golubka St., 12-43",,,,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,
-49690,11044,11044,1413,249690,,,"Syrokomli St., 48-73",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,,
-49692,11044,11044,1413,249692,,,"Myastrovskaya St., 24-63",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,,
+49687,11044,11044,1413,249687,,,"Golubka St., 12-43",,,,,Minsk,Cyrillic: г. Минск,,
+49690,11044,11044,1413,249690,,,"Syrokomli St., 48-73",,,Minsk,Cyrillic: г. Минск,,,,
+49692,11044,11044,1413,249692,,,"Myastrovskaya St., 24-63",,,Minsk,Cyrillic: г. Минск,,,,
 49709,11073,11073,1413,249709,,,Infanta 1506 Santa Rosa Y Estevez,,,Cerro,,,,,
 50181,11044,11044,1413,250181,,,"19, Chalovskaya St.",,,Borisov,,Minsk Region,,222512,
 50182,11044,11044,1413,250182,,,"19, L. Chalovskoi Str.",,,Borisov,,,,222512,
@@ -11629,20 +11629,20 @@
 49806,11109,11109,1413,249806,,,,,,,,,,,
 49808,11109,11109,1413,249808,,,,,,,,,,,
 49822,11171,11171,1413,249822,,,"Presnenskaya Embankment, 12",Federation East Tower,"Floor 31, Suite Q",Moscow,,,,123317,
-49823,11075,11075,1413,249823,,,SkoÅ™epka 1058/8 StarÃ© MÄ›sto,,,Praha,,,,110 00,
-49842,11044,11044,1413,249842,,,"ul. Myasnikova, d. 39, kom. 338",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220048,Cyrillic: 220048
-49844,11044,11044,1413,249844,,,"ul. Yana Chechota 26, kv. 63",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
-49845,11044,11044,1413,249845,,,"Community Garden Voskhod-1, 22",,,Korenevskiy village council,Cyrillic: ÐšÐ¾Ñ€ÐµÐ½ÐµÐ²ÑÐºÐ¸Ð¹ Ñ/Ñ,Grodno oblast,Cyrillic: Ð“Ñ€Ð¾Ð´Ð½ÐµÐ½ÑÐºÐ°Ñ Ð¾Ð±Ð».,,
+49823,11075,11075,1413,249823,,,Skořepka 1058/8 Staré Město,,,Praha,,,,110 00,
+49842,11044,11044,1413,249842,,,"ul. Myasnikova, d. 39, kom. 338",,,Minsk,Cyrillic: г. Минск,,,220048,Cyrillic: 220048
+49844,11044,11044,1413,249844,,,"ul. Yana Chechota 26, kv. 63",,,Minsk,Cyrillic: Минск,,,,
+49845,11044,11044,1413,249845,,,"Community Garden Voskhod-1, 22",,,Korenevskiy village council,Cyrillic: Кореневский с/с,Grodno oblast,Cyrillic: Гродненская обл.,,
 49847,11044,11044,1413,249847,,,,,,Minsk,,,,,
 49849,11044,11044,1413,249849,,,,,,Minsk,,,,,
 49851,11044,11044,1413,249851,,,,,,Minsk,,,,,
 49853,11044,11044,1413,249853,,,,,,Minsk,,,,,
 49855,11044,11044,1413,249855,,,,,,Grodno,,,,,
 49857,11044,11044,1413,249857,,,,,,Brest,,,,,
-49868,11044,11044,1413,249868,,,62-164 Sukharevskaya St.,,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,,
-49863,11044,11044,1413,249863,,,"135A-81, Prospekt Pobyediteley",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
-49865,11044,11044,1413,249865,,,"99-1-39, Mayakovskogo St.",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,,
-49867,11044,11044,1413,249867,,,12-27 Golubka St.,,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,,
+49868,11044,11044,1413,249868,,,62-164 Sukharevskaya St.,,,Minsk,Cyrillic: г. Минск,,,,
+49863,11044,11044,1413,249863,,,"135A-81, Prospekt Pobyediteley",,,Minsk,Cyrillic: Минск,,,,
+49865,11044,11044,1413,249865,,,"99-1-39, Mayakovskogo St.",,,Minsk,Cyrillic: г. Минск,,,,
+49867,11044,11044,1413,249867,,,12-27 Golubka St.,,,Minsk,Cyrillic: г. Минск,,,,
 50146,11044,11044,1413,250146,,,,,,,,,,,
 49904,11169,11169,1413,249904,,,"Al Hilal Area, Ibn Abad Street","District 41, Villa Number 7",P.O. Box 1676,Doha,,,,,
 49905,11211,11211,1413,249905,,,25 Highfield Drive,,,Ickenham,,Uxbridge,,UB10 8AW,
@@ -11675,7 +11675,7 @@
 49964,11065,11065,1413,249964,,,"19/F., No. 3 Lockhart Road, Wanchai",,,Hong Kong,,,,,
 49966,11169,11169,1413,249966,,,,,,,,,,,
 49968,11169,11169,1413,249968,,,Al Jazira Street,Bin Mahmoud,,Doha,,,,,
-50164,11044,11044,1413,250164,,,17 Kalvariyskaya str.,,,Minsk,Cyrillic: Ð³.ÐœÐ¸Ð½ÑÐº,,,220004,Cyrillic: 220004
+50164,11044,11044,1413,250164,,,17 Kalvariyskaya str.,,,Minsk,Cyrillic: г.Минск,,,220004,Cyrillic: 220004
 49971,11205,11205,1413,249971,,,,,,Istanbul,,,,,
 49973,11205,11205,1413,249973,,,,,,Istanbul,,,,,
 49975,11205,11205,1413,249975,,,,,,Istanbul,,,,,
@@ -11692,24 +11692,24 @@
 50050,11122,11122,1413,250050,,,"Mubarak Al Kabir, Darwaza abdul Razak Square",,,Kuwait City,,,,,
 50052,11122,11122,1413,250052,,,,,,,,,,,
 58874,11155,11155,1413,258874,,,,,,,,,,,
-50082,11044,11044,1413,250082,,,"Lyubanskiy District, Pervomaiskaya St, Building 35, Office 3.1",,,Lyuban City,Cyrillic: Ð³. Ð›ÑŽÐ±Ð°Ð½ÑŒ,Minsk Oblast,Cyrillic: ÐœÐ¸Ð½ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ,223810,Cyrillic: 223810
+50082,11044,11044,1413,250082,,,"Lyubanskiy District, Pervomaiskaya St, Building 35, Office 3.1",,,Lyuban City,Cyrillic: г. Любань,Minsk Oblast,Cyrillic: Минская область,223810,Cyrillic: 223810
 50083,11044,11044,1413,250083,,,"d. 35, kab. 3.1, ul. Pervomaiskaya g. s/s",,,Lyuban Lyubanksi Raion,,Minskaya Obl.,,223810,
-50085,11209,11209,1413,250085,,,"Bud. 44b Inshe Poverkh 2, vul. Evgena Konovaltsya Pechersky R-N",,,Kyiv,,,,1133,
-50092,11044,11044,1413,250092,,,"Masherova Ave, Building 35, Room 644",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,220002,Cyrillic: 220002
-50144,11044,11044,1413,250144,,,"ul. Starovilenskaya, d. 4",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220029,Cyrillic: 220029
-50148,11044,11044,1413,250148,,,Karvata St.,Building 85,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,220138,Cyrillic: 220138
+50085,11209,11209,1413,250085,,,"Bud. 44b Inshe Poverkh 2, vul. Evgena Konovaltsya Pechersky R-N",,,Kyiv,,,,01133,
+50092,11044,11044,1413,250092,,,"Masherova Ave, Building 35, Room 644",,,Minsk,Cyrillic: Минск,,,220002,Cyrillic: 220002
+50144,11044,11044,1413,250144,,,"ul. Starovilenskaya, d. 4",,,Minsk,Cyrillic: г. Минск,,,220029,Cyrillic: 220029
+50148,11044,11044,1413,250148,,,Karvata St.,Building 85,,Minsk,Cyrillic: Минск,,,220138,Cyrillic: 220138
 50150,11044,11044,1413,250150,,,25 Makayonka St.,,,Minsk,,,,220114,
 50151,11044,11044,1413,250151,,,25 Makaenka St.,,,Minsk,,,,220114,
 50153,11044,11044,1413,250153,,,Nezavisimosti Ave. 86-B,,,Minsk,,,,220012,
 50155,11044,11044,1413,250155,,,Room 20,Administrative Building 187,Soltysa St.,Minsk,,,,220070,
-50156,11044,11044,1413,250156,,,D. 5/1,Ustenskiy Selsovyet,"Vitebskaya Oblast, Orshanskiy Rayon",Ag. Ustye,Cyrillic: Ð°Ð³. Ð£ÑÑ‚ÑŒÐµ,,,211003,Cyrillic: 211003
-50158,11044,11044,1413,250158,,,"44, Zakharova Str.",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,220034,Cyrillic: 220034
-51583,11044,11044,1413,251583,,,d. 11,Ul. Pervomayskaya,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,220034,Cyrillic: 220034
-50162,11044,11044,1413,250162,,,ul. Shchukina 15,,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
-50163,11044,11044,1413,250163,,,"ul. Frantsiska Skoriny 43A, kv. 41",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
+50156,11044,11044,1413,250156,,,D. 5/1,Ustenskiy Selsovyet,"Vitebskaya Oblast, Orshanskiy Rayon",Ag. Ustye,Cyrillic: аг. Устье,,,211003,Cyrillic: 211003
+50158,11044,11044,1413,250158,,,"44, Zakharova Str.",,,Minsk,Cyrillic: Минск,,,220034,Cyrillic: 220034
+51583,11044,11044,1413,251583,,,d. 11,Ul. Pervomayskaya,,Minsk,Cyrillic: Минск,,,220034,Cyrillic: 220034
+50162,11044,11044,1413,250162,,,ul. Shchukina 15,,,Minsk,Cyrillic: Минск,,,,
+50163,11044,11044,1413,250163,,,"ul. Frantsiska Skoriny 43A, kv. 41",,,Minsk,Cyrillic: Минск,,,,
 52378,11044,11044,1413,252378,,,,,,Minsk,,,,,
 51823,11044,11044,1413,251823,,,,,,Minsk,,,,,
-50170,11044,11044,1413,250170,,,"Chichurina St, 4-120",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,,
+50170,11044,11044,1413,250170,,,"Chichurina St, 4-120",,,Minsk,Cyrillic: Минск,,,,
 50184,11044,11044,1413,250184,,,117,bld. 3,Nezavisimosti Ave.,Minsk,,,,220114,
 50185,11044,11044,1413,250185,,,Nezavisimosti ave. 115,,,Minsk,,,,220114,
 50186,11044,11044,1413,250186,,,6 Volgogradskaya St.,,,Minsk,,,,220012,
@@ -11787,7 +11787,7 @@
 56123,11171,11171,1413,256123,,,Agibalov St. 48,Office 70,,Samara,,"Samarskaya, Oblast",,443041,
 50788,11058,11058,1413,250788,,,,,,,,,,,
 50787,11058,11058,1413,250787,,,,,,,,,,,
-50795,11074,11074,1413,250795,,,"Evagora Pallikaridi, 11",,,Argaka,Greek: Î‘ÏÎ³Î¬ÎºÎ±,Paphos,Greek: Î Î¬Ï†Î¿Ï‚,8873,Greek: 8873
+50795,11074,11074,1413,250795,,,"Evagora Pallikaridi, 11",,,Argaka,Greek: Αργάκα,Paphos,Greek: Πάφος,8873,Greek: 8873
 50798,11085,11085,1413,250798,,,Felket Street,,,Asmara,,,,,
 50799,11210,11210,1413,250799,,,,,,Dubai,,,,,
 50801,11085,11085,1413,250801,,,Felket Street,,,Asmara,,,,,
@@ -11855,7 +11855,7 @@
 50999,11065,11065,1413,250999,,,"Room 810, No. 760",Qinzhou Road,Xuhui District,Shanghai,,,,,
 51000,11065,11065,1413,251000,,,,,,Guangzhou,,Guangdong,,,
 51002,11065,11065,1413,251002,,,"Room 705, Floor 7, Building 1",No. 1919 Zhongshan West Road,Xuhui District,Shanghai,,,,,
-52984,11171,11171,1413,252984,,,"Presnenskaya nab., D. 8, Structure 1, MFK Capital City, South Tower, 7, 8th Floor",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,123112,Cyrillic: 123112
+52984,11171,11171,1413,252984,,,"Presnenskaya nab., D. 8, Structure 1, MFK Capital City, South Tower, 7, 8th Floor",,,Moscow,Cyrillic: Москва,,,123112,Cyrillic: 123112
 51044,11241,11241,1413,251044,,,"57/63, Line Wall Road",,,Gibraltar,,,,GX11 1AA,
 51046,11069,11069,1413,251046,,,67 Boulevard Du 30 Juin,"Immeuble Golf, 5eme etage",Municipality of Gombe,Kinshasa,,,,,
 51047,11069,11069,1413,251047,,,"32 BIS, Avenue KIVU",Ngaliema,,Kinshasa,,Kinshasa,,,
@@ -11874,7 +11874,7 @@
 51070,11069,11069,1413,251070,,,110 Boulevard Du 30 Juin,"Immeuble Onze Treize, 8th Floor",Kinshasa,Kinshasa,,Kinshasa,,,
 51072,11069,11069,1413,251072,,,"8th floor, Immeuble 1113",Boulevard Du 30 Juin No. 110,Gombe,Kinshasa,,Kinshasa,,,
 51303,11209,11209,1413,251303,,,,,,,,,,,
-51078,11209,11209,1413,251078,,,Yevhena Konoval'tsya Street,Building 36-B,Apartment 50,Kyiv,Cyrillic: ÐšÐ¸Ñ—Ð²,,,1133,Cyrillic: 01133
+51078,11209,11209,1413,251078,,,Yevhena Konoval'tsya Street,Building 36-B,Apartment 50,Kyiv,Cyrillic: Київ,,,01133,Cyrillic: 01133
 51326,11042,11042,1413,251326,,,,,,,,,,,
 51324,11042,11042,1413,251324,,,,,,,,,,,
 51088,11065,11065,1413,251088,,,"Unit 1105, Hua Qin Int'l Bldg, 340 Queens RD Central",,,Hong Kong,,,,,
@@ -11935,7 +11935,7 @@
 51412,11052,11052,1413,251412,,,Rua Tapaciquara 54,Sala 01,Parque Renato Maia,Guarulhos,,Sao Paulo,,07114-220,
 51414,11052,11052,1413,251414,,,"Rua Dorezopolis, 669",Casa 03,Jardim Santa Clara,Guarulhos,,Sao Paulo,,07123-120,
 52985,11171,11171,1413,252985,,,,,,Moscow,,,,,
-52964,11171,11171,1413,252964,,,Naberezhnaya Presnenskaya,"Dom 8 Stroyeniye 1, Etaj 7",,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,123112,Cyrillic: 123112
+52964,11171,11171,1413,252964,,,Naberezhnaya Presnenskaya,"Dom 8 Stroyeniye 1, Etaj 7",,Moscow,Cyrillic: Москва,,,123112,Cyrillic: 123112
 51616,11209,11209,1413,251616,,,,,,,,,,,
 51504,11171,11171,1413,251504,,,,,,,,,,,
 51506,11171,11171,1413,251506,,,,,,,,,,,
@@ -11959,7 +11959,7 @@
 51623,11209,11209,1413,251623,,,,,,,,,,,
 51611,11171,11171,1413,251611,,,,,,Moscow,,,,,
 51612,11209,11209,1413,251612,,,,,,Yalta,,Crimea,,,
-51615,11209,11209,1413,251615,,,131 Antonovicha,,,Kyiv,,,,3150,
+51615,11209,11209,1413,251615,,,131 Antonovicha,,,Kyiv,,,,03150,
 51647,11126,11126,1413,251647,,,,,,,,,,,
 51648,11094,11094,1413,251648,,,,,,,,,,,
 51649,11148,11148,1413,251649,,,,,,,,,,,
@@ -12000,7 +12000,7 @@
 51710,11171,11171,1413,251710,,,"ul. Spartakovskaya, d. 5, str. 1, pom. IX, et mansarda, kom 6A",,,Moscow,,,,105066,
 51712,11074,11074,1413,251712,,,Millios Building,"flat no: 2, Amathoyntos 42",,Limassol,,,,4532,
 51744,11171,11171,1413,251744,,,"d. 67, ul. Sakko i Vantsetti",,,Yekaterinburg,,Sverdlovsk Oblast,,620014,
-54428,11171,11171,1413,254428,,,"ul. Kuusinena, d. 11, korp. 1",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,125252,Cyrillic: 125252
+54428,11171,11171,1413,254428,,,"ul. Kuusinena, d. 11, korp. 1",,,Moscow,Cyrillic: Москва,,,125252,Cyrillic: 125252
 51764,11171,11171,1413,251764,,,Nab. Presnenskaya D. 10,Blok S,Floor 16,Moscow,,,,123112,
 51768,11217,11217,1413,251768,,,No.1 Yet Kieu str.,Hoan Kiem District,,Hanoi,,,,,
 51769,11217,11217,1413,251769,,,"Floor 1, 2nd Floor, No 1, Yet Kieu Street,",Tran Hung Dao Ward,Hoan Kiem District,Hanoi,,,,,
@@ -12030,31 +12030,31 @@
 51873,11171,11171,1413,251873,,,33-1 Prospekt Mira,Apt. 34,,Moscow,,,,,
 51870,11056,11056,1413,251870,,,Pyay Road,,A4/A5 Kamayut Township,Rangoon,,,,11201,
 52008,11056,11056,1413,252008,,,,,,,,,,,
-51876,11171,11171,1413,251876,,,"Ul. Smirnovskaya d. 10, Str. 3. Pom VIII",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,109052,,,Cyrillic: 109052
-51880,11171,11171,1413,251880,,,"Ul. Smirnovskaya d. 10, Str. 8. kabinet 10",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,109052,Cyrillic: 109052
+51876,11171,11171,1413,251876,,,"Ul. Smirnovskaya d. 10, Str. 3. Pom VIII",,,Moscow,Cyrillic: Москва,109052,,,Cyrillic: 109052
+51880,11171,11171,1413,251880,,,"Ul. Smirnovskaya d. 10, Str. 8. kabinet 10",,,Moscow,Cyrillic: Москва,,,109052,Cyrillic: 109052
 51884,11184,11184,1413,251884,,,,,,,,,,,
 51885,11056,11056,1413,251885,,,,,,,,,,,
-51883,11171,11171,1413,251883,,,"Ul. Smirnovskaya d. 10, Str. 8, Kabinet 8",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,109052,Cyrillic: 109052
+51883,11171,11171,1413,251883,,,"Ul. Smirnovskaya d. 10, Str. 8, Kabinet 8",,,Moscow,Cyrillic: Москва,,,109052,Cyrillic: 109052
 51888,11171,11171,1413,251888,,,"vn.ter.g. munitsipalny okrug Sokolniki, ul Strommnyka d. 18 str. 27, kom.",,,Moscow,,,,107076,
 51890,11056,11056,1413,251890,,,,,,,,,,,
 52023,11056,11056,1413,252023,,,,,,,,,,,
-51894,11171,11171,1413,251894,,,Ul. Novo-Sadovaya D. 3 Komnata 163 Floor 3,,,Samara,Cyrillic: Ð¡Ð°Ð¼Ð°Ñ€Ð°,,,443100,Cyrillic: 443100
+51894,11171,11171,1413,251894,,,Ul. Novo-Sadovaya D. 3 Komnata 163 Floor 3,,,Samara,Cyrillic: Самара,,,443100,Cyrillic: 443100
 51897,11171,11171,1413,251897,,,"D. 7, Str. 8, Pom. III Kom. N1 Etazh 2, Naberezhnaya Derbenevskaya",,,Moscow,,,,115114,
-51900,11171,11171,1413,251900,,,"Ul. Smirnovskaya D. 10, Str. 8, Kabinet 8",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,109052,Cyrillic: 109052
-51902,11171,11171,1413,251902,,,"Pr-Kt Oktyabrskii D. 111/119, Pom. 1, Komnata 6",Floor 2,,Lyubertsy,Cyrillic: Ð›ÑŽÐ±ÐµÑ€Ñ†Ñ‹,,,140002,Cyrillic: 140002
+51900,11171,11171,1413,251900,,,"Ul. Smirnovskaya D. 10, Str. 8, Kabinet 8",,,Moscow,Cyrillic: Москва,,,109052,Cyrillic: 109052
+51902,11171,11171,1413,251902,,,"Pr-Kt Oktyabrskii D. 111/119, Pom. 1, Komnata 6",Floor 2,,Lyubertsy,Cyrillic: Люберцы,,,140002,Cyrillic: 140002
 51906,11171,11171,1413,251906,,,"d.13 str. 1 etazh 5 kom. 1-31, ul. Nikoloyamskaya",,,Moscow,,,,109240,
-51912,11171,11171,1413,251912,,,"Ul. Smirnovskaya D. 10, Str. 8 Kabinet 12",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,109052,Cyrillic: 109052
+51912,11171,11171,1413,251912,,,"Ul. Smirnovskaya D. 10, Str. 8 Kabinet 12",,,Moscow,Cyrillic: Москва,,,109052,Cyrillic: 109052
 51915,11171,11171,1413,251915,,,"d. 23 Str. 3 pom. II kom. 1K, 1L, 1M, 1N, 1O, 1P, ul. Lva Tolstogo",,,Moscow,,,,119021,
 51926,11171,11171,1413,251926,,,"27/35, Voroncovskaya Ul.",,,Moscow,,,,109147,
 51930,11171,11171,1413,251930,,,"Bldg. 1, 24/2, Pokrovka str.",,,Moscow,,,,105062,
 51919,11171,11171,1413,251919,,,"Ul. Smirnovskaya D. 10, Str. 8, Komnata 7",,,Moscow,,,,109052,
-51921,11171,11171,1413,251921,,,"d. 42, Moskovskoe Shosse",Sergiev Posad,,,,Moscow Oblast,Cyrillic: ÐœÐ¾ÑÐºÐ¾Ð²ÑÐºÐ°Ñ ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ,141300,Cyrillic: 141300
-51925,11171,11171,1413,251925,,,Ul. Tsentralnaya D. 36,,,Shemetovo,Cyrillic: Ð¨ÐµÐ¼ÐµÑ‚Ð¾Ð²Ð¾,Sergiev Posad,Cyrillic: Ð¡ÐµÑ€Ð³Ð¸ÐµÐ² ÐŸÐ¾ÑÐ°Ð´,141335,Cyrillic: 141335
+51921,11171,11171,1413,251921,,,"d. 42, Moskovskoe Shosse",Sergiev Posad,,,,Moscow Oblast,Cyrillic: Московская Область,141300,Cyrillic: 141300
+51925,11171,11171,1413,251925,,,Ul. Tsentralnaya D. 36,,,Shemetovo,Cyrillic: Шеметово,Sergiev Posad,Cyrillic: Сергиев Посад,141335,Cyrillic: 141335
 51928,11171,11171,1413,251928,,,"d. 65A etazh 2, pom. 17-30, bulvar Gagarina Perm",,,,,Permski Kr.,,614077,
 51932,11171,11171,1413,251932,,,"UL. Nobelya D. 5, ET 2 POM.29 Ter. Skolkovo Innovatsionnogo Tsentra",,,,,,,121205,
 51935,11171,11171,1413,251935,,,"d. 10 Str. 8 kom. 8, ul. Smirnovskaya",,,Moscow,,,,109052,
-51937,11171,11171,1413,251937,,,45 Dubininskaya Str,,,Moscow,Cyrillic: Ð“ÐžÐ ÐžÐ” ÐœÐžÐ¡ÐšÐ’Ð,,,115054,Cyrillic: 115054
-51939,11171,11171,1413,251939,,,Kalanchevskaya Street 27,,,Moscow,Cyrillic: Ð“Ð¾Ñ€Ð¾Ð´ Ð¼Ð¾ÑÐºÐ²Ð°,,,107078,Cyrillic: 107078
+51937,11171,11171,1413,251937,,,45 Dubininskaya Str,,,Moscow,Cyrillic: ГОРОД МОСКВА,,,115054,Cyrillic: 115054
+51939,11171,11171,1413,251939,,,Kalanchevskaya Street 27,,,Moscow,Cyrillic: Город москва,,,107078,Cyrillic: 107078
 51940,11171,11171,1413,251940,,,"27, Kalanchyovskaya Ul.",,,Moscow,,,,107078,
 51942,11171,11171,1413,251942,,,,,,,,,,,
 51963,11171,11171,1413,251963,,,"Ul. Krupskoi D.4, Korp.2",,,Moscow,,,,119311,
@@ -12078,7 +12078,7 @@
 52060,11171,11171,1413,252060,,,"Nab. Reki Moiki d.3, Lit. A",,,Saint Petersburg,,,,191186,
 70116,11171,11171,1413,270116,,,"Building 3, Letter A, Moyka River Embankment",,,Saint Petersburg,,,,191186,
 52057,11171,11171,1413,252057,,,Ul. Professora Popova D. 37,"Lit. Shch, Pomeshch. 1-N (Komn.127)",,Saint Petersburg,,,,197022,
-52068,11044,11044,1413,252068,,,"ul. Karvata, d. 84, kom. 1",,,Minsk,Cyrillic: Ð³. ÐœÐ¸Ð½ÑÐº,,,220139,Cyrillic: 220139
+52068,11044,11044,1413,252068,,,"ul. Karvata, d. 84, kom. 1",,,Minsk,Cyrillic: г. Минск,,,220139,Cyrillic: 220139
 52069,11044,11044,1413,252069,,,"Radialnaya str., 40",,,Minsk,,,,220070,
 52066,11171,11171,1413,252066,,,Ul. Pokryshkina D. 7,Floor 1 Kom 4,,Moscow,,,,119602,
 52077,11044,11044,1413,252077,,,,,,Minsk,,,,,
@@ -12108,10 +12108,10 @@
 52119,11044,11044,1413,252119,,,"Kolesnikova Str. 30, ap. 63",,,Minsk,,,,,
 52121,11044,11044,1413,252121,,,Platonova 20B,,,Minsk,,,,220005,
 52122,11044,11044,1413,252122,,,"d.20B, pom. 13, komnata 14",ul. Platonova,,Minsk,,,,,
-52124,11044,11044,1413,252124,,,Platonova st. 20B-2,,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,220005,Cyrillic: 220005
+52124,11044,11044,1413,252124,,,Platonova st. 20B-2,,,Minsk,Cyrillic: Минск,,,220005,Cyrillic: 220005
 52126,11044,11044,1413,252126,,,,,,,,,,,
 52127,11171,11171,1413,252127,,,,,,Moscow,,,,,
-52144,11044,11044,1413,252144,,,"st. Kalinovskogo, 8",,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,220103,Cyrillic: 220103
+52144,11044,11044,1413,252144,,,"st. Kalinovskogo, 8",,,Minsk,Cyrillic: Минск,,,220103,Cyrillic: 220103
 52146,11044,11044,1413,252146,,,"Frantsiska Skoriny St., building 1, unit 21",,,Minsk,,,,220076,
 52148,11044,11044,1413,252148,,,115 Nezavisimost ave,,,Minsk,,,,220114,
 52149,11044,11044,1413,252149,,,115 Nezavisimosti Avenue,,,Minsk,,,,220114,
@@ -12119,7 +12119,7 @@
 52153,11044,11044,1413,252153,,,,,,Minsk,,,,,
 52155,11044,11044,1413,252155,,,,,,,,,,,
 52156,11210,11210,1413,252156,,,,,,,,,,,
-52158,11044,11044,1413,252158,,,"Zavodskaya st., d. 1k, pom. 18",,,Bolbasovo,Cyrillic: Ð‘Ð¾Ð»Ð±Ð°ÑÐ¾Ð²Ð¾,"Vitebsk Oblast, Orsha District","Cyrillic: Ð’Ð¸Ñ‚ÐµÐ±ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ, ÐžÑ€ÑˆÐ°Ð½ÑÐºÐ¸Ð¹ Ñ€Ð°Ð¹Ð¾Ð½,",211004,Cyrillic: 211004
+52158,11044,11044,1413,252158,,,"Zavodskaya st., d. 1k, pom. 18",,,Bolbasovo,Cyrillic: Болбасово,"Vitebsk Oblast, Orsha District","Cyrillic: Витебская область, Оршанский район,",211004,Cyrillic: 211004
 52159,11044,11044,1413,252159,,,"Revolucyonnaya 17/19, Office no. 22",,,Minsk,,,,220030,
 52183,11171,11171,1413,252183,,,,,,,,,,,
 52184,11171,11171,1413,252184,,,,,,,,,,,
@@ -12136,10 +12136,10 @@
 52258,11171,11171,1413,252258,,,,,,,,,,,
 52262,11171,11171,1413,252262,,,,,,,,,,,
 52268,11171,11171,1413,252268,,,,,,,,,,,
-53887,11171,11171,1413,253887,,,"d. 7, ul. Ilicha",,,Korolev,Cyrillic: ÐšÐ¾Ñ€Ð¾Ð»Ñ‘Ð²,Moskovskaya Obl.,Cyrillic: ÐœÐ¾ÑÐºÐ¾Ð²ÑÐºÐ°Ñ ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ,141080,Cyrillic: 141080
+53887,11171,11171,1413,253887,,,"d. 7, ul. Ilicha",,,Korolev,Cyrillic: Королёв,Moskovskaya Obl.,Cyrillic: Московская Область,141080,Cyrillic: 141080
 52324,11171,11171,1413,252324,,,,,,,,,,,
 52344,11098,11098,1413,252344,,,4ta Calle,,,"Tecun Uman, Ayutla",,San Marcos,,12017,
-52370,11171,11171,1413,252370,,,"Room 8, Building 22, ul Smirnovkaya 10",,,Moscow,Cyrillic: Ð“Ð¾Ñ€Ð¾Ð´ ÐœÐ¾ÑÐºÐ²Ð°,,,109052,Cyrillic: 109052
+52370,11171,11171,1413,252370,,,"Room 8, Building 22, ul Smirnovkaya 10",,,Moscow,Cyrillic: Город Москва,,,109052,Cyrillic: 109052
 52380,11044,11044,1413,252380,,,,,,Minsk,,,,,
 52382,11044,11044,1413,252382,,,,,,,,Minsk Oblast,,,
 52384,11044,11044,1413,252384,,,,,,,,Mogilev Oblast,,,
@@ -12178,7 +12178,7 @@
 52451,11153,11153,1413,252451,,,,,,,,,,,
 52452,11210,11210,1413,252452,,,,,,Dubai,,,,,
 52454,11210,11210,1413,252454,,,,,,Dubai,,,,,
-52455,11190,11190,1413,252455,,,Calle Muntaner 325,"Planta 6, 4",,Barcelona,,,,8021,
+52455,11190,11190,1413,252455,,,Calle Muntaner 325,"Planta 6, 4",,Barcelona,,,,08021,
 52458,11190,11190,1413,252458,,,"Calle Los Geranios, Villa Indelo N 244",San Pedro De Alcantara,,Marbella,,,,,
 52459,11190,11190,1413,252459,,,"Urbanizacion Torre Bermeja, N 1501",,,Estepona,,,,,
 52467,11044,11044,1413,252467,,,"I.P., d.121A, kom. 327, ul. Kazintsa g.",,,Minsk,,,,,
@@ -12194,10 +12194,10 @@
 52478,11210,11210,1413,252478,,,PO Box 114246,,,Dubai,,,,,
 52479,11210,11210,1413,252479,,,11th Street,Port Saeed,Deira,Dubai,,,,,
 53094,11045,11045,1413,253094,,,Jacob Jacobsstraat 56,,,Antwerp,,,,2018,
-52498,11044,11044,1413,252498,,,Partizanskii 64A,,,Minsk,Cyrillic: ÐœÐ¸Ð½ÑÐº,,,220026,Cyrillic: 220026
+52498,11044,11044,1413,252498,,,Partizanskii 64A,,,Minsk,Cyrillic: Минск,,,220026,Cyrillic: 220026
 52499,11044,11044,1413,252499,,,"d.24, Nezhiloe pomeshchenie",ul Promyshlennaya,,Minsk,,,,220075,
 54350,11171,11171,1413,254350,,,Evseeva 21a,,,Ramenskoye,,Moscow Region,,140100,
-52502,11044,11044,1413,252502,,,bld. 7,50 let VLKSM st.,,Baranovichi,Cyrillic: Ð‘Ð°Ñ€Ð°Ð½Ð¾Ð²Ð¸Ñ‡Ð¸,Brest region,Cyrillic: Ð‘Ñ€ÐµÑÑ‚ÑÐºÐ°Ñ Ð¾Ð±Ð».,225415,Cyrillic: 225415
+52502,11044,11044,1413,252502,,,bld. 7,50 let VLKSM st.,,Baranovichi,Cyrillic: Барановичи,Brest region,Cyrillic: Брестская обл.,225415,Cyrillic: 225415
 52504,11210,11210,1413,252504,,,1404 Iris Blue Building,Dubai Marina,P.O. Box 11850,Dubai,,,,,
 52505,11190,11190,1413,252505,,,Calle Edificio El Noray,2 Piso 1 B,,Marbella,,,,,
 52506,11190,11190,1413,252506,,,Urbanizacion Acosta Los Flamingos Golf,Bloque 82 D,Benahavis,Marbella,,,,,
@@ -12264,7 +12264,7 @@
 52655,11171,11171,1413,252655,,,,,,Pargolovo,,,,,
 52658,11171,11171,1413,252658,,,,,,St. Petersburg,,,,,
 52661,11171,11171,1413,252661,,,"Brusova Str., 19, 5",,,Moscow,,,,125009,
-52660,11090,11090,1413,252660,,,"Parc Saramartel, Villa La Tarente, Promenade Du Soleil",,,Antibes,,,,6160,
+52660,11090,11090,1413,252660,,,"Parc Saramartel, Villa La Tarente, Promenade Du Soleil",,,Antibes,,,,06160,
 52665,11171,11171,1413,252665,,,"Ul 2-YA Filevskaya D 7/19, Korp 6",,,Moscow,,,,121096,
 52664,11171,11171,1413,252664,,,,,,,,,,,
 52667,11171,11171,1413,252667,,,"etazh/pom 3/14, stroenie 1","dom 19, ulitsa Ostozhenka",,Moscow,,,,119034,
@@ -12278,7 +12278,7 @@
 52681,11211,11211,1413,252681,,,"25 City Road Spaces City Road, Epworth House, Office 320",,,London,,,,EC1Y 1AA,
 52682,11211,11211,1413,252682,,,Suite 3.15 One Fetter Lane,,,London,,,,EC4A 1BR,
 52684,11171,11171,1413,252684,,,"Ul. Yablachkova D. 21 Korpus 3, Et 3 Pom. VIII",,,Moscow,,,,127322,
-52686,11190,11190,1413,252686,,,Calle Provenca 281 Planta 2 Despacho 9,,,Barcelona,,,,8037,
+52686,11190,11190,1413,252686,,,Calle Provenca 281 Planta 2 Despacho 9,,,Barcelona,,,,08037,
 52688,11171,11171,1413,252688,,,,,,Moscow,,,,,
 52704,11171,11171,1413,252704,,,Kremlin,,,Moscow,,,,,
 52705,11171,11171,1413,252705,,,Novo-Ogaryevo,,,,,Moscow Region,,,
@@ -12347,7 +12347,7 @@
 52957,11171,11171,1413,252957,,,,,,,,,,,
 52959,11171,11171,1413,252959,,,,,,,,,,,
 52961,11171,11171,1413,252961,,,,,,,,,,,
-52966,11171,11171,1413,252966,,,"D. 8, Str. 1, Etaj 12",Nab. Presnenskaya,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,123112,Cyrillic: 123112
+52966,11171,11171,1413,252966,,,"D. 8, Str. 1, Etaj 12",Nab. Presnenskaya,,Moscow,Cyrillic: Москва,,,123112,Cyrillic: 123112
 52987,11171,11171,1413,252987,,,,,,Moscow,,,,,
 52989,11171,11171,1413,252989,,,,,,,,,,,
 54001,11171,11171,1413,254001,,,,,,Moscow,,,,,
@@ -12409,7 +12409,7 @@
 53133,11123,11123,1413,253133,,,,,,,,,,,
 53134,11171,11171,1413,253134,,,,,,,,,,,
 53138,11171,11171,1413,253138,,,11 Kantemirovskaya Str.,,,Saint Petersburg,,,,194100,
-53145,11171,11171,1413,253145,,,"Ordzhonikidze St., 2",,,Izhevsk,Cyrillic: Ð˜Ð–Ð•Ð’Ð¡Ðš,Udmurtia,Cyrillic: Ð£Ð”ÐœÐ£Ð Ð¢Ð¡ÐšÐÐ¯ Ð Ð•Ð¡ÐŸÐ£Ð‘Ð›Ð˜ÐšÐ,426063,Cyrillic: 426063
+53145,11171,11171,1413,253145,,,"Ordzhonikidze St., 2",,,Izhevsk,Cyrillic: ИЖЕВСК,Udmurtia,Cyrillic: УДМУРТСКАЯ РЕСПУБЛИКА,426063,Cyrillic: 426063
 53161,11171,11171,1413,253161,,,163 Lenin Ave.,,,Rybinsk,,Yaroslavl Region,,152903,
 53162,11171,11171,1413,253162,,,13 Kasatkin St.,,,Moscow,,,,129301,
 53163,11171,11171,1413,253163,,,4 A Novoroshchinskaya St.,,,St. Petersburg,,,,196084,
@@ -12815,7 +12815,7 @@
 53774,11171,11171,1413,253774,,,,,,,,,,,
 53776,11171,11171,1413,253776,,,,,,,,,,,
 53788,11171,11171,1413,253788,,,,,,,,Moskovskaya Oblast,,,
-53790,11171,11171,1413,253790,,,Descartes Business Center,"Building 9, No. 18",Andropova Prospekt,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,1115432,Cyrillic: 1115432
+53790,11171,11171,1413,253790,,,Descartes Business Center,"Building 9, No. 18",Andropova Prospekt,Moscow,Cyrillic: Москва,,,1115432,Cyrillic: 1115432
 53791,11171,11171,1413,253791,,,"Building 4, No. 54",Maliy Prospekt,Vasilevskiy Island,St. Petersburg,,,,199178,
 53793,11171,11171,1413,253793,,,Sh Kashirskoe D. 13A,,,Moscow,,,,115230,
 53795,11171,11171,1413,253795,,,Ul. Chkalova D.18,,,Borisoglebsk,,,,397171,
@@ -12878,7 +12878,7 @@
 53927,11171,11171,1413,253927,,,1st Zapadny Proezd 12/1,,,Zelenograd,,,,124460,
 53928,11171,11171,1413,253928,,,d. 6 str. 1,ul. Akademika Valieva,,Zelenograd,,Moscow,,124460,
 53932,11143,11143,1413,253932,,,,,,Ameca,,Jalisco,,,
-53935,11089,11089,1413,253935,,,Kalevankatu 20,,,Helsinki,,,,100,
+53935,11089,11089,1413,253935,,,Kalevankatu 20,,,Helsinki,,,,00100,
 53947,11050,11050,1413,253947,,,,,,,,,,,
 53945,11171,11171,1413,253945,,,,,,,,,,,
 53946,11196,11196,1413,253946,,,1 Square Tower Road,,,Cologny,,,,,
@@ -12969,7 +12969,7 @@
 54148,11171,11171,1413,254148,,,"St. Barricade, 1",,,Nizhny Novgorod,,Nizhny Novgorod Region,,603003,
 54150,11171,11171,1413,254150,,,,,,,,,,,
 54146,11205,11205,1413,254146,,,,,,,,,,,
-54163,11121,11121,1413,254163,,,"Rm 401, 4/F, Rishu Bldg, 25 Hangang-daero 48-gil, Yongan-gu",,,Seoul,,,,4382,
+54163,11121,11121,1413,254163,,,"Rm 401, 4/F, Rishu Bldg, 25 Hangang-daero 48-gil, Yongan-gu",,,Seoul,,,,04382,
 54165,11121,11121,1413,254165,,,"Daekyong building, Ground floor 9-79, 59-1 Duteopbawi-ro, Huam-dong, Yongsan-gu",,,Seoul,,,,,
 54158,11171,11171,1413,254158,,,St. Oblique Line,House 16,,St. Petersburg,,,,199106,
 54159,11171,11171,1413,254159,,,90 Marata Street,,,Saint-Petersburg,,,,191119,
@@ -13037,8 +13037,8 @@
 54312,11171,11171,1413,254312,,,11 Sadovaya-Kudrinskaya St.,,,Moscow,,,,123231,
 54314,11171,11171,1413,254314,,,"6 Nartov Str., Bldg.6",,,Nizhny Novgorod,,,,603104,
 54344,11171,11171,1413,254344,,,,,,Moscow,,,,,
-54346,11171,11171,1413,254346,,,"ul. Klary Tsetkin, 4",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,127299,Cyrillic: 127299
-54348,11171,11171,1413,254348,,,"Prospekt Mira, d. 102, str. 32, kom. 4",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,129626,Cyrillic: 129626
+54346,11171,11171,1413,254346,,,"ul. Klary Tsetkin, 4",,,Moscow,Cyrillic: Москва,,,127299,Cyrillic: 127299
+54348,11171,11171,1413,254348,,,"Prospekt Mira, d. 102, str. 32, kom. 4",,,Moscow,Cyrillic: Москва,,,129626,Cyrillic: 129626
 57363,11171,11171,1413,257363,,,,,,Moscow,,,,,
 54366,11143,11143,1413,254366,,,,,,,,,,,
 54368,11143,11143,1413,254368,,,,,,,,,,,
@@ -13052,7 +13052,7 @@
 54468,11145,11145,1413,254468,,,"str. Mihai Eminescu, 35",,,Chisinau,,,,MD2012,
 54470,11145,11145,1413,254470,,,"Str. Eminescu Mihai, 35",,,Chisinau,,,,2000,
 54472,11143,11143,1413,254472,,,,,,,,,,,
-54485,11184,11184,1413,254485,,,77 Robinson Road #16-00,,,Singapore,,,,68896,
+54485,11184,11184,1413,254485,,,77 Robinson Road #16-00,,,Singapore,,,,068896,
 54504,11120,11120,1413,254504,,,,,,,,,,,
 54506,11120,11120,1413,254506,,,Chungsong 2-dong,,Nangnang District,Pyongyang,,,,,
 54508,11120,11120,1413,254508,,,,,,,,,,,
@@ -13125,13 +13125,13 @@
 54723,11171,11171,1413,254723,,,"3 Poklonnaya St., office 209, floor 2",,,Moscow,,,,121170,
 54725,11171,11171,1413,254725,,,"32 Leninsky Prospekt, Floor 1, Office IB, Room 1",,,Moscow,,,,119334,
 54727,11171,11171,1413,254727,,,"52 Kosmodamianskaya Nab. St, Building 2",,,Moscow,,,,115054,
-54729,11117,11117,1413,254729,,,"13/1 Al-Farabi Avenue, block 3V, 7th floor",,,Almaty,,,,50059,
+54729,11117,11117,1413,254729,,,"13/1 Al-Farabi Avenue, block 3V, 7th floor",,,Almaty,,,,050059,
 54731,11171,11171,1413,254731,,,19 Vavilova St.,,,Moscow,,,,117997,
 54734,11171,11171,1413,254734,,,"9 B. Tatarskaya Street, floor 4, office 51",,,Moscow,,,,115184,
-54741,11171,11171,1413,254741,,,"ul. Bolshaya Pioneerskaya, d. 1",,,Moscow,Cyrillic: Ð³Ð¾Ñ€Ð¾Ð´ ÐœÐ¾ÑÐºÐ²Ð°,,,115054,Cyrillic: 115054
+54741,11171,11171,1413,254741,,,"ul. Bolshaya Pioneerskaya, d. 1",,,Moscow,Cyrillic: город Москва,,,115054,Cyrillic: 115054
 54742,11171,11171,1413,254742,,,"Str.1, 22, Ulanskyi Pereulok",,,Moscow,,,,101000,
-54744,11171,11171,1413,254744,,,"d. 1, pl. Aviatorov",,,Taganrog,Cyrillic: Ð¢Ð°Ð³Ð°Ð½Ñ€Ð¾Ð³,Rostovskaya Oblast,Cyrillic: Ð Ð¾ÑÑ‚Ð¾Ð²ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ,347923,Cyrillic: 347923
-54746,11171,11171,1413,254746,,,"D. 2a, Ul. Garnaeva",,,Zhukovskiy,"Cyrillic: ÐœÐ¾ÑÐºÐ¾Ð²ÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ, Ð–ÑƒÐºÐ¾Ð²ÑÐºÐ¸Ð¹",,,140180,Cyrillic: 140180
+54744,11171,11171,1413,254744,,,"d. 1, pl. Aviatorov",,,Taganrog,Cyrillic: Таганрог,Rostovskaya Oblast,Cyrillic: Ростовская область,347923,Cyrillic: 347923
+54746,11171,11171,1413,254746,,,"D. 2a, Ul. Garnaeva",,,Zhukovskiy,"Cyrillic: Московская область, Жуковский",,,140180,Cyrillic: 140180
 54748,11171,11171,1413,254748,,,Zhukovsky-2,,,,,Moscow region,,140182,
 54804,11196,11196,1413,254804,,,Baarerstrasse 135,,,Zug,,,,6300,
 54806,11171,11171,1413,254806,,,"Ul. Annenskaya D. 17, Str. 1, Office 1.18",,,Moscow,,,,127521,
@@ -13391,7 +13391,7 @@
 55621,11108,11108,1413,255621,,,Cempakawarna Rt,,,Tasikmalaya,,West Java,,,
 55623,11171,11171,1413,255623,,,ul. Akademika Koroleva d. 12,,,Moscow,,,,127427,
 55624,11171,11171,1413,255624,,,ul. Argunovskaya d. 5,,,Moscow,,,,129075,
-55644,11171,11171,1413,255644,,,"5th Yamskogo Polya street, 19-21, building 1, Begovoy",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,,
+55644,11171,11171,1413,255644,,,"5th Yamskogo Polya street, 19-21, building 1, Begovoy",,,Moscow,Cyrillic: Москва,,,,
 55646,11171,11171,1413,255646,,,Akademika Koroleva D.12,,,Moscow,,,,127427,
 55664,11143,11143,1413,255664,,,"Campillo 86, Piso 2, Loc. 214",,,Nogales,,Sonora,,84030,
 55666,11171,11171,1413,255666,,,,,,,,,,,
@@ -13637,9 +13637,9 @@
 56331,11171,11171,1413,256331,,,"Building 1, 3 Vvedenskogo St.",,,Moscow,,,,117342,
 56333,11171,11171,1413,256333,,,15 Kievskoye Shosse,,,Obninsk,,Kaluga Region,,249031,
 56335,11171,11171,1413,256335,,,57 Novozvyaginskaya Street,,,Perm,,,,614014,
-56337,11171,11171,1413,256337,,,"Ulitsa Dnepropetrovskaya, Dom 3, Korpus 5","Et 1, Pom III, K 8 0 6-6",,Moskva,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,117525,Cyrillic: 117525
+56337,11171,11171,1413,256337,,,"Ulitsa Dnepropetrovskaya, Dom 3, Korpus 5","Et 1, Pom III, K 8 0 6-6",,Moskva,Cyrillic: Москва,,,117525,Cyrillic: 117525
 56339,11171,11171,1413,256339,,,,,,,,,,,
-56341,11171,11171,1413,256341,,,"Ulitsa Krzhizhanovskogo, D. 14","K. 2, Pom I Komn 1;2",,Moskva,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,117218,Cyrillic: 117218
+56341,11171,11171,1413,256341,,,"Ulitsa Krzhizhanovskogo, D. 14","K. 2, Pom I Komn 1;2",,Moskva,Cyrillic: Москва,,,117218,Cyrillic: 117218
 56343,11210,11210,1413,256343,,,"Unit No: 1305, Platinum Tower","Plot No: JLT-PH1-I2, Jumeirah Lakes Towers",,Dubai,,,,,
 57649,11196,11196,1413,257649,,,Quai Du Mont-Blanc 4th Floor,1201,,Geneva,,,,,
 56347,11126,11126,1413,256347,,,Al Maliya Street,,,Beirut,,,,,
@@ -13793,11 +13793,11 @@
 56734,11171,11171,1413,256734,,,,,,,,,,,
 56736,11171,11171,1413,256736,,,6 Molochnyy Lane Apt. 4,,,Moscow,,,,119034,
 56738,11171,11171,1413,256738,,,31A Leningradsky prospekt,Bldg 1,,Moscow,,,,125284,
-56740,11171,11171,1413,256740,,,ul. Respubliki,"D. 73, Kom. 100",,Salekhard,Cyrillic: Ð³. Ð¡Ð°Ð»ÐµÑ…Ð°Ñ€Ð´,Yamalo-Nenets Autonomous Region,Cyrillic: Ð¯Ð¼Ð°Ð»Ð¾-ÐÐµÐ½ÐµÑ†ÐºÐ¸Ð¹ ÐÐ²Ñ‚Ð¾Ð½Ð¾Ð¼Ð½Ñ‹Ð¹ ÐžÐºÑ€ÑƒÐ³,629008,Cyrillic: 629008
+56740,11171,11171,1413,256740,,,ul. Respubliki,"D. 73, Kom. 100",,Salekhard,Cyrillic: г. Салехард,Yamalo-Nenets Autonomous Region,Cyrillic: Ямало-Ненецкий Автономный Округ,629008,Cyrillic: 629008
 56744,11111,11111,1413,256744,,,"2nd Floor, 2 Hume Street",,,Dublin,,,,2,
 56745,11111,11111,1413,256745,,,9 Pembroke Street Upper,,,Dublin,,,,2,
 56748,11111,11111,1413,256748,,,"2nd Floor, 2 Hume Street",,,Dublin,,,,2,
-56750,11210,11210,1413,256750,,,Dubai Airport Freezone Authority,P.O. Box 491,,Dubai,,,,0,
+56750,11210,11210,1413,256750,,,Dubai Airport Freezone Authority,P.O. Box 491,,Dubai,,,,00000,
 56752,11065,11065,1413,256752,,,"31/F, Tower Two",Times Square,"1 Matheson Street, Causeway Bay",Hong Kong,,,,,
 56754,11209,11209,1413,256754,,,,,,Melitopol,,,,,
 56756,11171,11171,1413,256756,,,3 Chobotovskaya Apt. 148,,,Moscow,,,,119634,
@@ -13850,9 +13850,9 @@
 56984,11171,11171,1413,256984,,,,,,Magnitogorsk,,,,,
 56987,11171,11171,1413,256987,,,93 Kirov Street,,,Magnitogorsk,,,,455000,
 57004,11171,11171,1413,257004,,,"70, ul. Kirova Magnitogorsk",,,,,Chelyabinskaya Obl.,,455019,
-57006,11090,11090,1413,257006,,,200 Impasse Felix,,,Antibes,,,,6160,
-57008,11090,11090,1413,257008,,,200 Impasse Felix,,,Antibes,,,,6160,
-57010,11090,11090,1413,257010,,,200 Impasse Felix,,,Antibes,,,,6160,
+57006,11090,11090,1413,257006,,,200 Impasse Felix,,,Antibes,,,,06160,
+57008,11090,11090,1413,257008,,,200 Impasse Felix,,,Antibes,,,,06160,
+57010,11090,11090,1413,257010,,,200 Impasse Felix,,,Antibes,,,,06160,
 57011,11090,11090,1413,257011,,,19 Boulevard Malesherbes,,,Paris,,,,75008,
 57013,11090,11090,1413,257013,,,19 Boulevard Malesherbes,,,Paris,,,,75008,
 57015,11196,11196,1413,257015,,,,,,,,,,,
@@ -13869,8 +13869,8 @@
 57048,11094,11094,1413,257048,,,Mainzer Landstr. 33,,,Frankfurt am Main,,,,60329,
 57050,11196,11196,1413,257050,,,Matthofstrand 8,,,Luzern,,,,6005,
 57052,11132,11132,1413,257052,,,Rue Guillaume J. Kroll 12C,,,Luxembourg,,,,1882,
-57054,11090,11090,1413,257054,,,Domaine Antica Serena,309 Avenue Jules Romains,,Nice,,,,6100,
-57056,11190,11190,1413,257056,,,Calle Girona 67 - P. 3 PTA. 2,,,Barcelona,,,,8009,
+57054,11090,11090,1413,257054,,,Domaine Antica Serena,309 Avenue Jules Romains,,Nice,,,,06100,
+57056,11190,11190,1413,257056,,,Calle Girona 67 - P. 3 PTA. 2,,,Barcelona,,,,08009,
 57058,11196,11196,1413,257058,,,Oberruti-Allee 14,,,Horw,,,,6048,
 57060,11196,11196,1413,257060,,,Oberruti-Allee 14,,,Horw,,,,6048,
 57283,11196,11196,1413,257283,,,"Haldenstrasse, Bld 20, Apt. 1.2",,,Luzern,,,,6006,
@@ -13891,7 +13891,7 @@
 57086,11171,11171,1413,257086,,,,,,Kaliningrad,,,,,
 57088,11171,11171,1413,257088,,,,,,Izhevsk,,,,,
 58004,11171,11171,1413,258004,,,Ul. Severnaya D. 2A,Pomeshch. 51,,Vladimir,,,,600007,
-57105,11171,11171,1413,257105,,,"Nab. Presnenskaya D. 8, Str. 1, ET. 7, Pom. I, Kom. 3 Rab. Mesto 7.10",,,Moscow,Cyrillic: Ð³Ð¾Ñ€Ð¾Ð´ ÐœÐ¾ÑÐºÐ²Ð°,,,123112,Cyrillic: 123112
+57105,11171,11171,1413,257105,,,"Nab. Presnenskaya D. 8, Str. 1, ET. 7, Pom. I, Kom. 3 Rab. Mesto 7.10",,,Moscow,Cyrillic: город Москва,,,123112,Cyrillic: 123112
 57144,11171,11171,1413,257144,,,"Shokina Square, House 1, Bld. 7 Off. 7237",,,Zelenograd,,Moscow,,124498,
 57146,11171,11171,1413,257146,,,"Room 4, Office 1, 3rd Floor, Building 7, House 9a, 2nd Sinichkina Str.",,,Moscow,,,,111020,
 57148,11171,11171,1413,257148,,,2k4 Pionerskaya Str.,,,Korolyov,,Moscow Region,,141074,
@@ -13960,7 +13960,7 @@
 57386,11065,11065,1413,257386,,,"Room 023, 9/F Blk G Kwai Shing Ind Building (Stage 2)",42-46 Tai Lin Pai Road,Kwai Chung NT,Hong Kong,,,,,
 57387,11136,11136,1413,257387,,,"Retail Lot L3-1, Level 3, Gateway Klia 2",Kuala Lumpur International Airport 2,,Sepang,,Selangor Darul Ehsan,,64000,
 57404,11065,11065,1413,257404,,,"No. 1, Saddle Community","Zenggang Street, Dinghai District",,Zhoushan,,Zhejiang,,,
-57424,11184,11184,1413,257424,,,"24-07, Shenton House, 3, Shenton Way",,,Singapore,,,,68805,
+57424,11184,11184,1413,257424,,,"24-07, Shenton House, 3, Shenton Way",,,Singapore,,,,068805,
 57426,11065,11065,1413,257426,,,"9th Floor, Block C, Qingdao Plaza","381, Dunhua Lu, Shibei Qu",,Qingdao,,Shandong,,266034,
 57427,11065,11065,1413,257427,,,"Unit D, 16/F, One Capital Place","18 Luard Road, Wan Chai",,Hong Kong,,,,,
 57429,11065,11065,1413,257429,,,"9th Floor, Block C, Qingdao Plaza","381, Dunhua Lu, Shibei Qu",,Qingdao,,Shandong,,266034,
@@ -13980,7 +13980,7 @@
 57548,11128,11128,1413,257548,,,,,,Paynesville,,,,,
 57564,11196,11196,1413,257564,,,Zentralstrasse 44,,,Luzern,,,,6003,
 57565,11196,11196,1413,257565,,,Matthofstrand 8,,,Luzern,,,,6005,
-57566,11090,11090,1413,257566,,,380 Avenue Mrs L'D'Beaumont,,,Antibes,,,,6160,
+57566,11090,11090,1413,257566,,,380 Avenue Mrs L'D'Beaumont,,,Antibes,,,,06160,
 57583,11210,11210,1413,257583,,,"Unit S310, Level 3, Emirates Financial Towers",Dubai International Financial Centre,,Dubai,,,,506980,
 57585,11139,11139,1413,257585,,,"W Business Centre, Level 3, Triq Karmenu Pirotta",,,Birkirkara,,,,BKR 1114,
 57586,11171,11171,1413,257586,,,Presnenskaya nab. 8/1,,,Moscow,,,,123112,
@@ -14010,7 +14010,7 @@
 57706,11171,11171,1413,257706,,,,,,Moscow,,,,,
 57708,11171,11171,1413,257708,,,,,,Moscow,,,,,
 57710,11171,11171,1413,257710,,,,,,,,,,,
-57713,11036,11036,1413,257713,,,Garegin Nzhdeh Str.,Unit 17,Shengavit,Yerevan,,,,26,
+57713,11036,11036,1413,257713,,,Garegin Nzhdeh Str.,Unit 17,Shengavit,Yerevan,,,,0026,
 57798,11171,11171,1413,257798,,,,,,Moscow,,,,,
 57716,11171,11171,1413,257716,,,,,,,,,,,
 57718,11171,11171,1413,257718,,,,,,Moscow,,,,,
@@ -14023,8 +14023,8 @@
 57730,11209,11209,1413,257730,,,,,,,,,,,
 57731,11158,11158,1413,257731,,,,,,,,,,,
 59267,11065,11065,1413,259267,,,"Falt B51F Manning Ind Bldg, 116-118, Hongwing St, Kwun Tong Kln",,,Hong Kong,,,,,
-57765,11209,11209,1413,257765,,,"13/64, Apt 72, 60 Years of October Street",,,Simferopol,Cyrillic: Ð¡Ð¸Ð¼Ñ„ÐµÑ€Ð¾Ð¿Ð¾Ð»ÑŒ,Crimea,Cyrillic: ÐšÑ€Ñ‹Ð¼,,
-57787,11209,11209,1413,257787,,,"60 Let SSSR St, 12A, kv 86",,,Alushta,Cyrillic: Ð³. ÐÐ»ÑƒÑˆÑ‚Ð°,Crimea,Cyrillic: ÐšÑ€Ñ‹Ð¼,,
+57765,11209,11209,1413,257765,,,"13/64, Apt 72, 60 Years of October Street",,,Simferopol,Cyrillic: Симферополь,Crimea,Cyrillic: Крым,,
+57787,11209,11209,1413,257787,,,"60 Let SSSR St, 12A, kv 86",,,Alushta,Cyrillic: г. Алушта,Crimea,Cyrillic: Крым,,
 57789,11209,11209,1413,257789,,,,,,,,Crimea,,,
 58003,11209,11209,1413,258003,,,,,,Sevastopol,,,,,
 57796,11171,11171,1413,257796,,,,,,,,Republic of Chechnya,,,
@@ -14176,12 +14176,12 @@
 58589,11104,11104,1413,258589,,,,,,,,,,,
 58606,11155,11155,1413,258606,,,,,,,,,,,
 58613,11140,11140,1413,258613,,,,,,,,,,,
-58614,11184,11184,1413,258614,,,10 Anson Road,#17-00 International Plaza,,,,,,79903,
+58614,11184,11184,1413,258614,,,10 Anson Road,#17-00 International Plaza,,,,,,079903,
 58615,11065,11065,1413,258615,,,"Wan Yue City, 1124",Riyuan Erli,Huli Qu,Xiamen,,Fujian,,,
 58618,11391,11391,1413,258618,,,,,,,,,,,
 58622,11184,11184,1413,258622,,,60 Paya Lebar Road,#09-36,Paya Lebar Square,,,,,409051,
 58625,11184,11184,1413,258625,,,60 Paya Lebar Road,#11-03,Paya Lebar Square,,,,,409051,
-58626,11184,11184,1413,258626,,,"7, Suntec Tower 1",7,Temasek Boulevard,,,,,,
+58626,11184,11184,1413,258626,,,"7, Suntec Tower 1",07,Temasek Boulevard,,,,,,
 58629,11188,11188,1413,258629,,,,,,Kurtunwaarey,,Lower Shabelle,,,
 58631,11171,11171,1413,258631,,,,,,,,,,,
 58633,11171,11171,1413,258633,,,,,,,,,,,
@@ -14250,7 +14250,7 @@
 58933,11189,11189,1413,258933,,,38 Cunningham Rd,Umbilo,,Durban,,KwaZulu-Natal,,4000,
 58935,11189,11189,1413,258935,,,P.O. Box 27,Westwood,,,,KwaZulu-Natal,,3633,
 58937,11189,11189,1413,258937,,,38 Cunningham Rd,,,Durban,,KwaZulu-Natal,,4001,
-58938,11189,11189,1413,258938,,,P.O. Box 14544,Pretoria,,Johannesburg,,Gauteng,,37,
+58938,11189,11189,1413,258938,,,P.O. Box 14544,Pretoria,,Johannesburg,,Gauteng,,0037,
 58940,11189,11189,1413,258940,,,11 Walter Place,,,Durban,,KwaZulu-Natal,,4000,
 58942,11153,11153,1413,258942,,,Huygensstraat 42,JM,,Boxtel,,,,5283,
 59343,11153,11153,1413,259343,,,,,,Boxtel,,,,,
@@ -14305,8 +14305,8 @@
 59183,11109,11109,1413,259183,,,,,,Tehran,,,,,
 59285,11090,11090,1413,259285,,,,,,,,,,,
 59066,11196,11196,1413,259066,,,Rue Rodolphe-Toepffer 8,,,Geneva,,,,1206,
-59068,11184,11184,1413,259068,,,20 Upper Circular Road,02-10/12 The Riverwalk,,,,,,58416,
-59070,11184,11184,1413,259070,,,10 Anson Road,20-05 International Plaza,,,,,,79903,
+59068,11184,11184,1413,259068,,,20 Upper Circular Road,02-10/12 The Riverwalk,,,,,,058416,
+59070,11184,11184,1413,259070,,,10 Anson Road,20-05 International Plaza,,,,,,079903,
 59072,11210,11210,1413,259072,,,"Unit No: 3O-01-BA1417, Jewellery & Gemplex 3",Plot No: DMCC-PH2-J&GPlexS,Jewellery & Gemplex,Dubai,,,,,
 59074,11140,11140,1413,259074,,,"Trust Company Complex, Ajeltake Road",Ajeltake Island,,Majuro,,,,MH96960,
 59076,11140,11140,1413,259076,,,"Trust Company Complex, Ajeltake Road",Ajeltake Island,,Majuro,,,,MH96960,
@@ -14317,7 +14317,7 @@
 59103,11109,11109,1413,259103,,,,,,Sanandaj,,,,,
 59106,11109,11109,1413,259106,,,,,,,,Kurdistan,,,
 59107,11140,11140,1413,259107,,,"Trust Company Complex, Ajeltake Road",Ajeltake Island,,Majuro,,,,MH96960,
-59108,11190,11190,1413,259108,,,"Ap 22, Carrer de Pallars 193",,,Barcelona,,,,8018,
+59108,11190,11190,1413,259108,,,"Ap 22, Carrer de Pallars 193",,,Barcelona,,,,08018,
 59110,11205,11205,1413,259110,,,"Office 131, 11th Floor, Ankara Caddesi 145","Kordonboyu Mahallesi, Kartal",,Istanbul,,,,,
 59111,11140,11140,1413,259111,,,"Trust Company Complex, Ajeltake Road",Ajeltake Island,,Majuro,,,,MH96960,
 59114,11140,11140,1413,259114,,,Trust Company Complex,"Ajeltake Road, Ajeltake Island",,Majuro,,,,MH96960,
@@ -14439,7 +14439,7 @@
 59847,11171,11171,1413,259847,,,Ul. Bolshaya Tatarskaya D. 35,"Str. 4, Floor 2, Pomeshch. IX/Kom. 5",,Moscow,,,,115184,
 59849,11171,11171,1413,259849,,,,,,Moscow,,,,,
 59851,11171,11171,1413,259851,,,,,,,,,,,
-59853,11171,11171,1413,259853,,,"Prechistenka st., D. 38, floor 3 room 29",,,Moscow,Cyrillic: Ð³Ð¾Ñ€Ð¾Ð´ ÐœÐ¾ÑÐºÐ²Ð°,,,119034,Cyrillic: 119034
+59853,11171,11171,1413,259853,,,"Prechistenka st., D. 38, floor 3 room 29",,,Moscow,Cyrillic: город Москва,,,119034,Cyrillic: 119034
 59855,11171,11171,1413,259855,,,Kolymazhnyy Pereulok 14,,,Moscow,,,,,
 59857,11171,11171,1413,259857,,,5 Proezd Artilleristov,,,Kolomna,,Moscow Oblast,,140415,
 59859,11171,11171,1413,259859,,,"ul. Matrosskaia Tishina, 10",,,Moscow,,,,107014,
@@ -14488,7 +14488,7 @@
 59976,11171,11171,1413,259976,,,,,,Moscow,,,,,
 59978,11171,11171,1413,259978,,,,,,,,,,,
 59982,11171,11171,1413,259982,,,,,,Novosibirsk,,,,,
-59981,11184,11184,1413,259981,,,101 Cecil Street,Unit 22-101a,Tong Eng Building,Singapore,,,,69533,
+59981,11184,11184,1413,259981,,,101 Cecil Street,Unit 22-101a,Tong Eng Building,Singapore,,,,069533,
 59984,11171,11171,1413,259984,,,,,,Smolensk,,,,,
 59986,11171,11171,1413,259986,,,,,,Kursk,,,,,
 59988,11171,11171,1413,259988,,,,,,,,Volgograd Region,,,
@@ -14625,7 +14625,7 @@
 60436,11171,11171,1413,260436,,,Ln 26-Ya V.O.D. 9,"Lit. A, Pom 28n Kab. 2",,St Petersburg,,,,1099106,
 60445,11171,11171,1413,260445,,,"Building 8, Office 201/2, Melkovodny Village",,,Russky Island,,Primorsky Krai,,690922,
 60444,11171,11171,1413,260444,,,9 Bolshaya Yakimanka Street,,,Moscow,,,,119180,
-60446,11171,11171,1413,260446,,,Andreyevskiy Dvor,"Bolshoi Prospekt V.O., 18",,St. Petersburg,Cyrillic: Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³,,,199034,Cyrillic: 199034
+60446,11171,11171,1413,260446,,,Andreyevskiy Dvor,"Bolshoi Prospekt V.O., 18",,St. Petersburg,Cyrillic: Санкт-Петербург,,,199034,Cyrillic: 199034
 60448,11074,11074,1413,260448,,,"15 Dimokritou, Panaretos Eliana Complex, Apt. 104, Potamos Germasogeias",,,Limassol,,,,4041,
 60450,11074,11074,1413,260450,,,"15 Dimokritou, Panaretos Eliana Complex, Apt. 104, Potamos Germasogeias",,,Limassol,,,,4041,
 60486,11171,11171,1413,260486,,,"Building 8, Apt. 210/2, Melkovodny Village",Russky Island,,Vladivostok,,Primorsky Krai,,690922,
@@ -15004,17 +15004,17 @@
 61446,11171,11171,1413,261446,,,,,,,,Nenets Autonomous Area,,,
 61448,11171,11171,1413,261448,,,,,,,,Nizhniy Novgorod Region,,,
 61450,11171,11171,1413,261450,,,,,,,,Omsk Region,,,
-61452,11171,11171,1413,261452,,,"Michurinskiy avenue, House 27","Apartment 5, Floor 2, Room 6",,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,119607,Cyrillic: 119607
+61452,11171,11171,1413,261452,,,"Michurinskiy avenue, House 27","Apartment 5, Floor 2, Room 6",,Moscow,Cyrillic: Москва,,,119607,Cyrillic: 119607
 61454,11171,11171,1413,261454,,,23-41 Bakuninskaya Street Apt. 100,,,Moscow,,,,105082,
-61456,11171,11171,1413,261456,,,"Michurinskiy avenue, house 27, apartment 5","floor 4, room 9",,Moscow,Chinese Traditional: ÐœÐ¾ÑÐºÐ²Ð°,Ramenki District,Chinese Traditional: ÐœÑƒÐ½Ð¸Ñ†Ð¸Ð¿Ð°Ð»ÑŒÐ½Ñ‹Ð¹ ÐžÐºÑ€ÑƒÐ³ Ð Ð°Ð¼ÐµÐ½ÐºÐ¸,119607,Chinese Traditional: 119607
-61458,11171,11171,1413,261458,,,"Spartakovskaya square, house 14, building 2",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,105082,Cyrillic: 105082
-61460,11171,11171,1413,261460,,,"Michurinskiy avenue, house 27, floor 3","Room 22, building 5",,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,119706,Cyrillic: 119706
-61462,11171,11171,1413,261462,,,"Rodionova street, house 192, building 1",,,Nizhniy Novgorod,Cyrillic: ÐÐ¸Ð¶Ð½Ð¸Ð¹ ÐÐ¾Ð²Ð³Ð¾Ñ€Ð¾Ð´,Nizhegordoskaya oblast,Cyrillic: ÐÐ¸Ð¶ÐµÐ³Ð¾Ñ€Ð¾Ð´ÑÐºÐ°Ñ ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ,603093,Cyrillic: 603093
-61464,11171,11171,1413,261464,,,"Lower Krasnoselskaya street, house 35, floor 9","Unit 1, room 17, building 64",,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,105066,Cyrillic: 105066
-61466,11171,11171,1413,261466,,,"Michurinskiy avenue, house 27, building 5",,,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,119607,Cyrillic: 119607
-61468,11171,11171,1413,261468,,,"Michurinskiy avenue, house 27, building 5","Floor 3, room 25",,Moscow,Cyrillic: ÐœÐ¾ÑÐºÐ²Ð°,,,119607,Cyrillic: 119607
+61456,11171,11171,1413,261456,,,"Michurinskiy avenue, house 27, apartment 5","floor 4, room 9",,Moscow,Chinese Traditional: Москва,Ramenki District,Chinese Traditional: Муниципальный Округ Раменки,119607,Chinese Traditional: 119607
+61458,11171,11171,1413,261458,,,"Spartakovskaya square, house 14, building 2",,,Moscow,Cyrillic: Москва,,,105082,Cyrillic: 105082
+61460,11171,11171,1413,261460,,,"Michurinskiy avenue, house 27, floor 3","Room 22, building 5",,Moscow,Cyrillic: Москва,,,119706,Cyrillic: 119706
+61462,11171,11171,1413,261462,,,"Rodionova street, house 192, building 1",,,Nizhniy Novgorod,Cyrillic: Нижний Новгород,Nizhegordoskaya oblast,Cyrillic: Нижегородская Область,603093,Cyrillic: 603093
+61464,11171,11171,1413,261464,,,"Lower Krasnoselskaya street, house 35, floor 9","Unit 1, room 17, building 64",,Moscow,Cyrillic: Москва,,,105066,Cyrillic: 105066
+61466,11171,11171,1413,261466,,,"Michurinskiy avenue, house 27, building 5",,,Moscow,Cyrillic: Москва,,,119607,Cyrillic: 119607
+61468,11171,11171,1413,261468,,,"Michurinskiy avenue, house 27, building 5","Floor 3, room 25",,Moscow,Cyrillic: Москва,,,119607,Cyrillic: 119607
 61470,11171,11171,1413,261470,,,"Uralskaya street, house 4, letter B","floor 5, room 29N",,Saint Petersburg,,,,199155,
-61472,11171,11171,1413,261472,,,"Rodionova street, house 192, building 1","room 153, office 901",,Nizhniy Novgorod,Cyrillic: ÐÐ¸Ð¶Ð½Ð¸Ð¹ ÐÐ¾Ð²Ð³Ð¾Ñ€Ð¾Ð´,Nizhegorodskaya oblast,Cyrillic: ÐÐ¸Ð¶ÐµÐ³Ð¾Ñ€Ð¾Ð´ÑÐºÐ°Ñ ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ,603093,Cyrillic: 603093
+61472,11171,11171,1413,261472,,,"Rodionova street, house 192, building 1","room 153, office 901",,Nizhniy Novgorod,Cyrillic: Нижний Новгород,Nizhegorodskaya oblast,Cyrillic: Нижегородская Область,603093,Cyrillic: 603093
 61476,11171,11171,1413,261476,,,28K Himikov St.,,,St. Petersburg,,St. Petersburg Region,,195030,
 61483,11065,11065,1413,261483,,,No. 19 Jingping Road Fuchun Street,,,Fuyang Hangzhou,,Zhejiang,,,
 61484,11065,11065,1413,261484,,,No.3 hengliangting,,,Fuyang City,,Zhejiang Province,,,
@@ -15073,24 +15073,24 @@
 61667,11143,11143,1413,261667,,,,,,,,,,,
 62543,11210,11210,1413,262543,,,Building 38 Industrial Area No. 1,,,Al Dhaid City,,Sharjah,,,
 62544,11210,11210,1413,262544,,,PO Box 62105,,,,,Sharjah,,,
-61707,11065,11065,1413,261707,,,"Room 508, 5th Floor, Office Building, Joyshang Center, No. 88, Nanxijiang Road, Yuexi, Wuzhong District",,,Suzhou,Chinese Simplified: è‹å·žå¸‚,Hubei,Chinese Simplified: æ¹–åŒ—,,
+61707,11065,11065,1413,261707,,,"Room 508, 5th Floor, Office Building, Joyshang Center, No. 88, Nanxijiang Road, Yuexi, Wuzhong District",,,Suzhou,Chinese Simplified: 苏州市,Hubei,Chinese Simplified: 湖北,,
 61709,11065,11065,1413,261709,,,,,,,,,,,
 61711,11065,11065,1413,261711,,,,,,,,,,,
-61713,11065,11065,1413,261713,,,"H05106, Building 1, No. 58, Guangxi Avenue, East Lake New Technology Development Zone",,,Wuhan,Chinese Simplified: æ­¦æ±‰,Hubei,Chinese Simplified: æ¹–åŒ—,,
+61713,11065,11065,1413,261713,,,"H05106, Building 1, No. 58, Guangxi Avenue, East Lake New Technology Development Zone",,,Wuhan,Chinese Simplified: 武汉,Hubei,Chinese Simplified: 湖北,,
 61715,11065,11065,1413,261715,,,,,,,,,,,
-61783,11065,11065,1413,261783,,,30 Baiyunshan Chenjiang Village Committee,"Chenjiang, Zhongkai District",,Huizhou City,Chinese Simplified: æƒ å·žå¸‚,Guangdong Province,Chinese Simplified: å¹¿ä¸œçœ,,
-61784,11065,11065,1413,261784,,,"75 Baiyun Boulevard, (Taihuang Dengshi)",3F Rm 315,Chenjiang Town,Huizhou City,Chinese Simplified: æƒ å·žå¸‚,Guangdong Province,Chinese Simplified: å¹¿ä¸œçœ,516229,Chinese Simplified: 516229
+61783,11065,11065,1413,261783,,,30 Baiyunshan Chenjiang Village Committee,"Chenjiang, Zhongkai District",,Huizhou City,Chinese Simplified: 惠州市,Guangdong Province,Chinese Simplified: 广东省,,
+61784,11065,11065,1413,261784,,,"75 Baiyun Boulevard, (Taihuang Dengshi)",3F Rm 315,Chenjiang Town,Huizhou City,Chinese Simplified: 惠州市,Guangdong Province,Chinese Simplified: 广东省,516229,Chinese Simplified: 516229
 62023,11056,11056,1413,262023,,,Yangon-Insein Road No. 218,"Building A, 16 Floor, Room A",,Hlaing Township,,Yangon Region,,,
 61746,11050,11050,1413,261746,,,Mis Irbina No. 18,,,Sarajevo,,,,71000,
 61870,11044,11044,1413,261870,,,Ul. Sotsialisticheskaya 2,,,Minsk,,,,220021,
 61764,11044,11044,1413,261764,,,40 let Octyabrya Street 4,,,Zhodino,,Minsk region,,222161,
-61866,11044,11044,1413,261866,,,"37, Promyshlennaya Street",,,Zhlobin,Cyrillic: Ð³. Ð–Ð»Ð¾Ð±Ð¸Ð½,Gomel region,Cyrillic: Ð“Ð¾Ð¼ÐµÐ»ÑŒÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ,247210,Cyrillic: 247210
+61866,11044,11044,1413,261866,,,"37, Promyshlennaya Street",,,Zhlobin,Cyrillic: г. Жлобин,Gomel region,Cyrillic: Гомельская область,247210,Cyrillic: 247210
 62043,11171,11171,1413,262043,,,8 Serzhana Koloskova Street,Apartment 6,,Kaliningrad,,,,,
-61766,11044,11044,1413,261766,,,Khvoynaya 29 Street,,,Pinsk,Cyrillic: ÐŸÐ¸Ð½ÑÐº,,,,
-61786,11065,11065,1413,261786,,,30 Baiyunshan Chenjiang Village Committee,"Chenjiang Office, Huicheng District",,Huizhou City,Chinese Simplified: æƒ å·žå¸‚,Guangdong Province,Chinese Simplified: å¹¿ä¸œçœ,,
-61787,11065,11065,1413,261787,,,75 Baiyun Boulevard,Chenjiang Town,,Huizhou City,Chinese Simplified: æƒ å·žå¸‚,Guangdong Province,Chinese Simplified: å¹¿ä¸œçœ,516229,Chinese Simplified: 516229
-61789,11065,11065,1413,261789,,,d26 Weiyuan Small District,Chenjiang Town,,Huizhou City,Chinese Simplified: æƒ å·žå¸‚,Guangdong Province,Chinese Simplified: å¹¿ä¸œçœ,516229,Chinese Simplified: 516229
-61791,11065,11065,1413,261791,,,"Rm No. 13, 16/F, Unit 2 Huatingge",No. 11 Dongpo Rd,,Huizhou City,Chinese Simplified: æƒ å·žå¸‚,Guangdong Province,Chinese Simplified: å¹¿ä¸œçœ,516001,Chinese Simplified: 516001
+61766,11044,11044,1413,261766,,,Khvoynaya 29 Street,,,Pinsk,Cyrillic: Пинск,,,,
+61786,11065,11065,1413,261786,,,30 Baiyunshan Chenjiang Village Committee,"Chenjiang Office, Huicheng District",,Huizhou City,Chinese Simplified: 惠州市,Guangdong Province,Chinese Simplified: 广东省,,
+61787,11065,11065,1413,261787,,,75 Baiyun Boulevard,Chenjiang Town,,Huizhou City,Chinese Simplified: 惠州市,Guangdong Province,Chinese Simplified: 广东省,516229,Chinese Simplified: 516229
+61789,11065,11065,1413,261789,,,d26 Weiyuan Small District,Chenjiang Town,,Huizhou City,Chinese Simplified: 惠州市,Guangdong Province,Chinese Simplified: 广东省,516229,Chinese Simplified: 516229
+61791,11065,11065,1413,261791,,,"Rm No. 13, 16/F, Unit 2 Huatingge",No. 11 Dongpo Rd,,Huizhou City,Chinese Simplified: 惠州市,Guangdong Province,Chinese Simplified: 广东省,516001,Chinese Simplified: 516001
 62163,11065,11065,1413,262163,,,#22 Huayu,,,Huizhou,,Guangdong,,516229,
 61797,11065,11065,1413,261797,,,"301A, Fl. 3, No. 17 III of Xinxiang Industrial Park",Xinhe Street New and Emerging Industrial Area (A),"Fuhai Street, Baoan District",Shenzhen,,Guangdong Province,,518000,
 62164,11065,11065,1413,262164,,,"Floor 3, Bldg 1, (Zone A) Zone 3",Xinhe Xinxing Ind. Zone,"Fuyong Street, Baoan Dist.",Shenzhen,,Guangdong,,,
@@ -15142,7 +15142,7 @@
 61956,11230,11230,1413,261956,,,"720 West Bay Road, PO Box 601",Buckingham Square,,Grand Cayman,,,,KY1-9006,
 61958,11074,11074,1413,261958,,,"Louloupis Court, Floor No: 6",Christodoylou Chatzipaylou 205,,Limassol,,,,3036,
 61960,11074,11074,1413,261960,,,"Louloupis Court, 6th Floor",Christodoulou Chatzipaylou 205,,Limassol,,,,3036,
-61962,11090,11090,1413,261962,,,Centre d Affaires Le Forum,33 Boulevard du General Leclerc,,Beausoleil,,,,6240,
+61962,11090,11090,1413,261962,,,Centre d Affaires Le Forum,33 Boulevard du General Leclerc,,Beausoleil,,,,06240,
 61964,11074,11074,1413,261964,,,"Louloupis Court, Floor No: 7",Christodoylou Chatzipaylou 205,,Limassol,,,,3036,
 61965,11214,11214,1413,261965,,,Mustakillik 59A,,,Tashkent,,,,,
 61967,11074,11074,1413,261967,,,"Louloupis Court, Floor No: 7",Christodoylou Chatzipaylou 205,,Limassol,,,,3036,
@@ -15428,8 +15428,8 @@
 63079,11126,11126,1413,263079,,,"Verdun 730, 4th Floor",Rashid Karameh Street,,Beirut,,,,,
 63353,11065,11065,1413,263353,,,,,,Hong Kong,,,,,
 63085,11065,11065,1413,263085,,,,,,Hong Kong,,,,,
-63087,11189,11189,1413,263087,,,"Upper Level, Rosemary Forum",356 Rosemary St,Lynwood,Menlo Park,,,,81,
-63088,11189,11189,1413,263088,,,P.O. Box 95030,Waterkloof,,Pretoria,,,,145,
+63087,11189,11189,1413,263087,,,"Upper Level, Rosemary Forum",356 Rosemary St,Lynwood,Menlo Park,,,,0081,
+63088,11189,11189,1413,263088,,,P.O. Box 95030,Waterkloof,,Pretoria,,,,0145,
 63090,11065,11065,1413,263090,,,"Suites 2111-13, 21/F, Prudential Tower","The Gateway, Harbour City, 21 Canton Road","Tsimshatsui, Kowloon",Hong Kong,,,,,
 63091,11065,11065,1413,263091,,,Room 201,Yu To Sang Building,37 Queen's Road Central,Hong Kong,,,,,
 63100,11136,11136,1413,263100,,,"A-1-5, Cita Damansara, PJU 3/27, Sunway Damansara",,,Petaling Jaya,,Selangor,,47810,
@@ -15438,8 +15438,8 @@
 63097,11210,11210,1413,263097,,,,,,Dubai,,,,,
 63098,11210,11210,1413,263098,,,PO Box 80367,,,Ajman,,,,,
 63403,11126,11126,1413,263403,,,,,,,,,,,
-63102,11170,11170,1413,263102,,,"24 BucureÅŸti, Str. Iuliu Valaori",,,Municipiul BucureÅŸti,,,,30682,
-63104,11071,11071,1413,263104,,,Abidjan Marcory,"Rue ClÃ©ment Ader, 01 BoÃ®te Postale",3131,Abidjan,,,,1,
+63102,11170,11170,1413,263102,,,"24 Bucureşti, Str. Iuliu Valaori",,,Municipiul Bucureşti,,,,30682,
+63104,11071,11071,1413,263104,,,Abidjan Marcory,"Rue Clément Ader, 01 Boîte Postale",3131,Abidjan,,,,01,
 63108,11189,11189,1413,263108,,,76A Waterstone Estate,Benmore Gardens,,Sandton,,,,2196,
 63135,11189,11189,1413,263135,,,The Paragon II F1W1,1 Krammer Road,Bedfordview,Gauteng,,,,2007,
 63111,11210,11210,1413,263111,,,,,,New Dubai,,Dubai,,,
@@ -15489,7 +15489,7 @@
 63352,11045,11045,1413,263352,,,,,,,,,,,
 63184,11045,11045,1413,263184,,,30 Hoveniersstraat,,,Antwerp,,,,2018,
 63186,11189,11189,1413,263186,,,F4E3 The Paragon II,1 Krammer Road,,Johannesburg,,Gauteng,,2007,
-63187,11189,11189,1413,263187,,,P.O. Box 35465,,,Johannesburg,,Gauteng,,102,
+63187,11189,11189,1413,263187,,,P.O. Box 35465,,,Johannesburg,,Gauteng,,0102,
 63189,11210,11210,1413,263189,,,Almas-18-A,,,Dubai,,,,,
 63191,11189,11189,1413,263191,,,178 Ellaline Road,Mondeor,,Johannesburg,,Gauteng,,2001,
 63192,11189,11189,1413,263192,,,F4E2 The Paragon II,16 Kings Road,Bedfordview,Johannesburg,,Gauteng,,2007,
@@ -15535,7 +15535,7 @@
 63704,11171,11171,1413,263704,,,"100, Isaeva av.",,,Grozny,,,,364024,
 63705,11171,11171,1413,263705,,,"100, prospekt Imeni Khuseina Abubakarovicha Isaeva",,,Grozny,,Chechnya Republic,,364051,
 63707,11171,11171,1413,263707,,,"Building 1, 51 Ostozhenka st.",,,Moscow,,,,119034,
-64173,11171,11171,1413,264173,,,Yasenevo 11 Kolpachny,,,Moscow,,,,10100,
+64173,11171,11171,1413,264173,,,Yasenevo 11 Kolpachny,,,Moscow,,,,010100,
 63709,11171,11171,1413,263709,,,Miklouho-Maclay St. 23.,,,Moscow,,,,117997,
 63711,11171,11171,1413,263711,,,d. 12 pod/et/pom 3/16/1609,Naberezhnaya Krasnopresnenskaya,,Moscow,,,,123610,
 63714,11171,11171,1413,263714,,,"2, 21st Line",,,St Petersburg,,,,199106,
@@ -15553,11 +15553,11 @@
 63735,11171,11171,1413,263735,,,,,,Smolensk,,,,,
 63736,11117,11117,1413,263736,,,,,,Pavlodar,,,,,
 63737,11044,11044,1413,263737,,,,,,Minsk,,,,,
-63739,11089,11089,1413,263739,,,Hirsalantie 11,,,Jorvas,,,,2420,
-63740,11089,11089,1413,263740,,,Salmitie 3,,,Masala,,,,2430,
+63739,11089,11089,1413,263739,,,Hirsalantie 11,,,Jorvas,,,,02420,
+63740,11089,11089,1413,263740,,,Salmitie 3,,,Masala,,,,02430,
 63742,11089,11089,1413,263742,,,,,,,,,,,
 63744,11089,11089,1413,263744,,,,,,,,,,,
-63746,11089,11089,1413,263746,,,Hirsalantie 11,,,Jorvas,,,,2420,
+63746,11089,11089,1413,263746,,,Hirsalantie 11,,,Jorvas,,,,02420,
 63752,11171,11171,1413,263752,,,"d. 5 str. 1 pom. 1 kom. 1, per. Pyzhevski Moscow",,,Moscow,,,,119017,
 63749,11196,11196,1413,263749,,,Arosastrasse 7,,,Zurich,,,,8008,
 63750,11171,11171,1413,263750,,,Pr-kt Morskoi pom. 12-N,,,Saint Petersburg,,,,197110,
@@ -15590,7 +15590,7 @@
 63928,11211,11211,1413,263928,,,101 Rose Street South Lane,,,Edinburgh,,Scotland,,EH2 3JG,
 63930,11171,11171,1413,263930,,,Sh. Varshavskoe d. 17,et 3 kab 309,,Moscow,,,,117105,
 63932,11065,11065,1413,263932,,,"Unit 1405B 14/F, The Belgian Bank Building",Nos. 721-725 Nathan Road,Mongkok,Kowloon,,Hong Kong,,,
-63934,11184,11184,1413,263934,,,1 George Street #10-01,,,Singapore,,,,49145,
+63934,11184,11184,1413,263934,,,1 George Street #10-01,,,Singapore,,,,049145,
 63936,11065,11065,1413,263936,,,"Unit 1405B 14/F, The Belgian Bank Building",Nos. 721-725 Nathan Road,Mongkok,Kowloon,,Hong Kong,,,
 63938,11086,11086,1413,263938,,,Vabaduse Pst 174B,,,Tallinn,,,,10917,
 63939,11086,11086,1413,263939,,,Pollu tn 135-11,,,Tallinn,,,,10917,
@@ -15752,8 +15752,8 @@
 64420,11171,11171,1413,264420,,,"3, Academichesky Ave.",,,Tomsk,,,,634021,
 64446,11065,11065,1413,264446,,,"Room 607, Unit 2, 5th Floor, Building 6, Yad 1, Beiqing Road, Changping District",,,Beijing,,,,102208,
 64450,11065,11065,1413,264450,,,"Gate 1, Ya'an Optoelectronics Pioneering Park, No. 6 Luoping Road, Nankai District",,,Tianjin,,,,300113,
-64452,11065,11065,1413,264452,,,"1602, Kaiyuan Building, Zhongshan Road, Chang'an District",,,Shijazhuang City,,,,50036,
-64455,11065,11065,1413,264455,,,"1201, Kangdu, University West Road",,,Hohhot,,Inner Mongolia,,10010,
+64452,11065,11065,1413,264452,,,"1602, Kaiyuan Building, Zhongshan Road, Chang'an District",,,Shijazhuang City,,,,050036,
+64455,11065,11065,1413,264455,,,"1201, Kangdu, University West Road",,,Hohhot,,Inner Mongolia,,010010,
 64443,11171,11171,1413,264443,,,"Kashirskoe Sh. 49, P. 61","Floor 8, Room 3",,Moscow,,,,115409,
 64474,11171,11171,1413,264474,,,,,,Moscow,,,,,
 64476,11254,11254,1413,264476,,,Queen Victoria House,4th Floor 41-43 Victoria Street,,Douglas,,,,IM1 2LF,
@@ -16305,12 +16305,12 @@
 66736,11171,11171,1413,266736,,,"Per. Nikitskiy, 7c1",,,Moscow,,,,125009,
 66738,11171,11171,1413,266738,,,Pr-Kt Moskovskii D. 148,"Lit. D, Pomeshch. 8",,Saint Petersburg,,,,196084,
 66740,11171,11171,1413,266740,,,Per. Dmitrovskii D. 13,Office 7,,Saint Petersburg,,,,191025,
-66742,11089,11089,1413,266742,,,Hakintie 7A,,,Vantaa,,Uusimaa,,1380,
+66742,11089,11089,1413,266742,,,Hakintie 7A,,,Vantaa,,Uusimaa,,01380,
 66749,11171,11171,1413,266749,,,,,,,,,,,
 66748,11090,11090,1413,266748,,,,,,,,,,,
 67182,11089,11089,1413,267182,,,,,,,,,,,
 67181,11089,11089,1413,267181,,,,,,,,,,,
-66747,11089,11089,1413,266747,,,Hakintie 7A,,,Vantaa,,Uusimaa,,1380,
+66747,11089,11089,1413,266747,,,Hakintie 7A,,,Vantaa,,Uusimaa,,01380,
 66752,11171,11171,1413,266752,,,ul. im Kutyakova I.S. d. 64a,office 32A,,Saratov,,,,410012,
 66753,11171,11171,1413,266753,,,,,,Samara,,,,,
 66755,11171,11171,1413,266755,,,Nab. Ozerkovskaya D. 28,Str. 2,,Moscow,,,,115184,
@@ -16457,7 +16457,7 @@
 67083,11171,11171,1413,267083,,,Ul. Bolshaya Semenovskaya D. 45,,,Moscow,,Russia,,107023,
 67087,11211,11211,1413,267087,,,,,,,,,,,
 67088,11171,11171,1413,267088,,,,,,Moscow,,,,,
-67089,11109,11109,1413,267089,,,"Number 1, Shahrood Alley, Ferdowsi Square",,,Tehran,,,,1.15999E+11,
+67089,11109,11109,1413,267089,,,"Number 1, Shahrood Alley, Ferdowsi Square",,,Tehran,,,,115999346717,
 67092,11211,11211,1413,267092,,,,,,,,,,,
 67093,11171,11171,1413,267093,,,,,,Moscow,,,,,
 67095,11109,11109,1413,267095,,,,,,,,,,,
@@ -16533,7 +16533,7 @@
 69010,11133,11133,1413,269010,,,,,,,,,,,
 68953,11133,11133,1413,268953,,,,,,Skopje,,,,,
 68956,11133,11133,1413,268956,,,,,,Skopje,,,,,
-67416,11065,11065,1413,267416,,,"No. 20, Group 5 Junshe Village",Lvliang Township,Jinhu County,,,Jiangsu Province,Chinese Simplified: æ±Ÿè‹çœ,,
+67416,11065,11065,1413,267416,,,"No. 20, Group 5 Junshe Village",Lvliang Township,Jinhu County,,,Jiangsu Province,Chinese Simplified: 江苏省,,
 67418,11060,11060,1413,267418,,,,,,Vancouver,,,,,
 67420,11060,11060,1413,267420,,,1130-1971 Broadway St,,,Port Coquitlam,,British Columbia,,V3C 0C9,
 67422,11060,11060,1413,267422,,,1130-1971 Broadway St,,,Port Coquitlam,,British Columbia,,V3C 0C9,
@@ -16541,9 +16541,9 @@
 67450,11140,11140,1413,267450,,,,,,,,,,,
 67433,11171,11171,1413,267433,,,Prospekt I.Ya.Yakovleva d. 4,,,Cheboksary,,,,428024,
 67437,11171,11171,1413,267437,,,"d. 4 pom. 5 kab. 1409, prospect I.Ya.Yakovleva",,,Cheboksary,,,,428024,
-67454,11065,11065,1413,267454,,,"8#-2-1211, Jinxiu Jiayuan",Jianguo West Road,Quanshan District,Xuzhou City,Chinese Simplified: å¾å·žå¸‚,Jiangsu Province,Chinese Simplified: æ±Ÿè‹çœ,221000,Chinese Simplified: 221000
-67499,11065,11065,1413,267499,,,No. 199 Fengjiazhai Village,Fengjiazhai Township,Guangzong County,Xingtai City,Chinese Simplified: é‚¢å°å¸‚,Hebei Province,Chinese Simplified: æ²³åŒ—çœ,,
-67458,11065,11065,1413,267458,,,No. 320 Fengjiazhai Village,Fengjiazhai Township,Guangzong County,Xingtai City,Chinese Simplified: é‚¢å°å¸‚,Hebei Province,Chinese Simplified: æ²³åŒ—çœ,,
+67454,11065,11065,1413,267454,,,"8#-2-1211, Jinxiu Jiayuan",Jianguo West Road,Quanshan District,Xuzhou City,Chinese Simplified: 徐州市,Jiangsu Province,Chinese Simplified: 江苏省,221000,Chinese Simplified: 221000
+67499,11065,11065,1413,267499,,,No. 199 Fengjiazhai Village,Fengjiazhai Township,Guangzong County,Xingtai City,Chinese Simplified: 邢台市,Hebei Province,Chinese Simplified: 河北省,,
+67458,11065,11065,1413,267458,,,No. 320 Fengjiazhai Village,Fengjiazhai Township,Guangzong County,Xingtai City,Chinese Simplified: 邢台市,Hebei Province,Chinese Simplified: 河北省,,
 67460,11065,11065,1413,267460,,,"No. 201, Fengjiazhai Industrial Zone",Fengjiazhai Town,Guangzong County,Xingtai City,,Hebei Province,,,
 67462,11171,11171,1413,267462,,,Prospekt I.Ya.Yakovleva d. 4,,,Cheboksary,,,,428024,
 67464,11171,11171,1413,267464,,,Prospekt I.Ya.Yakovleva d. 1,,,Cheboksary,,,,428020,
@@ -16561,25 +16561,25 @@
 67507,11171,11171,1413,267507,,,"Ul. Pravolineinaya D. 33, Office 310-315",,,Zhukovskiy,,,,140181,
 67509,11171,11171,1413,267509,,,Ul. Semenovskaya B D. 40,,,Moscow,,,,107023,
 67513,11065,11065,1413,267513,,,"H0781, Bldg. 1, No. 58 Guanggu Road",East Lake New Technology Development Zone,,Wuhan,,Hubei Province,,430000,
-67515,11065,11065,1413,267515,,,"Room 2914, Bldg. B Weekend Max Mara",No. 108 West Zhongshan Road,Qiaoxi District,Shijiazhuang,,Hebei Province,,50000,
-67629,11065,11065,1413,267629,,,"2-2-1901, Huacheng Lvzhou Phase I",No. 169 Shengli South Street,Qiaoxi District,Shijiazhuang,,Hebei,,50000,
+67515,11065,11065,1413,267515,,,"Room 2914, Bldg. B Weekend Max Mara",No. 108 West Zhongshan Road,Qiaoxi District,Shijiazhuang,,Hebei Province,,050000,
+67629,11065,11065,1413,267629,,,"2-2-1901, Huacheng Lvzhou Phase I",No. 169 Shengli South Street,Qiaoxi District,Shijiazhuang,,Hebei,,050000,
 67532,91192,91192,1413,267532,,,,,,,,,,,
 68938,91192,91192,1413,268938,,,,,,,,,,,
-67536,11065,11065,1413,267536,,,"No. 67, Guangming Street 6th Village",Qiaodong District,,Xingtai,Chinese Simplified: é‚¢å°å¸‚,Hebei,Chinese Simplified: æ²³åŒ—çœ,,
+67536,11065,11065,1413,267536,,,"No. 67, Guangming Street 6th Village",Qiaodong District,,Xingtai,Chinese Simplified: 邢台市,Hebei,Chinese Simplified: 河北省,,
 67542,11171,11171,1413,267542,,,,,,,,,,,
 67543,11050,11050,1413,267543,,,,,,,,,,,
 67539,11065,11065,1413,267539,,,"Office Unit B, ON 9/F","Thomson Commercial Building 8, Thomson Road",,Hong Kong,,,,,
 67541,11065,11065,1413,267541,,,,,,,,,,,
 67545,11065,11065,1413,267545,,,,,,,,,,,
 67549,11065,11065,1413,267549,,,"Room 1512, 15th Floor, Lucky Centre",165-171 Wanchai Road,Wanchai,Hong Kong,,,,,
-67548,11065,11065,1413,267548,,,No. 21 Ganwang Village,"Dongshan Village, Jinkou Street",Jiangxia District,Wuhan City,Chinese Simplified: æ­¦æ±‰å¸‚,Hubei Province,Chinese Simplified: æ¹–åŒ—çœ,,
+67548,11065,11065,1413,267548,,,No. 21 Ganwang Village,"Dongshan Village, Jinkou Street",Jiangxia District,Wuhan City,Chinese Simplified: 武汉市,Hubei Province,Chinese Simplified: 湖北省,,
 67552,11050,11050,1413,267552,,,,,,Bijeljina,,,,,
-67553,11065,11065,1413,267553,,,"No. 35 Group 6, Fengling Village",Yuekou Township,,Tianmen City,Chinese Simplified: å¤©é—¨å¸‚,Hubei Province,Chinese Simplified: æ¹–åŒ—çœ,,
+67553,11065,11065,1413,267553,,,"No. 35 Group 6, Fengling Village",Yuekou Township,,Tianmen City,Chinese Simplified: 天门市,Hubei Province,Chinese Simplified: 湖北省,,
 67555,11050,11050,1413,267555,,,"Dusana Baranina 1A, 76300",,,Bijeljina,,,,,
 67562,11065,11065,1413,267562,,,No. 141 Niujiazhai Village,Fengjiazhai Township,,Xingtai City,,"Guangzong County, Hebei Province",,,
 67558,11065,11065,1413,267558,,,"Room 462, Block G, Unit 5, Building 1",No. 688 Qiushi Road,"Jinshanwei Town, Jinshan District",Shanghai,,,,201599,
-67560,11065,11065,1413,267560,,,"Room 1408, Block F, Haiyue Tiandi",No. 66 Yuhua West Road,Qiaoxi District,Shijiazhuang,,Hebei,,50000,
-67574,11065,11065,1413,267574,,,No. 509 Fengjiazhai Village,Fengjiazhai Township,Guangzong County,Xingtai City,Chinese Simplified: é‚¢å°å¸‚,Hebei,Chinese Simplified: æ²³åŒ—çœ,,
+67560,11065,11065,1413,267560,,,"Room 1408, Block F, Haiyue Tiandi",No. 66 Yuhua West Road,Qiaoxi District,Shijiazhuang,,Hebei,,050000,
+67574,11065,11065,1413,267574,,,No. 509 Fengjiazhai Village,Fengjiazhai Township,Guangzong County,Xingtai City,Chinese Simplified: 邢台市,Hebei,Chinese Simplified: 河北省,,
 67566,11065,11065,1413,267566,,,,,,,,,,,
 67568,11065,11065,1413,267568,,,Qiaoxi District,,,Shijiazhuang,,Hebei Province,,,
 67570,11065,11065,1413,267570,,,"Room 30b-E10, No. 15 Donghai West Road",Shinan District,,Qingdao,,Shandong Province,,,
@@ -16665,9 +16665,9 @@
 67952,11171,11171,1413,267952,,,Pr-Kt Patsaeva,"d. 7, k. 1, office 28/1",,Dolgoprudnyy,,,,141707,
 67954,11171,11171,1413,267954,,,2 Zavodskoy proezd,office 632,,Fryazino,,,,141190,
 67956,11171,11171,1413,267956,,,ul. Moiseenko,d. 24,"lit. A, pom. 1-N, office 404-404A",Saint Petersburg,,,,191144,
-67958,11171,11171,1413,267958,,,ul. Sh-2 (Oez Alabuga Ter.) 4/1,,,Yelabuga,Cyrillic: Ð•Ð»Ð°Ð±ÑƒÐ¶ÑÐºÐ¸Ð¹ Ð Ð°Ð¹Ð¾Ð½,Tatarstan,Cyrillic: Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¢Ð°Ñ‚Ð°Ñ€ÑÑ‚Ð°Ð½,423600,Cyrillic: 423600
+67958,11171,11171,1413,267958,,,ul. Sh-2 (Oez Alabuga Ter.) 4/1,,,Yelabuga,Cyrillic: Елабужский Район,Tatarstan,Cyrillic: Республика Татарстан,423600,Cyrillic: 423600
 67959,11171,11171,1413,267959,,,"Promploshchadka Alabuga, ul. Sh-2, Korp. 4/1",,,Yelabuga,,"Volga federal region, Republic of Tatarstan",,423600,
-67961,11171,11171,1413,267961,,,"str. 5/12 pom. 253, ul. Sh-2 Ter. Oez Alabuga",,,Yelabuga,Cyrillic: Ð•Ð»Ð°Ð±ÑƒÐ³Ð°,Tatarstan,Cyrillic: Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¢Ð°Ñ‚Ð°Ñ€ÑÑ‚Ð°Ð½,423601,Cyrillic: 423601
+67961,11171,11171,1413,267961,,,"str. 5/12 pom. 253, ul. Sh-2 Ter. Oez Alabuga",,,Yelabuga,Cyrillic: Елабуга,Tatarstan,Cyrillic: Республика Татарстан,423601,Cyrillic: 423601
 67962,11171,11171,1413,267962,,,,,,Pushkino,,,,,
 67964,11171,11171,1413,267964,,,,,,,,Tatarstan,,,
 67966,11171,11171,1413,267966,,,,,,,,,,,
@@ -16677,7 +16677,7 @@
 67973,11171,11171,1413,267973,,,"Ter. OEZ Alabuga, Ul. Sh-2, Str. 5/12",Pomeshch. 36,,Yelabuga,,"Volga federal region, Tatarstan",,,
 67975,11065,11065,1413,267975,,,Level 13,68 Yee Wo Street,Causeway Bay,Hong Kong,,,,,
 67977,11065,11065,1413,267977,,,Room 903,Building 1,"No. 4 Wangjing Road, Chaoyang District",Beijing,,,,,
-67979,11065,11065,1413,267979,,,Fuhanyuan 1â€812,New North District,,Changzhou,,Jiangsu,,213022,
+67979,11065,11065,1413,267979,,,Fuhanyuan 1‐812,New North District,,Changzhou,,Jiangsu,,213022,
 67981,11109,11109,1413,267981,,,"Yousef Abad Neighborhood, Kordestan Express Way","Seyyed Sohrab Akhlaqi 37 Street, Number 38, First Floor",,Tehran,,Tehran,,1436613193,
 67986,11065,11065,1413,267986,,,,,,,,,,,
 67984,11109,11109,1413,267984,,,,,,,,Tehran,,,
@@ -16701,7 +16701,7 @@
 68037,11171,11171,1413,268037,,,Proezd Garazhnyi D.13,,,Cheboksary,,,,428003,
 68039,11205,11205,1413,268039,,,"Oruchreish Neighborhood, Giyimkent Street, B228",Block 58A,,Esenler,,Istanbul,,,
 68041,11205,11205,1413,268041,,,Veysel Karani Mah. Kanuni Cad E Blok D.23,,,Sancaktepe,,Istanbul,,,
-68043,11205,11205,1413,268043,,,Nordic Life Sitesi C Blok,No: 26C/35,Tosmur Mahallesi,Antalya,,,,7400,
+68043,11205,11205,1413,268043,,,Nordic Life Sitesi C Blok,No: 26C/35,Tosmur Mahallesi,Antalya,,,,07400,
 68045,11205,11205,1413,268045,,,"Merkez Neighborhood, Palazoghlu St.","Han Riyet Block No: 6, Door No: 3",,Sisli,,Istanbul,,,
 68047,11210,11210,1413,268047,,,"342001, Unit 101 Ifza","Dubai Silicon Oasis, DDP Building A2",,Dubai,,,,,
 68049,11210,11210,1413,268049,,,"2968, DMCC Business Centre, Level No 1",Jewellery & Gemplex 3,,Dubai,,,,,
@@ -16737,7 +16737,7 @@
 68108,11205,11205,1413,268108,,,,,,,,,,,
 68110,11205,11205,1413,268110,,,Alacaath Mah. 4841 Cad. A1 Blok No: 3a Ic Kapi No: 122,Cankaya,,Ankara,,,,,
 68115,11205,11205,1413,268115,,,Iskender Pasa Mah. Simitci Sakir Sk. Ana Palas,,,Istanbul,,,,,
-68117,11205,11205,1413,268117,,,"Koksalan Apartmani, Sehit Adem Yavuz Sokak No: 6-28",Kizilay Mahallesi,,Cankaya,,,,6420,
+68117,11205,11205,1413,268117,,,"Koksalan Apartmani, Sehit Adem Yavuz Sokak No: 6-28",Kizilay Mahallesi,,Cankaya,,,,06420,
 68119,11171,11171,1413,268119,,,Ul. Tvardovskogo D. 3,Str. 2,Office 1,Novosibirsk,,,,630068,
 68122,11171,11171,1413,268122,,,Ul. Akademika Yangelya D 14,Korp 2,KV 257,Moscow,,,,117534,
 68124,11171,11171,1413,268124,,,Ul. Dolgorukovskaya D. 38,Korp. 1,,Moscow,,,,127006,
@@ -17040,7 +17040,7 @@
 68991,11133,11133,1413,268991,,,Skupi 3A,,,Skopje,,,,1020,
 69015,11044,11044,1413,269015,,,"D. 18, Kitaisko-Belorusski Industrialny Park Veliki Kamen, Pr-t",,,Pekinski,,Minskaya Oblast,,222210,
 69016,11044,11044,1413,269016,,,"17th km, Minsk-Dzerzhinsk Highway, Administrative Building, Office 75",,,Shchomyslitsky,,Minsk Region,,223049,
-69018,11044,11044,1413,269018,,,"Sergey Esenin St. 36, Apt. 76",,,Minsk,Cyrillic: Ð“. ÐœÐ¸Ð½ÑÐº,,,,
+69018,11044,11044,1413,269018,,,"Sergey Esenin St. 36, Apt. 76",,,Minsk,Cyrillic: Г. Минск,,,,
 69030,11171,11171,1413,269030,,,"ul. Novoostapovskaya, d. 5, str. 14","et. 2, kom. 2",,Moscow,,,,115088,
 69031,11171,11171,1413,269031,,,"ul. Sharikopodshipnikovskaya, d. 13, str. 62",,,Moscow,,,,115088,
 69033,11171,11171,1413,269033,,,"ul. Sharikopodshipnikovskaya, d. 13, str. 62",,,Moscow,,,,115088,
@@ -17054,17 +17054,17 @@
 69110,11116,11116,1413,269110,,,,,,Amman,,,,,
 69051,11171,11171,1413,269051,,,Ul. Sadovaya D.200,,,Novosibirsk,,,,630000,
 69052,11171,11171,1413,269052,,,Ul. Bolshaya ZD. 254/8,,,Novosibirsk,,,,630032,
-69057,11171,11171,1413,269057,,,ul. Pesochnaya 3,,,Izhevsk,Cyrillic: Ð“Ð¾Ñ€Ð¾Ð´ Ð˜Ð¶ÐµÐ²ÑÐº,Udmurtia Republic,Cyrillic: Ð Ð•Ð¡ÐŸÐ£Ð‘Ð›Ð˜ÐšÐ Ð£Ð”ÐœÐ£Ð Ð¢Ð¡ÐšÐÐ¯,426033,Cyrillic: 426033
+69057,11171,11171,1413,269057,,,ul. Pesochnaya 3,,,Izhevsk,Cyrillic: Город Ижевск,Udmurtia Republic,Cyrillic: РЕСПУБЛИКА УДМУРТСКАЯ,426033,Cyrillic: 426033
 69056,11171,11171,1413,269056,,,PR-KT Novocherkasskii D.37,Korp.1,,Saint Petersburg,,,,195112,
 69059,11171,11171,1413,269059,,,D.71,,,Grebenkino,,,,399775,
 69061,11171,11171,1413,269061,,,Shosse Saratovskoe D.4,,,Syzran,,,,446025,
 69067,11171,11171,1413,269067,,,Ul. Veteranov Truda D.46,,,Tyumen,,,,625017,
-69066,11171,11171,1413,269066,,,"ul. Tsentralnaya, D. 18",,,Chernyshevka,Cyrillic: Ð§ÐµÑ€Ð½Ñ‹ÑˆÐµÐ²ÐºÐ°,Republic of Tatarstan,Cyrillic: Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¢Ð°Ñ‚Ð°Ñ€ÑÑ‚Ð°Ð½,422710,Cyrillic: 422710
+69066,11171,11171,1413,269066,,,"ul. Tsentralnaya, D. 18",,,Chernyshevka,Cyrillic: Чернышевка,Republic of Tatarstan,Cyrillic: Республика Татарстан,422710,Cyrillic: 422710
 69069,11171,11171,1413,269069,,,"103, Yamskaya Street",,,Tyumen,,,,625001,
-69071,11171,11171,1413,269071,,,"ul. Politekhnicheskaya, D. 22","Lit. V, Pomeshch. 1-N",,Saint Petersburg,Cyrillic: Ð¡Ð°Ð½ÐºÑ‚-Ð¿ÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³,Northwest Federal Region,Cyrillic: Ð¡Ð°Ð½ÐºÑ‚-Ð¿ÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³,194021,Cyrillic: 194021
+69071,11171,11171,1413,269071,,,"ul. Politekhnicheskaya, D. 22","Lit. V, Pomeshch. 1-N",,Saint Petersburg,Cyrillic: Санкт-петербург,Northwest Federal Region,Cyrillic: Санкт-петербург,194021,Cyrillic: 194021
 69073,11171,11171,1413,269073,,,Pr-t Leninskogo Komsomola D. 40,Office 116,,Kursk,,,,305026,
-69075,11171,11171,1413,269075,,,"d. 235, kv. 70",ul. Sevastopolskaya,,Irkutsk,Cyrillic: Ð“Ð¾Ñ€Ð¾Ð´ Ð˜Ñ€ÐºÑƒÑ‚ÑÐº,Irkutsk Oblast,Cyrillic: Ð˜Ñ€ÐºÑƒÑ‚ÑÐºÐ°Ñ ÐžÐ±Ð»Ð°ÑÑ‚ÑŒ,664048,Cyrillic: 664048
-69077,11171,11171,1413,269077,,,"ul. Ovarazhnaya, Str. 190B",Pomeshch. 19,,Afonino,Cyrillic: ÐÐ¤ÐžÐÐ˜ÐÐž,Nizhni Novgorod Oblast,Cyrillic: ÐžÐ‘Ð›ÐÐ¡Ð¢Ð¬ ÐÐ˜Ð–Ð•Ð“ÐžÐ ÐžÐ”Ð¡ÐšÐÐ¯,607680,Cyrillic: 607680
+69075,11171,11171,1413,269075,,,"d. 235, kv. 70",ul. Sevastopolskaya,,Irkutsk,Cyrillic: Город Иркутск,Irkutsk Oblast,Cyrillic: Иркутская Область,664048,Cyrillic: 664048
+69077,11171,11171,1413,269077,,,"ul. Ovarazhnaya, Str. 190B",Pomeshch. 19,,Afonino,Cyrillic: АФОНИНО,Nizhni Novgorod Oblast,Cyrillic: ОБЛАСТЬ НИЖЕГОРОДСКАЯ,607680,Cyrillic: 607680
 69079,11171,11171,1413,269079,,,Ul. Im. Ordzhonikidze GK D.11 A,,,Saratov,,,,410015,
 69081,11171,11171,1413,269081,,,Ul. Plakhotnogo D. 131,,,Novosibirsk,,,,630136,
 69083,11171,11171,1413,269083,,,Proezd 3,Rybatskii 3,Liter V,Saint Petersburg,,,,192177,
@@ -17497,7 +17497,7 @@
 70273,11140,11140,1413,270273,,,"Trust Company Complex, Ajeltake Road",,,Majuro,,Ajeltake Island,,96960,
 70274,11210,11210,1413,270274,,,"8th Floor, Arenco Tower, Sheikh Zayed Road",,,Dubai,,,,,
 70283,11098,11098,1413,270283,,,,,,,,,,,
-70288,11089,11089,1413,270288,,,Koivupuistontie 30,,,Vantaa,,,,1510,
+70288,11089,11089,1413,270288,,,Koivupuistontie 30,,,Vantaa,,,,01510,
 70290,11171,11171,1413,270290,,,Ul. Ordinarnaya D. 20,"Lit. A, Pomeshch. 15-N",Rabochee Mesto #2,Saint Petersburg,,,,197136,
 70291,11171,11171,1413,270291,,,St. Repishcheva 14R,,,Saint Petersburg,,,,,
 70292,11171,11171,1413,270292,,,13 Moskovskoe Highway,,,Saint Petersburg,,,,,
@@ -17537,11 +17537,11 @@
 70458,11171,11171,1413,270458,,,,,,,,Tatarstan,,,
 70460,11171,11171,1413,270460,,,,,,,,Tatarstan,,,
 70462,11171,11171,1413,270462,,,,,,,,Tatarstan,,,
-70465,11171,11171,1413,270465,,,"ul. Sh-2 (OEZ Alabuga Ter.), Str. 5/12",Pomeshch. 126,,Yelabuga,Cyrillic: Ð•Ð»Ð°Ð±ÑƒÐ³Ð°,Republic of Tatarstan,Cyrillic: Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¢Ð°Ñ‚Ð°Ñ€ÑÑ‚Ð°Ð½,423601,Cyrillic: 423601
-70467,11171,11171,1413,270467,,,"ul. Sh-2 (OEZ Alabuga Ter.), Str. 5/12",Pomeshch. 102,,Yelabuga,Cyrillic: Ð•Ð»Ð°Ð±ÑƒÐ³Ð°,Republic of Tatarstan,Cyrillic: Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¢Ð°Ñ‚Ð°Ñ€ÑÑ‚Ð°Ð½,423601,Cyrillic: 423601
-70469,11171,11171,1413,270469,,,"ul. Sh-2 (OEZ Alabuga Ter.), Str. 5/12",Pomeshch. 201,,Yelabuga,Cyrillic: Ð•Ð»Ð°Ð±ÑƒÐ³Ð°,Republic of Tatarstan,Cyrillic: Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¢Ð°Ñ‚Ð°Ñ€ÑÑ‚Ð°Ð½,423601,Cyrillic: 423601
-70471,11171,11171,1413,270471,,,"ul. Sh-2 (OEZ Alabuga Ter.), Str. 5/12",Pomeshch. 202,,Yelabuga,Cyrillic: Ð•Ð»Ð°Ð±ÑƒÐ³Ð°,Republic of Tatarstan,Cyrillic: Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¢Ð°Ñ‚Ð°Ñ€ÑÑ‚Ð°Ð½,423601,Cyrillic: 423601
-70473,11171,11171,1413,270473,,,"ul. Sh-2 (OEZ Alabuga Ter.), D. 15/5",Pomeshch. 3,,Yelabuga,Cyrillic: Ð•Ð»Ð°Ð±ÑƒÐ³Ð°,Republic of Tatarstan,Cyrillic: Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ° Ð¢Ð°Ñ‚Ð°Ñ€ÑÑ‚Ð°Ð½,423601,Cyrillic: 423601
+70465,11171,11171,1413,270465,,,"ul. Sh-2 (OEZ Alabuga Ter.), Str. 5/12",Pomeshch. 126,,Yelabuga,Cyrillic: Елабуга,Republic of Tatarstan,Cyrillic: Республика Татарстан,423601,Cyrillic: 423601
+70467,11171,11171,1413,270467,,,"ul. Sh-2 (OEZ Alabuga Ter.), Str. 5/12",Pomeshch. 102,,Yelabuga,Cyrillic: Елабуга,Republic of Tatarstan,Cyrillic: Республика Татарстан,423601,Cyrillic: 423601
+70469,11171,11171,1413,270469,,,"ul. Sh-2 (OEZ Alabuga Ter.), Str. 5/12",Pomeshch. 201,,Yelabuga,Cyrillic: Елабуга,Republic of Tatarstan,Cyrillic: Республика Татарстан,423601,Cyrillic: 423601
+70471,11171,11171,1413,270471,,,"ul. Sh-2 (OEZ Alabuga Ter.), Str. 5/12",Pomeshch. 202,,Yelabuga,Cyrillic: Елабуга,Republic of Tatarstan,Cyrillic: Республика Татарстан,423601,Cyrillic: 423601
+70473,11171,11171,1413,270473,,,"ul. Sh-2 (OEZ Alabuga Ter.), D. 15/5",Pomeshch. 3,,Yelabuga,Cyrillic: Елабуга,Republic of Tatarstan,Cyrillic: Республика Татарстан,423601,Cyrillic: 423601
 70505,11291,,,270505,,West Bank,Meitarim Farm Outpost,,,,,,,,
 70510,11291,,,270510,,West Bank,,,,Mitzpe Yair,,,,,
 70514,11291,,,270514,,West Bank,,,,Givat Ronen,,,,,
@@ -17882,11 +17882,11 @@
 71304,11171,11171,1413,271304,,,Ul. Yunosti D. 13,,,Moscow,,,,111395,
 71306,11171,11171,1413,271306,,,Ul. Programmistov D. 4,Str. 3,Office 115,Dubna,,,,141983,
 71310,11065,11065,1413,271310,,,"R301, Block A of No 3 Building, West Area of Tongda Industrial Zone, Hebian 5 She Helong Street, Baiyun District",,,Guangzhou,,Guangdong,,,
-71313,11065,11065,1413,271313,,,Room 4195,"No. 1 Chunhui Street, Tongtai Road",Baiyun District,Guangzhou,Chinese Simplified: å¹¿å·ž,,,,
+71313,11065,11065,1413,271313,,,Room 4195,"No. 1 Chunhui Street, Tongtai Road",Baiyun District,Guangzhou,Chinese Simplified: 广州,,,,
 71315,11065,11065,1413,271315,,,,,,Shenyang,,,,,
-71318,11065,11065,1413,271318,,,"1806, Hanguo Center, No. 3031 Shennan Middle Road, Futian District",,,Shenzhen,Chinese Simplified: æ·±åœ³å¸‚,Guangdong,Chinese Simplified: å¹¿ä¸œçœ,,
+71318,11065,11065,1413,271318,,,"1806, Hanguo Center, No. 3031 Shennan Middle Road, Futian District",,,Shenzhen,Chinese Simplified: 深圳市,Guangdong,Chinese Simplified: 广东省,,
 71319,11065,11065,1413,271319,,,67 Kap 2-9-1,Sobuk 1 Tonglo,Cho'lso' District,Shenyang,,,,,
-71321,11065,11065,1413,271321,,,"18E, Block B, World Trade Square, No. 9 Fuhong Road, Funnan Community, Futian Street, Futian District",,,Shenzhen,Chinese Simplified: æ·±åœ³å¸‚,Guangdong,Chinese Simplified: å¹¿ä¸œçœ,,
+71321,11065,11065,1413,271321,,,"18E, Block B, World Trade Square, No. 9 Fuhong Road, Funnan Community, Futian Street, Futian District",,,Shenzhen,Chinese Simplified: 深圳市,Guangdong,Chinese Simplified: 广东省,,
 71323,11065,11065,1413,271323,,,"122 Self-edited 408 (A288), No. 36 Daguan South Rd, Tianhe District",,,Guangzhou,,,,510660,
 71325,11109,11109,1413,271325,,,,,,,,,,,
 71328,11065,11065,1413,271328,,,"Room 06, 17th Floor, Wellborne Commercial Centre, 8",Java Road,,Hong Kong,,,,,
@@ -18189,7 +18189,7 @@
 72068,11143,11143,1413,272068,,,"Boulevard Kukulcan KM 1.5, Local B32",Puerto Juarez,Marina Puerto,Cancun,,Quintana Roo,,77500,
 72069,11111,11111,1413,272069,,,3rd Floor Ulysses House,Foley Street,Dublin 1,Dublin,,,,D01W2T2,
 72072,11143,11143,1413,272072,,,,,,,,,,,
-72074,11133,11133,1413,272074,,,20-Oct,no. 1/1-1,Karpos,Skopje,,,,,
+72074,11133,11133,1413,272074,,,October 20,no. 1/1-1,Karpos,Skopje,,,,,
 72077,11133,11133,1413,272077,,,Metropolitan Theodosij Gologanov 44,,Karpos,Skopje,,,,,
 72076,11143,11143,1413,272076,,,,,,,,,,,
 72080,11105,11105,1413,272080,,,Deak Ferenc Ter 3.,,,Budapest,,,,1052,
@@ -18357,7 +18357,7 @@
 1011634,,,,,Sinaloa,,,,,,,,,,
 1011754,,,,,al-Khafji,,,,,,,,,,
 1012195,,,,,New South Wales,,,,,,,,,,
-1013058,,,,,2214513,,,,,,,,,,
+1013058,,,,,02214513,,,,,,,,,,
 1013316,,,,,Zarqa,,,,,,,,,,
 1013475,,,,,"Guadalajara, Jalisco",,,,,,,,,,
 1014418,,,,,Juba,,,,,,,,,,

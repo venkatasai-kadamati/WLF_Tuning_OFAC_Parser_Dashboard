@@ -37,6 +37,12 @@
         - **** SOL: The issue doesn't persist when opened in excel #### ASK : ALEX
 
 
+4. Country columns      
+        - Is it country column or country value that we need to have
+        - SOL: Did the mapping of the hardcoded country id's into corresponding country values.
+        ### ASK : ALEX
+
+
 
 
 

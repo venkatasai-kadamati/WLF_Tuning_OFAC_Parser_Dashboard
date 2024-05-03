@@ -1,42 +1,11 @@
 // Test cases for address
-1. Test address 1, address 2, address 3: 
-        - locationID's : 28647 to 28783
+1. Test mapped values: 
+        Tested on FixedRef = 23525 // multiple entries of features and nested values
 
-2. Do we have any non-latin entries, these should be found in the comments part
-        - 	        Line 168058:           <Comment>Chinese Simplified</Comment>
-                        Line 168064:           <Comment />
-                        Line 168068:           <Comment>Chinese Simplified</Comment>
-                        Line 168074:           <Comment />
-                        Line 168078:           <Comment>Chinese Simplified</Comment>
-                        Line 168089:           <Comment />
-                        Line 168093:           <Comment>Chinese Simplified</Comment>
-                        Line 168099:           <Comment />
-                        Line 168103:           <Comment>Chinese Simplified</Comment>
-                        Line 168114:           <Comment />
-                        Line 168120:           <Comment />
-                        Line 168131:           <Comment />
-                        Line 168142:           <Comment />
-                        Line 168153:           <Comment />
-                        Line 168164:           <Comment />
-                        Line 168175:           <Comment />
-                        Line 168191:           <Comment />
-                        Line 168195:           <Comment>Chinese Simplified</Comment>
-                        Line 168201:           <Comment />
-                        Line 168205:           <Comment>Chinese Simplified</Comment>
-                        Line 168211:           <Comment />
-                        Line 168215:           <Comment>Chinese Simplified</Comment>
-                        Line 168221:           <Comment />
-                        Line 168225:           <Comment>Chinese Simplified</Comment>
-                        Line 168236:           <Comment />
-                        
-        - #### ASK : ALEX, do we need to even parse the non-latin text 
-
-3. Test the quote's entry present in the fixedRef 
-        - locationID's : 10157
-        - For some figure out why quotes are added in the final csv output and why """"" thse are noticed
-        - **** SOL: The issue doesn't persist when opened in excel #### ASK : ALEX
-
-
+2. What is the meaning of value here is it FeatureType or Value?
+        - Value is the value of the feature type #### ASK : ALEX
+        - Is it LocationID
+        Tested on FixedRef = 23525
 
 
 
