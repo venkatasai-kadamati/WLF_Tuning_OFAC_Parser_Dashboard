@@ -9,6 +9,16 @@
         vi. Value
 ________________________________
 
+1. ask what does issued by refer? is it issuing country or issuing authority
+  ### ASK : ALEX
+2. Test the authority values 
+   - 33862,1619
+
+3. Test FixedRef
+    - 1008,1571,,1979-7-30,,P-537849
+
+4. ask how the time format is working in the start itself we have from-to and end from-to
+    ### ASK : ALEX
 
 <IDRegDocTypeValues>
       <IDRegDocType ID="1570">Cedula No.</IDRegDocType>
