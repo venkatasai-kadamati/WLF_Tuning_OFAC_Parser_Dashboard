@@ -49,19 +49,10 @@ _________________________________________________
 Progress and Items:
 1. Parse the following as a row and populate the following columns 
         fixedRef
-        address 1
-        address 2
-        address 3
-        city
-        state/province
-        postal code
-        region 
-        country
-        unknown
+        FeatureType <FeatureTypeValues>
+        Value
 
 
-2. Parse the non-latin entries for location and use the comments (acts as ScriptID) to define the lang like chinese Simplified / traditional...
-        - Test on Location ID = 32808 // chinese simplified | traditional
-        - Test on Location ID = 35144 // multiple entries of non-latin for single Location
+2. 
 
 3. 
