@@ -79,4 +79,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 - The OFAC SDN advanced XML document is provided by the U.S. Department of the Treasury's Office of Foreign Assets Control.
 - Special thanks to the developers of lxml, ElementTree, and Power BI for their excellent tools and libraries.
-```
