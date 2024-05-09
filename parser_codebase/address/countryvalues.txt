@@ -1,0 +1,183 @@
+<CountryValues>
+      <Country ID="11029" ISO2="AF">Afghanistan</Country>
+      <Country ID="11030" ISO2="AL">Albania</Country>
+      <Country ID="11031" ISO2="DZ">Algeria</Country>
+      <Country ID="11033" ISO2="AO">Angola</Country>
+      <Country ID="11034" ISO2="AG">Antigua and Barbuda</Country>
+      <Country ID="11035" ISO2="AR">Argentina</Country>
+      <Country ID="11036" ISO2="AM">Armenia</Country>
+      <Country ID="11037" ISO2="AU">Australia</Country>
+      <Country ID="11038" ISO2="AT">Austria</Country>
+      <Country ID="11039" ISO2="AZ">Azerbaijan</Country>
+      <Country ID="11040" ISO2="BS">Bahamas, The</Country>
+      <Country ID="11041" ISO2="BH">Bahrain</Country>
+      <Country ID="11042" ISO2="BD">Bangladesh</Country>
+      <Country ID="11043" ISO2="BB">Barbados</Country>
+      <Country ID="11044" ISO2="BY">Belarus</Country>
+      <Country ID="11045" ISO2="BE">Belgium</Country>
+      <Country ID="11046" ISO2="BZ">Belize</Country>
+      <Country ID="11047" ISO2="BJ">Benin</Country>
+      <Country ID="11049" ISO2="BO">Bolivia</Country>
+      <Country ID="11050" ISO2="BA">Bosnia and Herzegovina</Country>
+      <Country ID="11052" ISO2="BR">Brazil</Country>
+      <Country ID="11053" ISO2="BN">Brunei</Country>
+      <Country ID="11054" ISO2="BG">Bulgaria</Country>
+      <Country ID="11055" ISO2="BF">Burkina Faso</Country>
+      <Country ID="11056" ISO2="MM">Burma</Country>
+      <Country ID="11058" ISO2="KH">Cambodia</Country>
+      <Country ID="11060" ISO2="CA">Canada</Country>
+      <Country ID="11061" ISO2="CV">Cabo Verde</Country>
+      <Country ID="11062" ISO2="CF">Central African Republic</Country>
+      <Country ID="11064" ISO2="CL">Chile</Country>
+      <Country ID="11065" ISO2="CN">China</Country>
+      <Country ID="11066" ISO2="CO">Colombia</Country>
+      <Country ID="11067" ISO2="KM">Comoros</Country>
+      <Country ID="11068" ISO2="CG">Congo, Republic of the</Country>
+      <Country ID="11069" ISO2="CD">Congo, Democratic Republic of the</Country>
+      <Country ID="11070" ISO2="CR">Costa Rica</Country>
+      <Country ID="11071" ISO2="CI">Cote d Ivoire</Country>
+      <Country ID="11072" ISO2="HR">Croatia</Country>
+      <Country ID="11073" ISO2="CU">Cuba</Country>
+      <Country ID="11074" ISO2="CY">Cyprus</Country>
+      <Country ID="11075" ISO2="CZ">Czech Republic</Country>
+      <Country ID="11076" ISO2="DK">Denmark</Country>
+      <Country ID="11077" ISO2="DJ">Djibouti</Country>
+      <Country ID="11078" ISO2="DM">Dominica</Country>
+      <Country ID="11079" ISO2="DO">Dominican Republic</Country>
+      <Country ID="11081" ISO2="EC">Ecuador</Country>
+      <Country ID="11082" ISO2="EG">Egypt</Country>
+      <Country ID="11083" ISO2="SV">El Salvador</Country>
+      <Country ID="11084" ISO2="GQ">Equatorial Guinea</Country>
+      <Country ID="11085" ISO2="ER">Eritrea</Country>
+      <Country ID="11086" ISO2="EE">Estonia</Country>
+      <Country ID="11087" ISO2="ET">Ethiopia</Country>
+      <Country ID="11089" ISO2="FI">Finland</Country>
+      <Country ID="11090" ISO2="FR">France</Country>
+      <Country ID="11092" ISO2="GM">The Gambia</Country>
+      <Country ID="11093" ISO2="GE">Georgia</Country>
+      <Country ID="11094" ISO2="DE">Germany</Country>
+      <Country ID="11095" ISO2="GH">Ghana</Country>
+      <Country ID="11096" ISO2="GR">Greece</Country>
+      <Country ID="11098" ISO2="GT">Guatemala</Country>
+      <Country ID="11099" ISO2="GN">Guinea</Country>
+      <Country ID="11100" ISO2="GW">Guinea-Bissau</Country>
+      <Country ID="11101" ISO2="GY">Guyana</Country>
+      <Country ID="11102" ISO2="HT">Haiti</Country>
+      <Country ID="11104" ISO2="HN">Honduras</Country>
+      <Country ID="11105" ISO2="HU">Hungary</Country>
+      <Country ID="11107" ISO2="IN">India</Country>
+      <Country ID="11108" ISO2="ID">Indonesia</Country>
+      <Country ID="11109" ISO2="IR">Iran</Country>
+      <Country ID="11110" ISO2="IQ">Iraq</Country>
+      <Country ID="11111" ISO2="IE">Ireland</Country>
+      <Country ID="11112" ISO2="IL">Israel</Country>
+      <Country ID="11113" ISO2="IT">Italy</Country>
+      <Country ID="11114" ISO2="JM">Jamaica</Country>
+      <Country ID="11115" ISO2="JP">Japan</Country>
+      <Country ID="11116" ISO2="JO">Jordan</Country>
+      <Country ID="11117" ISO2="KZ">Kazakhstan</Country>
+      <Country ID="11118" ISO2="KE">Kenya</Country>
+      <Country ID="11120" ISO2="KP">Korea, North</Country>
+      <Country ID="11121" ISO2="KR">Korea, South</Country>
+      <Country ID="11122" ISO2="KW">Kuwait</Country>
+      <Country ID="11123" ISO2="KG">Kyrgyzstan</Country>
+      <Country ID="11124" ISO2="LA">Laos</Country>
+      <Country ID="11125" ISO2="LV">Latvia</Country>
+      <Country ID="11126" ISO2="LB">Lebanon</Country>
+      <Country ID="11128" ISO2="LR">Liberia</Country>
+      <Country ID="11129" ISO2="LY">Libya</Country>
+      <Country ID="11130" ISO2="LI">Liechtenstein</Country>
+      <Country ID="11132" ISO2="LU">Luxembourg</Country>
+      <Country ID="11133" ISO2="MK">North Macedonia, The Republic of</Country>
+      <Country ID="11136" ISO2="MY">Malaysia</Country>
+      <Country ID="11137" ISO2="MV">Maldives</Country>
+      <Country ID="11138" ISO2="ML">Mali</Country>
+      <Country ID="11139" ISO2="MT">Malta</Country>
+      <Country ID="11140" ISO2="MH">Marshall Islands</Country>
+      <Country ID="11141" ISO2="MR">Mauritania</Country>
+      <Country ID="11143" ISO2="MX">Mexico</Country>
+      <Country ID="11145" ISO2="MD">Moldova</Country>
+      <Country ID="11146" ISO2="MC">Monaco</Country>
+      <Country ID="11147" ISO2="MN">Mongolia</Country>
+      <Country ID="11148" ISO2="MA">Morocco</Country>
+      <Country ID="11149" ISO2="MZ">Mozambique</Country>
+      <Country ID="11150" ISO2="NA">Namibia</Country>
+      <Country ID="11153" ISO2="NL">Netherlands</Country>
+      <Country ID="11154" ISO2="NZ">New Zealand</Country>
+      <Country ID="11155" ISO2="NI">Nicaragua</Country>
+      <Country ID="11156" ISO2="NE">Niger</Country>
+      <Country ID="11157" ISO2="NG">Nigeria</Country>
+      <Country ID="11158" ISO2="NO">Norway</Country>
+      <Country ID="11159" ISO2="OM">Oman</Country>
+      <Country ID="11160" ISO2="PK">Pakistan</Country>
+      <Country ID="11161" ISO2="PW">Palau</Country>
+      <Country ID="11162" ISO2="PA">Panama</Country>
+      <Country ID="11164" ISO2="PY">Paraguay</Country>
+      <Country ID="11165" ISO2="PE">Peru</Country>
+      <Country ID="11166" ISO2="PH">Philippines</Country>
+      <Country ID="11167" ISO2="PL">Poland</Country>
+      <Country ID="11168" ISO2="PT">Portugal</Country>
+      <Country ID="11169" ISO2="QA">Qatar</Country>
+      <Country ID="11170" ISO2="RO">Romania</Country>
+      <Country ID="11171" ISO2="RU">Russia</Country>
+      <Country ID="11172" ISO2="RW">Rwanda</Country>
+      <Country ID="11173" ISO2="KN">Saint Kitts and Nevis</Country>
+      <Country ID="11175" ISO2="VC">Saint Vincent and the Grenadines</Country>
+      <Country ID="11176" ISO2="WS">Samoa</Country>
+      <Country ID="11177" ISO2="SM">San Marino</Country>
+      <Country ID="11179" ISO2="SA">Saudi Arabia</Country>
+      <Country ID="11180" ISO2="SN">Senegal</Country>
+      <Country ID="11181" ISO2="RS">Serbia</Country>
+      <Country ID="11182" ISO2="SC">Seychelles</Country>
+      <Country ID="11183" ISO2="SL">Sierra Leone</Country>
+      <Country ID="11184" ISO2="SG">Singapore</Country>
+      <Country ID="11185" ISO2="SK">Slovakia</Country>
+      <Country ID="11186" ISO2="SI">Slovenia</Country>
+      <Country ID="11188" ISO2="SO">Somalia</Country>
+      <Country ID="11189" ISO2="ZA">South Africa</Country>
+      <Country ID="11190" ISO2="ES">Spain</Country>
+      <Country ID="11191" ISO2="LK">Sri Lanka</Country>
+      <Country ID="11192" ISO2="SD">Sudan</Country>
+      <Country ID="11195" ISO2="SE">Sweden</Country>
+      <Country ID="11196" ISO2="CH">Switzerland</Country>
+      <Country ID="11197" ISO2="SY">Syria</Country>
+      <Country ID="11198" ISO2="TJ">Tajikistan</Country>
+      <Country ID="11199" ISO2="TZ">Tanzania</Country>
+      <Country ID="11200" ISO2="TH">Thailand</Country>
+      <Country ID="11203" ISO2="TT">Trinidad and Tobago</Country>
+      <Country ID="11204" ISO2="TN">Tunisia</Country>
+      <Country ID="11205" ISO2="TR">Turkey</Country>
+      <Country ID="11206" ISO2="TM">Turkmenistan</Country>
+      <Country ID="11208" ISO2="UG">Uganda</Country>
+      <Country ID="11209" ISO2="UA">Ukraine</Country>
+      <Country ID="11210" ISO2="AE">United Arab Emirates</Country>
+      <Country ID="11211" ISO2="GB">United Kingdom</Country>
+      <Country ID="11212" ISO2="US">United States</Country>
+      <Country ID="11213" ISO2="UY">Uruguay</Country>
+      <Country ID="11214" ISO2="UZ">Uzbekistan</Country>
+      <Country ID="11215" ISO2="VU">Vanuatu</Country>
+      <Country ID="11216" ISO2="VE">Venezuela</Country>
+      <Country ID="11217" ISO2="VN">Vietnam</Country>
+      <Country ID="11218" ISO2="YE">Yemen</Country>
+      <Country ID="11219" ISO2="ZM">Zambia</Country>
+      <Country ID="11220" ISO2="ZW">Zimbabwe</Country>
+      <Country ID="11223" ISO2="AW">Aruba</Country>
+      <Country ID="11226" ISO2="BM">Bermuda</Country>
+      <Country ID="11230" ISO2="KY">Cayman Islands</Country>
+      <Country ID="11241" ISO2="GI">Gibraltar</Country>
+      <Country ID="11247" ISO2="HK">Hong Kong</Country>
+      <Country ID="11250" ISO2="JE">Jersey</Country>
+      <Country ID="11253" ISO2="MO">Macau</Country>
+      <Country ID="11254" ISO2="IM">Man, Isle of</Country>
+      <Country ID="11260">Netherlands Antilles</Country>
+      <Country ID="11278" ISO2="VG">Virgin Islands, British</Country>
+      <Country ID="11291">undetermined</Country>
+      <Country ID="11292">West Bank</Country>
+      <Country ID="11391" ISO2="TW">Taiwan</Country>
+      <Country ID="91021" ISO2="PS">Palestinian</Country>
+      <Country ID="91116">Kosovo</Country>
+      <Country ID="91192" ISO2="ME">Montenegro</Country>
+      <Country ID="91434">Region: Northern Mali</Country>
+      <Country ID="91501" ISO2="SS">South Sudan</Country>
+      <Country ID="91704">Region: Gaza</Country>
+</CountryValues>

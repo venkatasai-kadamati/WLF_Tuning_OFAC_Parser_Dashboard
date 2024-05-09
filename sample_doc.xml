@@ -1,0 +1,33 @@
+<Location ID="35144">
+    <LocationAreaCode AreaCodeID="11065" />
+    <LocationCountry CountryID="11065" CountryRelevanceID="1413" />
+    <LocationPart LocPartTypeID="1454">
+        <LocationPartValue Primary="true" LocPartValueTypeID="1" LocPartValueStatusID="1">
+            <Comment />
+            <Value>Dezhou</Value>
+        </LocationPartValue>
+        <LocationPartValue Primary="false" LocPartValueTypeID="1" LocPartValueStatusID="1">
+            <Comment>Chinese Simplified</Comment>
+            <Value>德州市</Value>
+        </LocationPartValue>
+        <LocationPartValue Primary="false" LocPartValueTypeID="1" LocPartValueStatusID="1">
+            <Comment>Chinese Traditional</Comment>
+            <Value>德州市</Value>
+        </LocationPartValue>
+    </LocationPart>
+    <LocationPart LocPartTypeID="1455">
+        <LocationPartValue Primary="true" LocPartValueTypeID="1" LocPartValueStatusID="1">
+            <Comment />
+            <Value>Shandong</Value>
+        </LocationPartValue>
+        <LocationPartValue Primary="false" LocPartValueTypeID="1" LocPartValueStatusID="1">
+            <Comment>Chinese Simplified</Comment>
+            <Value>山东</Value>
+        </LocationPartValue>
+        <LocationPartValue Primary="false" LocPartValueTypeID="1" LocPartValueStatusID="1">
+            <Comment>Chinese Traditional</Comment>
+            <Value>山東</Value>
+        </LocationPartValue>
+    </LocationPart>
+    <FeatureVersionReference FeatureVersionID="235144" />
+</Location>

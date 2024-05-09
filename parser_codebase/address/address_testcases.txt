@@ -34,7 +34,7 @@
 3. Test the quote's entry present in the fixedRef 
         - locationID's : 10157
         - For some figure out why quotes are added in the final csv output and why """"" thse are noticed
-        - **** SOL: The issue doesn't persist when opened in excel #### ASK : ALEX -- resolved
+        - **** SOL: The issue doesn't persist when opened in Excel #### ASK : ALEX -- resolved
 
 
 4. Country columns      
@@ -54,7 +54,7 @@ _________________________________________________
 
 Progress and Items:
 1. Parse the following as a row and populate the following columns 
-        fixedRef
+        fixedRef --- done
         address 1
         address 2
         address 3
