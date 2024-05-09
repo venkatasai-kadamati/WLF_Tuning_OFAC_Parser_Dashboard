@@ -9,6 +9,36 @@
         vi. Value
 ________________________________
 
+** Tested on:
+
+##### Test 1: Multiple entries with same identityID/ fixedRef but with no expiration and issue dates
+<IDRegDocument ID="4950" IDRegDocTypeID="1600" IdentityID="724" IssuedBy-CountryID="11143" ValidityID="1">
+<Comment />
+<IDRegistrationNo>ZANT690617MSLMBR01</IDRegistrationNo>
+<IssuingAuthority />
+<DocumentedNameReference DocumentedNameID="724" />
+</IDRegDocument>
+<IDRegDocument ID="4951" IDRegDocTypeID="1573" IdentityID="724" IssuedBy-CountryID="11143" ValidityID="1">
+<Comment />
+<IDRegistrationNo>ZANT-690617-B73</IDRegistrationNo>
+<IssuingAuthority />
+<DocumentedNameReference DocumentedNameID="724" />
+</IDRegDocument>
+<IDRegDocument ID="4952" IDRegDocTypeID="1571" IdentityID="724" IssuedBy-CountryID="11143" ValidityID="1">
+<Comment />
+<IDRegistrationNo>97040021870</IDRegistrationNo>
+<IssuingAuthority />
+<DocumentedNameReference DocumentedNameID="724" />
+</IDRegDocument>
+
+--> Above are tested on fixedRef = 10359 with corresponding identityID = 724
+
+##### Test 2: Multiple entries with same identityID/ fixedRef but with  expiration and issue dates
+
+--> Above are tested on fixedRef = 13057 and 13058 and 13061
+
+
+_______________________________
 1. ask what does issued by refer? is it issuing country or issuing authority
   ### ASK : ALEX --- resolved 
 2. Test the authority values 
