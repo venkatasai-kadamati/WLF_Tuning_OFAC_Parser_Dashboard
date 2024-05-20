@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="3a68f082-7bcc-44b6-8c7f-2f05c873651c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/parser_codebase/address/address_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser_codebase/address/output_address_demo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parser_codebase/address/output_address_demo.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_only_latinentries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_parser_consolidated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_parser_only_latin_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_codebase/address/sample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_codebase/features/feature_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_codebase/features/output_features.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parser_codebase/features/output_features.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
