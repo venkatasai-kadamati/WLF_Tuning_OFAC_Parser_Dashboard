@@ -194,7 +194,6 @@ country_map = {
     "91501": "South Sudan",
     "91704": "Region: Gaza",
 }
-
 # Create a mapping from FeatureVersionID to FixedRef
 feature_to_fixed_ref = {}
 for party in root.findall(".//ns:DistinctParty", ns):
@@ -241,6 +240,9 @@ for location in locations:
     country = location.find(".//ns:LocationCountry", ns)
     country_id = country.attrib["CountryID"] if country is not None else ""
     country_name = country_map.get(country_id, "")
+    # Remove the country code in parentheses
+    if " (" in country_name:
+        country_name = country_name.split(" (")[0]
     feature_version_ref = location.find(".//ns:FeatureVersionReference", ns)
     feature_version_id = (
         feature_version_ref.attrib["FeatureVersionID"]
@@ -253,7 +255,10 @@ for location in locations:
         "ID": location_id,
         "FixedRef": feature_to_fixed_ref.get(feature_version_id, ""),
         "AreaCodeID": area_code_id,
-        "Country": f"{country_name}",
+        "Country": country_name,
+        "CountryRelevanceID": (
+            country.attrib["CountryRelevanceID"] if country is not None else ""
+        ),
         "FeatureVersionID": feature_version_id,
         "Unknown": "",
         "Region": "",

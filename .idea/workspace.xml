@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a68f082-7bcc-44b6-8c7f-2f05c873651c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_testcases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/parser_codebase/address/address_testcases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/parser_codebase/address/address_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/parser_codebase/address/output_address_demo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parser_codebase/address/output_address_demo.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
