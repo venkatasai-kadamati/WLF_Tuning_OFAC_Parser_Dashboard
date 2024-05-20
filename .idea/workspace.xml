@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a68f082-7bcc-44b6-8c7f-2f05c873651c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/parser_codebase/address/countryvalues.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample_doc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WLF_Tuning_OFAC_Parser_Dashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WLF_Tuning_OFAC_Parser_Dashboard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_consolidated_MCOR.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_new_row.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_parser_consolidated.py" beforeDir="false" afterPath="$PROJECT_DIR$/parser_codebase/address/address_parser_consolidated.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_parser_new_row.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/parser_codebase/address/address_testcases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/parser_codebase/address/address_testcases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_codebase/address/output_address_demo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/parser_codebase/address/output_address_demo.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +45,18 @@
     "Python.address_parser_consolidated.executor": "Run",
     "Python.address_parser_new_row.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "grid.search.filter.rows": "true",
     "ignore.virus.scanning.warn.message": "true",
+    "ignore_missing_gitignore": "true",
     "last_opened_file_path": "C:/Users/kadam/OneDrive/Documents/GitHub/WLF_Tuning_OFAC_Parser_Dashboard/parser_codebase/address",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "database.data.views.appearance",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,8 +68,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-python-sdk-559ba0cadc45-1e0160e1c7f0-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.15989.62" />
       </set>
     </attachedChunks>
   </component>

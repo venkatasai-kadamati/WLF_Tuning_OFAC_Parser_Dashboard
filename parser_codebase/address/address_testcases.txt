@@ -70,4 +70,11 @@ Progress and Items:
         - Test on Location ID = 32808 // chinese simplified | traditional
         - Test on Location ID = 35144 // multiple entries of non-latin for single Location
 
-3. 
+_________________________________________________
+
+Reviewed Location ID's
+	1. 35144 : CHINESE Mix / simplified + traditional
+	2. 53606 : CYRILLIC
+	3. 26983 : JAPENSE
+        4. 37329 : JAPENSE
+        5. 43314 : CHINESE Simplified
